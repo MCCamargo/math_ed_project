@@ -1,0 +1,691 @@
+School Name,District Name,Reading/Writing Score,Math Score,Tests Taken,# Students SAT ELA Participation
+Seymour High School,Payson CUSD 1,462.2,476.1,41.0,41.0
+Liberty High School,Liberty CUSD 2,472.4,493.3,45.0,45.0
+Central High School,Central CUSD 3,480.0,469.8,49.0,49.0
+Unity High School,CUSD 4,463.8,435.9,39.0,39.0
+Quincy Sr High School,Quincy SD 172,480.1,461.9,425.0,425.0
+Brown County High School,Brown County CUSD 1,507.5,490.2,52.0,52.0
+Beardstown Jr/Sr High School,Beardstown CUSD 15,441.1,427.4,105.0,105.0
+Virginia Jr/ Sr High School,Virginia CUSD 64,468.9,483.3,18.0,18.0
+A-C Central High School,A-C Central CUSD 262,457.3,424.0,30.0,30.0
+Franklin Jr/Sr High School,Franklin CUSD 1,462.4,440.3,29.0,29.0
+Waverly Junior/Senior High Sch,Waverly CUSD 6,483.1,483.4,32.0,32.0
+Triopia Jr-Sr High School,Triopia CUSD 27,496.5,483.5,23.0,23.0
+Jacksonville High School,Jacksonville SD 117,474.6,461.2,191.0,191.0
+Pleasant Hill High School,Pleasant Hill CUSD 3,410.0,392.5,16.0,16.0
+Griggsville-Perry High School,Griggsville-Perry CUSD 4,437.0,422.5,20.0,20.0
+Pittsfield High School,Pikeland CUSD 10,479.1,455.1,76.0,76.0
+Western High School,Western CUSD 12,434.5,457.0,20.0,20.0
+Winchester High School,Winchester CUSD 1,457.3,454.4,52.0,52.0
+Bluffs High School,Scott-Morgan CUSD 2,412.8,425.6,18.0,18.0
+Mulberry Grove Sr High School,Mulberry Grove CUSD 1,430.7,453.7,27.0,27.0
+Bond Cty Comm Unit 2 High Scho,Bond County CUSD 2,494.7,492.1,129.0,129.0
+Morrisonville High School,Morrisonville CUSD 1,480.0,463.6,14.0,14.0
+Taylorville Sr High School,Taylorville CUSD 3,449.1,445.6,174.0,174.0
+Edinburg High School,Edinburg CUSD 4,476.9,463.1,13.0,13.0
+Pana Sr High School,Pana CUSD 8,481.9,468.4,91.0,91.0
+South Fork Jr Sr High School,South Fork SD 14,463.8,394.6,26.0,26.0
+Altamont High School,Altamont CUSD 10,466.9,453.1,55.0,55.0
+Beecher City Jr-Sr High School,Beecher City CUSD 20,459.6,482.3,26.0,26.0
+Dieterich Jr/Sr High School,Dieterich CUSD 30,485.8,481.9,31.0,31.0
+Effingham High School,Effingham CUSD 40,481.1,469.8,180.0,180.0
+Teutopolis High School,Teutopolis CUSD 50,512.7,502.9,82.0,82.0
+Brownstown High School,Brownstown CUSD 201,471.6,445.3,19.0,19.0
+St Elmo Sr High School,St Elmo CUSD 202,441.5,428.8,26.0,26.0
+Vandalia Community High School,Vandalia CUSD 203,464.7,459.9,83.0,83.0
+Ramsey High School,Ramsey CUSD 204,454.1,454.4,32.0,32.0
+Lincolnwood High School,Panhandle CUSD 2,471.2,471.2,33.0,33.0
+Hillsboro High School,Hillsboro CUSD 3,462.1,448.2,100.0,100.0
+Litchfield Senior High School,Litchfield CUSD 12,493.3,473.4,83.0,83.0
+Nokomis Jr/Sr High Sch,Nokomis CUSD 22,471.3,452.8,39.0,39.0
+Belvidere High School,Belvidere CUSD 100,458.6,439.0,271.0,271.0
+Belvidere North High Sch,Belvidere CUSD 100,500.2,472.4,293.0,293.0
+North Boone High School,North Boone CUSD 200,465.3,455.6,90.0,90.0
+Harlem High School,Harlem UD 122,474.3,457.8,420.0,420.0
+Auburn High School,Rockford SD 205,495.6,470.5,294.0,294.0
+Rockford East High School,Rockford SD 205,444.5,421.8,294.0,294.0
+Guilford High School,Rockford SD 205,482.1,451.1,347.0,347.0
+Jefferson High School,Rockford SD 205,437.5,417.7,343.0,343.0
+Hononegah CHD High School,Hononegah CHD 207,544.4,525.2,467.0,467.0
+South Beloit Sr High School,County of Winnebago SD 320,471.9,473.8,58.0,58.0
+Pecatonica High School,Pecatonica CUSD 321,523.4,514.7,59.0,59.0
+Durand High School,Durand CUSD 322,533.5,515.8,40.0,40.0
+Winnebago High School,Winnebago CUSD 323,507.3,496.5,107.0,107.0
+Evanston Twp High School,Evanston Twp HSD 202,547.2,533.6,803.0,803.0
+New Trier Township H S Winnetk,New Trier Twp HSD 203,613.0,612.5,978.0,978.0
+Maine East High School,Maine Township HSD 207,493.4,477.7,450.0,450.0
+Maine South High School,Maine Township HSD 207,556.9,551.6,578.0,578.0
+Maine West High School,Maine Township HSD 207,482.8,473.1,496.0,496.0
+J B Conant High School,Township HSD 211,540.4,551.4,591.0,591.0
+Wm Fremd High School,Township HSD 211,571.0,577.6,670.0,670.0
+Palatine High School,Township HSD 211,485.8,480.8,592.0,592.0
+Schaumburg High School,Township HSD 211,519.5,537.5,535.0,535.0
+Hoffman Estates High School,Township HSD 211,511.8,517.1,494.0,494.0
+Elk Grove High School,Township HSD 214,498.0,487.9,458.0,458.0
+John Hersey High School,Township HSD 214,571.2,560.7,490.0,490.0
+Prospect High School,Township HSD 214,567.0,566.9,540.0,540.0
+Wheeling High School,Township HSD 214,491.3,484.1,409.0,409.0
+Rolling Meadows High School,Township HSD 214,516.7,507.0,464.0,464.0
+Buffalo Grove High School,Township HSD 214,530.8,541.4,485.0,485.0
+Niles North High School,Niles Twp HSD 219,526.5,513.5,456.0,456.0
+Niles West High School,Niles Twp HSD 219,524.5,521.1,587.0,587.0
+Glenbrook North High School,Northfield Twp HSD 225,583.2,591.3,497.0,497.0
+Glenbrook South High School,Northfield Twp HSD 225,573.5,571.5,726.0,726.0
+Oak Park & River Forest High S,Oak Park - River Forest SD 200,571.7,549.9,778.0,778.0
+J Sterling Morton East High Sc,J S Morton HSD 201,438.0,420.7,1063.0,1063.0
+J Sterling Morton West High Sc,J S Morton HSD 201,458.3,436.5,748.0,748.0
+Lyons Twp High Sch,Lyons Twp HSD 204,547.1,543.1,1001.0,1001.0
+Riverside Brookfield Twp HS,Riverside-Brookfield Twp SD 20,530.7,520.8,402.0,402.0
+Proviso East High School,Proviso Twp HSD 209,413.7,393.1,386.0,386.0
+Proviso West High School,Proviso Twp HSD 209,442.2,417.9,282.0,282.0
+Proviso Math and Science Acade,Proviso Twp HSD 209,535.4,521.0,193.0,193.0
+East Leyden High School,Leyden CHSD 212,479.2,467.2,364.0,364.0
+West Leyden High School,Leyden CHSD 212,458.7,439.2,366.0,366.0
+Ridgewood Comm High School,Ridgewood CHSD 234,494.4,468.8,199.0,199.0
+Elmwood Park High School,Elmwood Park CUSD 401,493.5,478.1,242.0,242.0
+Thornton Township High School,Thornton Twp HSD 205,436.0,418.1,314.0,314.0
+Thornridge High School,Thornton Twp HSD 205,428.6,408.2,180.0,180.0
+Thornwood High School,Thornton Twp HSD 205,440.8,422.6,368.0,368.0
+Bloom High School,Bloom Twp HSD 206,443.7,423.7,265.0,265.0
+Bloom Trail High School,Bloom Twp HSD 206,450.8,423.1,194.0,194.0
+Lemont Twp High School,Lemont Twp HSD 210,533.3,534.5,319.0,319.0
+Thornton Fractnl No High Schoo,Thornton Fractional Twp HSD 21,438.4,417.2,264.0,264.0
+Thornton Fractnl So High Schoo,Thornton Fractional Twp HSD 21,453.9,430.2,462.0,462.0
+Argo Community High School,Argo CHSD 217,461.8,461.3,451.0,451.0
+DD Eisenhower High Sch (Campus,CHSD 218,447.3,440.1,379.0,379.0
+H L Richards High Sch(Campus),CHSD 218,463.3,450.4,402.0,402.0
+A B Shepard High Sch (Campus),CHSD 218,479.9,462.3,433.0,433.0
+Reavis High School,Reavis Twp HSD 220,468.9,458.9,443.0,443.0
+Rich Township High School,Rich Twp HSD 227,432.3,412.8,521.0,521.0
+Bremen High School,Bremen CHSD 228,449.9,433.0,314.0,314.0
+Tinley Park High School,Bremen CHSD 228,479.1,475.1,261.0,261.0
+Hillcrest High School,Bremen CHSD 228,418.8,411.2,247.0,247.0
+Oak Forest High School,Bremen CHSD 228,486.9,484.2,314.0,314.0
+Oak Lawn Comm High School,Oak Lawn CHSD 229,471.6,471.9,420.0,420.0
+Carl Sandburg High School,Cons HSD 230,531.5,522.5,703.0,703.0
+Amos Alonzo Stagg High School,Cons HSD 230,501.0,495.2,616.0,616.0
+Victor J Andrew High School,Cons HSD 230,504.4,499.2,534.0,534.0
+Evergreen Park High School,Evergreen Park CHSD 231,476.6,471.0,226.0,226.0
+Homewood-Flossmoor High School,Homewood Flossmoor CHSD 233,487.3,473.9,660.0,660.0
+Southland College Prep Charter,Southland College Prep Charter,507.0,467.5,116.0,116.0
+Eastland Jr/Sr High School,Eastland CUSD 308,507.1,495.7,49.0,49.0
+West Carroll High School,West Carroll CUSD 314,451.0,439.6,52.0,52.0
+Chadwick-Milledgeville Jr/Sr H,Chadwick-Milledgeville CUSD 39,489.1,468.0,35.0,35.0
+East Dubuque High School,East Dubuque USD 119,500.8,490.4,50.0,50.0
+Galena High School,Galena USD 120,503.0,504.0,57.0,57.0
+Warren Jr/Sr High School,Warren CUSD 205,471.7,485.0,18.0,18.0
+Stockton Sr High School,Stockton CUSD 206,485.9,491.7,46.0,46.0
+River Ridge High School,River Ridge CUSD 210,497.0,515.9,37.0,37.0
+Scales Mound High School,Scales Mound CUSD 211,490.0,513.8,21.0,21.0
+Freeport High School,Freeport SD 145,457.0,427.9,212.0,212.0
+Pearl City High School,Pearl City CUSD 200,476.7,475.8,33.0,33.0
+Dakota Jr Sr High School,Dakota CUSD 201,499.1,489.6,70.0,70.0
+Lena-Winslow High School,Lena Winslow CUSD 202,483.0,489.2,63.0,63.0
+Orangeville High School,Orangeville CUSD 203,526.7,499.2,24.0,24.0
+Fisher Jr/Sr High School,Fisher CUSD 1,511.6,514.9,37.0,37.0
+Mahomet-Seymour High School,Mahomet-Seymour CUSD 3,542.0,560.7,246.0,246.0
+Centennial High School,Champaign CUSD 4,480.7,477.3,291.0,291.0
+Central High School,Champaign CUSD 4,503.3,493.8,295.0,295.0
+Unity High School,Tolono CUSD 7,528.8,514.3,120.0,120.0
+Heritage High School,Heritage CUSD 8,486.8,457.5,28.0,28.0
+Urbana High School,Urbana SD 116,484.5,458.4,212.0,212.0
+Rantoul Twp High School,Rantoul Township HSD 193,431.6,416.0,171.0,171.0
+St Joseph-Ogden High School,St Joseph Ogden CHSD 305,528.4,540.8,104.0,104.0
+GCMS High School,Gibson City-Melvin-Sibley CUSD,508.4,504.5,56.0,56.0
+Paxton-Buckley-Loda High Schoo,Paxton-Buckley-Loda CUD 10,491.2,507.4,99.0,99.0
+Marshall High School,Marshall CUSD 2C,501.9,483.8,69.0,69.0
+Martinsville Jr-Sr High School,Martinsville CUSD 3C,462.6,466.3,19.0,19.0
+Casey-Westfield Jr/Sr HS,Casey-Westfield CUSD 4C,476.7,472.0,55.0,55.0
+Charleston High School,Charleston CUSD 1,478.1,460.3,207.0,207.0
+Mattoon High School,Mattoon CUSD 2,467.2,444.7,183.0,183.0
+Oakland High School,Oakland CUSD 5,487.2,462.8,18.0,18.0
+Neoga Jr/Sr High School,Neoga CUSD 3,503.5,486.3,51.0,51.0
+Cumberland High School,Cumberland CUSD 77,480.6,473.5,63.0,63.0
+Tuscola High School,Tuscola CUSD 301,479.7,468.6,64.0,64.0
+Villa Grove High School,Villa Grove CUSD 302,475.6,462.9,45.0,45.0
+Arthur-Lovington-Atwood-Hammon,Arthur CUSD 305,497.1,485.7,68.0,68.0
+Arcola High School,Arcola CUSD 306,446.8,441.2,57.0,57.0
+Shiloh High School,Shiloh CUSD 1,444.8,422.6,27.0,27.0
+Kansas High School,Kansas CUSD 3,445.0,451.7,12.0,12.0
+Chrisman High School,Edgar County CUD 6,471.3,447.0,23.0,23.0
+Paris Cooperative High School,Paris Cooperative High School,474.4,457.4,108.0,108.0
+Sullivan High School,Sullivan CUSD 300,491.2,467.0,66.0,66.0
+Okaw Valley High School,Okaw Valley CUSD 302,467.9,456.2,39.0,39.0
+Windsor Jr & Sr High School,Windsor CUSD 1,484.2,453.1,26.0,26.0
+Cowden-Herrick Jr/Sr High Scho,Cowden-Herrick CUSD 3A,439.6,432.5,24.0,24.0
+Shelbyville High School,Shelbyville CUSD 4,479.2,464.0,78.0,78.0
+Stewardson-Strasburg High Scho,Stewardson-Strasburg CUD 5A,489.4,474.7,32.0,32.0
+Central A & M High School,Central A & M CUD 21,469.8,446.9,51.0,51.0
+Clay City High School,Clay City CUSD 10,534.0,492.0,10.0,10.0
+North Clay Community High Scho,North Clay CUSD 25,460.6,467.5,48.0,48.0
+Flora High School,Flora CUSD 35,460.4,439.4,77.0,77.0
+Hutsonville High School,Hutsonville CUSD 1,473.6,450.4,28.0,28.0
+Robinson High School,Robinson CUSD 2,473.2,466.1,109.0,109.0
+Palestine High School,Palestine CUSD 3,471.1,468.3,18.0,18.0
+Oblong High School,Oblong CUSD 4,447.1,453.9,41.0,41.0
+Newton Comm High School,Jasper County CUD 1,474.2,469.7,100.0,100.0
+Red Hill Jr/Sr High School,Red Hill CUSD 10,464.1,442.8,61.0,61.0
+Lawrenceville High School,Lawrence County CUD 20,468.5,441.6,80.0,80.0
+Richland County High School,Richland County CUSD 1,469.2,466.6,161.0,161.0
+Carlyle High School,Carlyle CUSD 1,471.4,462.7,63.0,63.0
+Wesclin Sr High School,Wesclin CUSD 3,503.6,491.5,89.0,89.0
+Central Comm High School,Central CHSD 71,499.1,503.7,159.0,159.0
+Waltonville High School,Waltonville CUSD 1,454.8,457.3,33.0,33.0
+Mount Vernon High School,Mt Vernon Twp HSD 201,447.5,438.7,240.0,240.0
+Woodlawn High School,Woodlawn Unit School District ,488.3,467.7,52.0,52.0
+Webber High School,Bluford Unit School District 3,456.1,440.0,28.0,28.0
+Patoka Sr High School,Patoka CUSD 100,485.4,466.9,13.0,13.0
+Centralia High School,Centralia HSD 200,470.6,466.9,143.0,143.0
+South Central High School,South Central CUD 401,479.5,454.1,59.0,59.0
+Sandoval Sr High School,Sandoval CUSD 501,424.5,407.5,20.0,20.0
+Salem Community High School,Salem CHSD 600,459.3,458.6,141.0,141.0
+Odin Attendance Center 9-12,Odin PSD 722,446.4,438.6,14.0,14.0
+Okawville Jr/Sr High School,West Washington Co CUD 10,494.0,495.2,42.0,42.0
+Nashville Comm High School,Nashville CHSD 99,484.9,469.6,101.0,101.0
+Amundsen High School,City of Chicago SD 299,487.3,475.9,311.0,311.0
+Bogan High School,City of Chicago SD 299,400.1,391.6,176.0,176.0
+Carver Military Academy HS,City of Chicago SD 299,448.8,431.5,93.0,93.0
+Farragut Career Academy HS,City of Chicago SD 299,405.9,397.2,116.0,116.0
+Fenger Academy High School,City of Chicago SD 299,401.3,380.0,62.0,62.0
+Foreman High School,City of Chicago SD 299,401.0,390.8,120.0,120.0
+Back of The Yards IB HS,City of Chicago SD 299,470.5,468.7,261.0,261.0
+Gage Park High School,City of Chicago SD 299,393.5,388.6,107.0,107.0
+Harlan Community Academy HS,City of Chicago SD 299,398.7,388.0,83.0,83.0
+Hirsch Metropolitan High Schoo,City of Chicago SD 299,374.4,365.6,27.0,27.0
+Hubbard High School,City of Chicago SD 299,440.2,416.5,425.0,425.0
+Hyde Park Academy High School,City of Chicago SD 299,405.6,386.7,168.0,168.0
+Thomas Kelly College Preparato,City of Chicago SD 299,434.6,430.9,419.0,419.0
+Kelvyn Park High School,City of Chicago SD 299,409.7,389.8,63.0,63.0
+Kennedy High School,City of Chicago SD 299,466.3,448.7,331.0,331.0
+Kenwood Academy High School,City of Chicago SD 299,505.1,482.9,404.0,404.0
+Lake View High School,City of Chicago SD 299,447.4,433.2,307.0,307.0
+Lane Technical High School,City of Chicago SD 299,607.7,607.0,1047.0,1047.0
+Marshall Metropolitan High Sch,City of Chicago SD 299,389.3,386.7,70.0,70.0
+Mather High School,City of Chicago SD 299,450.2,441.2,392.0,392.0
+Morgan Park High School,City of Chicago SD 299,419.4,400.3,231.0,231.0
+Phillips Academy High School,City of Chicago SD 299,402.2,398.8,170.0,170.0
+Roosevelt High School,City of Chicago SD 299,409.2,400.1,213.0,213.0
+Schurz High School,City of Chicago SD 299,423.5,416.9,323.0,323.0
+Senn High School,City of Chicago SD 299,469.5,454.0,338.0,338.0
+King College Prep High School,City of Chicago SD 299,488.8,476.3,112.0,112.0
+Steinmetz College Prep HS,City of Chicago SD 299,423.0,407.9,328.0,328.0
+Sullivan High School,City of Chicago SD 299,429.5,420.6,65.0,65.0
+Taft High School,City of Chicago SD 299,488.0,468.9,792.0,792.0
+Tilden Career Communty Academy,City of Chicago SD 299,404.4,393.8,45.0,45.0
+Von Steuben Metro Science HS,City of Chicago SD 299,514.1,507.0,404.0,404.0
+Lincoln Park High School,City of Chicago SD 299,533.1,525.9,511.0,511.0
+Washington G High School,City of Chicago SD 299,439.2,418.5,310.0,310.0
+Wells Community Academy HS,City of Chicago SD 299,401.1,389.9,71.0,71.0
+Crane Medical Prep HS,City of Chicago SD 299,437.8,424.9,92.0,92.0
+Disney II Magnet HS,City of Chicago SD 299,486.2,463.6,112.0,112.0
+Urban Prep Chtr Acad Englewood,City of Chicago SD 299,413.3,389.1,43.0,43.0
+IHSCA Charter High School,City of Chicago SD 299,403.6,395.7,150.0,150.0
+Urban Prep Chtr Acad Bronzevil,City of Chicago SD 299,412.3,393.7,87.0,87.0
+EPIC Academy High School,City of Chicago SD 299,439.3,409.1,102.0,102.0
+Legal Prep Academy Charter HS,City of Chicago SD 299,399.8,404.9,43.0,43.0
+Intrinsic Charter High School,City of Chicago SD 299,451.7,452.9,154.0,154.0
+CICS - Quest North Campus,City of Chicago SD 299,408.9,395.7,28.0,28.0
+Noble St Chtr-Pritzker College,City of Chicago SD 299,470.2,476.4,210.0,210.0
+Noble St Chtr Rauner College P,City of Chicago SD 299,464.8,454.1,129.0,129.0
+Noble St Chtr-Rowe-Clark MS Ac,City of Chicago SD 299,427.5,415.6,105.0,105.0
+Noble St Chtr-Golder College P,City of Chicago SD 299,455.9,437.9,170.0,170.0
+Noble St Chtr-Comer College Pr,City of Chicago SD 299,437.9,435.3,188.0,188.0
+Noble St Chtr-UIC College Prep,City of Chicago SD 299,466.2,448.8,233.0,233.0
+Noble St Chtr-Chicago Bulls Pr,City of Chicago SD 299,462.6,456.9,243.0,243.0
+Noble St Chtr-Muchin College P,City of Chicago SD 299,466.7,455.6,254.0,254.0
+Noble St Chtr-Johnson College ,City of Chicago SD 299,409.5,394.7,150.0,150.0
+Noble St Chtr-Hansberry Colleg,City of Chicago SD 299,434.5,418.0,116.0,116.0
+Noble St Chtr-DRW Trading Coll,City of Chicago SD 299,429.1,385.5,53.0,53.0
+Noble St Chtr-Butler College P,City of Chicago SD 299,415.7,406.6,148.0,148.0
+Noble St Chtr-Baker Campus,City of Chicago SD 299,432.8,423.3,39.0,39.0
+Noble St Chtr-Noble Campus,City of Chicago SD 299,460.7,444.3,157.0,157.0
+Noble St Chtr-ITW Speer Acad,City of Chicago SD 299,465.4,460.6,268.0,268.0
+Noble St Chtr-The Noble Academ,City of Chicago SD 299,471.7,443.8,117.0,117.0
+Noble St Chtr - Mansueto,City of Chicago SD 299,455.3,449.2,290.0,290.0
+North Lawndale Prep Chtr-Colli,City of Chicago SD 299,410.2,389.6,96.0,96.0
+Acero Chtr Sch Newtwork- Sor J,City of Chicago SD 299,423.6,409.2,25.0,25.0
+Perspectives Chtr - Joslin Cam,City of Chicago SD 299,414.2,390.0,65.0,65.0
+Perspectives Chtr - Leadership,City of Chicago SD 299,408.6,398.6,77.0,77.0
+Chicago Vocational Career Acad,City of Chicago SD 299,401.2,386.4,192.0,192.0
+Perspectives Chtr - High Schoo,City of Chicago SD 299,423.5,412.5,75.0,75.0
+Dunbar Vocational Career Acad ,City of Chicago SD 299,407.5,390.4,52.0,52.0
+Jones College Prep High School,City of Chicago SD 299,640.3,641.5,492.0,492.0
+Prosser Career Academy HS,City of Chicago SD 299,466.0,436.8,233.0,233.0
+Richards Career Academy HS,City of Chicago SD 299,384.2,372.2,67.0,67.0
+Simeon Career Academy High Sch,City of Chicago SD 299,415.2,405.0,312.0,312.0
+Perspectives Chtr -  IIT Campu,City of Chicago SD 299,406.4,385.0,100.0,100.0
+Corliss High School,City of Chicago SD 299,389.7,385.8,64.0,64.0
+Clemente Community Academy HS,City of Chicago SD 299,411.3,398.6,126.0,126.0
+YCCS-ASPIRA Pantoja Alt HS,City of Chicago SD 299,398.5,384.6,48.0,48.0
+YCCS-Austin Career Ed Cntr HS,City of Chicago SD 299,369.0,350.0,10.0,10.0
+YCCS-Progressive Leadership Ac,City of Chicago SD 299,415.0,387.9,14.0,14.0
+Manley Career Academy High Sch,City of Chicago SD 299,377.1,375.8,24.0,24.0
+Curie Metropolitan High School,City of Chicago SD 299,444.6,440.1,624.0,624.0
+YCCS-Albizu Campos Puerto Rica,City of Chicago SD 299,374.5,367.3,22.0,22.0
+YCCS-Jane Addams Alternative H,City of Chicago SD 299,434.4,410.3,34.0,34.0
+YCCS-Latino Youth Alternative ,City of Chicago SD 299,420.0,397.5,55.0,55.0
+YCCS-West Town Academy Alt HS,City of Chicago SD 299,392.2,377.8,32.0,32.0
+ASPIRA Charter - Early College,City of Chicago SD 299,416.2,391.6,86.0,86.0
+Julian High School,City of Chicago SD 299,388.5,377.1,95.0,95.0
+Young Magnet High School,City of Chicago SD 299,640.3,642.1,470.0,470.0
+Juarez Community Academy HS,City of Chicago SD 299,437.4,417.7,369.0,369.0
+Chicago HS for Agricult Scienc,City of Chicago SD 299,485.6,457.4,165.0,165.0
+Hancock College Preparatory HS,City of Chicago SD 299,524.6,517.7,250.0,250.0
+Brooks College Prep Academy HS,City of Chicago SD 299,549.3,522.9,200.0,200.0
+Northside College Preparatory ,City of Chicago SD 299,656.2,662.0,263.0,263.0
+Chicago Military Academy HS,City of Chicago SD 299,426.5,424.8,62.0,62.0
+Payton College Preparatory HS,City of Chicago SD 299,675.8,675.0,288.0,288.0
+Aspira Charter - Business and ,City of Chicago SD 299,421.8,401.8,130.0,130.0
+Phoenix Military Academy HS,City of Chicago SD 299,476.0,442.4,126.0,126.0
+Spry Community Links High Scho,City of Chicago SD 299,403.9,392.3,31.0,31.0
+Chicago Academy High School,City of Chicago SD 299,476.5,451.8,144.0,144.0
+Bowen High School,City of Chicago SD 299,391.3,375.9,46.0,46.0
+North-Grand High School,City of Chicago SD 299,423.4,410.9,179.0,179.0
+Raby High School,City of Chicago SD 299,396.7,380.2,42.0,42.0
+Clark Acad Prep Magnet High Sc,City of Chicago SD 299,406.2,397.2,101.0,101.0
+Rickover Naval Academy High Sc,City of Chicago SD 299,448.4,445.8,91.0,91.0
+Uplift Community High School,City of Chicago SD 299,459.2,406.2,13.0,13.0
+CICS - Northtown  Campus,City of Chicago SD 299,458.5,442.2,226.0,226.0
+World Language High School,City of Chicago SD 299,444.5,429.3,74.0,74.0
+Douglass Academy High School,City of Chicago SD 299,369.0,355.0,10.0,10.0
+Devry Advantage Academy High S,City of Chicago SD 299,507.3,493.0,84.0,84.0
+Lindblom Math & Science Acad H,City of Chicago SD 299,534.2,528.1,224.0,224.0
+Bronzeville Scholastic HS,City of Chicago SD 299,413.3,392.5,12.0,12.0
+School of Social Justice HS,City of Chicago SD 299,413.5,403.2,77.0,77.0
+Multicultural Arts High School,City of Chicago SD 299,391.8,385.8,45.0,45.0
+Infinity Math  Science & Tech ,City of Chicago SD 299,449.4,453.4,89.0,89.0
+CICS - Ralph Ellison Campus,City of Chicago SD 299,392.0,386.0,45.0,45.0
+Collins Academy High School,City of Chicago SD 299,401.3,391.0,30.0,30.0
+Austin College and Career Acad,City of Chicago SD 299,381.1,384.8,71.0,71.0
+Orr Academy High School,City of Chicago SD 299,403.4,390.8,73.0,73.0
+Air Force Acad High School,City of Chicago SD 299,439.2,424.3,51.0,51.0
+Alcott College Prep,City of Chicago SD 299,447.3,438.1,85.0,85.0
+North Lawndale Prep Chtr - Chr,City of Chicago SD 299,412.8,394.3,80.0,80.0
+Chicago Technology Academy HS,City of Chicago SD 299,421.2,401.8,34.0,34.0
+Chicago HS for the Arts,City of Chicago SD 299,499.6,460.1,121.0,121.0
+Ogden Int High School,City of Chicago SD 299,463.9,447.7,152.0,152.0
+Williams Medical Prep High Sch,City of Chicago SD 299,411.8,404.7,17.0,17.0
+Westinghouse High School,City of Chicago SD 299,497.1,487.3,262.0,262.0
+Solorio Academy High School,City of Chicago SD 299,465.5,461.3,286.0,286.0
+Acero Chtr Sch Network -  Majo,City of Chicago SD 299,449.7,423.0,145.0,145.0
+South Shore Intl Col Prep HS,City of Chicago SD 299,454.0,427.1,135.0,135.0
+Goode STEM Academy HS,City of Chicago SD 299,424.9,417.4,212.0,212.0
+Chicago Excel Academy HS,City of Chicago SD 299,388.0,371.2,65.0,65.0
+Walter Henri Dyett High School,City of Chicago SD 299,422.1,409.9,140.0,140.0
+Englewood STEM High School,City of Chicago SD 299,399.0,380.0,10.0,10.0
+Acero Chtr Sch Network Victori,City of Chicago SD 299,417.5,402.1,110.0,110.0
+Univ of Chicago Chtr-Woodlawn,City of Chicago SD 299,433.8,414.9,90.0,90.0
+Chicago Math & Sci Elem Charte,City of Chicago SD 299,478.0,503.7,81.0,81.0
+Catalyst Charter - Maria ES,City of Chicago SD 299,426.6,396.4,135.0,135.0
+Chicago Collegiate Charter Sch,City of Chicago SD 299,411.5,419.6,27.0,27.0
+Horizon Sci Academy - Southwes,City of Chicago SD 299,426.3,425.0,24.0,24.0
+CICS - Longwood Campus,City of Chicago SD 299,389.2,382.3,83.0,83.0
+Marine Leadership Academy - Am,City of Chicago SD 299,465.1,436.2,124.0,124.0
+Horizon Science Acad-McKinley ,Horizon Science Acad-McKinley ,477.0,449.4,53.0,53.0
+ACE Amandla Charter School,ACE Amandla Charter School,405.8,388.3,12.0,12.0
+Urban Prep West Charter School,Urban Prep West Charter School,401.7,379.6,24.0,24.0
+Genoa-Kingston High School,Genoa Kingston CUSD 424,471.2,463.7,110.0,110.0
+Indian Creek High School,Indian Creek CUSD 425,488.7,473.6,61.0,61.0
+Hiawatha Jr/Sr High School,Hiawatha CUSD 426,466.9,461.3,32.0,32.0
+Sycamore High School,Sycamore CUSD 427,513.2,497.2,278.0,278.0
+DeKalb High School,DeKalb CUSD 428,483.2,456.3,353.0,353.0
+Hinckley-Big Rock High School,Hinckley Big Rock CUSD 429,521.3,511.2,52.0,52.0
+Sandwich Community High School,Sandwich CUSD 430,484.8,472.8,129.0,129.0
+Somonauk High School,Somonauk CUSD 432,491.7,481.7,63.0,63.0
+Clinton High School,Clinton CUSD 15,478.8,461.6,107.0,107.0
+Blue Ridge High School,Blue Ridge CUSD 18,491.5,484.9,47.0,47.0
+Woodland High School,Woodland CUSD 5,478.6,474.9,37.0,37.0
+Tri-Point High School,Tri Point CUSD 6-J,452.4,444.8,29.0,29.0
+Prairie Central High School,Prairie Central CUSD 8,471.5,471.7,117.0,117.0
+Flanagan-Cornell High School,Flanagan-Cornell Dist 74,435.2,435.0,42.0,42.0
+Pontiac High School,Pontiac Twp HSD 90,485.4,477.6,160.0,160.0
+Dwight High School,Dwight Twp HSD 230,447.5,473.8,48.0,48.0
+Hartsburg-Emden Jr-Sr High Sch,Hartsburg Emden CUSD 21,460.6,445.0,16.0,16.0
+Mount Pulaski High School,Mt Pulaski CUSD 23,512.4,487.9,38.0,38.0
+Lincoln Comm High School,Lincoln CHSD 404,484.4,465.8,210.0,210.0
+LeRoy High School,LeRoy CUSD 2,495.3,482.4,49.0,49.0
+Tri-Valley High School,Tri Valley CUSD 3,543.9,534.9,70.0,70.0
+Heyworth Jr-Sr High School,Heyworth CUSD 4,471.0,473.9,59.0,59.0
+Normal Community High School,McLean County USD 5,519.4,519.0,488.0,488.0
+Normal Community West High Sch,McLean County USD 5,501.3,490.4,362.0,362.0
+Lexington High School,Lexington CUSD 7,484.1,480.0,32.0,32.0
+Olympia High School,Olympia CUSD 16,507.9,495.3,104.0,104.0
+Ridgeview High School,Ridgeview CUSD 19,455.2,448.1,42.0,42.0
+Bloomington High School,Bloomington SD 87,493.0,472.7,211.0,211.0
+Hinsdale Central High School,Hinsdale Twp HSD 86,599.7,605.1,647.0,647.0
+Hinsdale South High School,Hinsdale Twp HSD 86,535.5,529.6,300.0,300.0
+Glenbard East High School,Glenbard Twp HSD 87,494.8,487.8,538.0,538.0
+Glenbard North High School,Glenbard Twp HSD 87,502.4,488.4,556.0,556.0
+Glenbard West High School,Glenbard Twp HSD 87,552.7,551.8,548.0,548.0
+Glenbard South High School,Glenbard Twp HSD 87,525.2,529.3,244.0,244.0
+Addison Trail High School,DuPage HSD 88,491.6,483.1,317.0,317.0
+Willowbrook High School,DuPage HSD 88,516.7,504.4,351.0,351.0
+Community High School,CHSD 94,468.0,460.0,435.0,435.0
+Comm H S Dist 99 - North H S,CHSD 99,546.4,547.6,529.0,529.0
+Comm H S Dist 99 - South High ,CHSD 99,518.4,520.5,654.0,654.0
+Fenton High School,Fenton CHSD 100,483.0,463.5,328.0,328.0
+Lake Park High School,Lake Park CHSD 108,524.1,514.0,597.0,597.0
+Wheaton Warrenville South H S,CUSD 200,539.6,528.5,435.0,435.0
+Wheaton North High School,CUSD 200,545.4,538.1,482.0,482.0
+Westmont High School,CUSD 201,548.6,539.9,95.0,95.0
+Lisle High School,Lisle CUSD 202,507.9,508.1,108.0,108.0
+Naperville Central High School,Naperville CUSD 203,566.3,564.3,655.0,655.0
+Naperville North High School,Naperville CUSD 203,577.1,582.8,689.0,689.0
+Waubonsie Valley High School,Indian Prairie CUSD 204,546.2,541.0,620.0,620.0
+Neuqua Valley High School,Indian Prairie CUSD 204,588.6,592.3,825.0,825.0
+Metea Valley High School,Indian Prairie CUSD 204,557.5,559.7,720.0,720.0
+York Comm High School,Elmhurst SD 205,558.6,565.8,694.0,694.0
+Edwards County High School,Edwards County CUSD 1,496.3,490.3,64.0,64.0
+Gallatin High School,Gallatin CUSD 7,450.7,441.7,41.0,41.0
+Hamilton County Jr/Sr High Sch,Hamilton Co CUSD 10,459.7,455.1,88.0,88.0
+Hardin County High School,Hardin County CUSD 1,460.6,443.9,31.0,31.0
+Pope Co High School,Pope Co CUD 1,444.0,428.0,40.0,40.0
+Galatia High School,Galatia CUSD 1,469.6,450.0,25.0,25.0
+Carrier Mills-Stonefort H S,Carrier Mills-Stonefort CUSD 2,433.9,419.4,36.0,36.0
+Harrisburg High School,Harrisburg CUSD 3,451.3,418.9,129.0,129.0
+Eldorado High School,Eldorado CUSD 4,443.2,411.6,82.0,82.0
+Mount Carmel High School,Wabash CUSD 348,458.3,452.0,114.0,114.0
+Wayne City High School,Wayne City CUSD 100,425.5,441.0,29.0,29.0
+Cisne High School,North Wayne CUSD 200,452.4,446.5,17.0,17.0
+Fairfield Comm High School,Fairfield Comm H S Dist 225,462.7,448.4,94.0,94.0
+Grayville Jr Sr High School,Grayville CUSD 1,492.3,448.5,13.0,13.0
+Norris City-Omaha-Enfield H S,Norris City-Omaha-Enfield CUSD,431.0,422.2,41.0,41.0
+Carmi-White County High School,Carmi-White County CUSD 5,470.9,458.0,81.0,81.0
+Christopher High,Christopher USD 99,431.8,431.1,57.0,57.0
+Benton Cons High School,Benton Cons HSD 103,478.0,465.5,132.0,132.0
+Frankfort Community High Schoo,Frankfort CUSD 168,445.3,427.3,88.0,88.0
+Thompsonville High School,Thompsonville CUSD 174,448.6,435.7,28.0,28.0
+Zeigler-Royalton High School,Zeigler-Royalton CUSD 188,463.8,447.7,39.0,39.0
+Sesser-Valier High School,Sesser-Valier CUSD 196,499.3,477.1,42.0,42.0
+Goreville High School,Goreville CUD 1,478.1,479.2,36.0,36.0
+Vienna High School,Vienna HSD 133,469.0,445.5,77.0,77.0
+Massac County High School,Massac UD 1,479.2,446.5,129.0,129.0
+Joppa Jr & Sr High School,Joppa-Maple Grove UD 38,475.5,486.4,11.0,11.0
+Johnston City High School,Johnston City CUSD 1,453.3,448.0,81.0,81.0
+Marion High School,Marion CUSD 2,466.5,447.2,249.0,249.0
+Crab Orchard High School,Crab Orchard CUSD 3,478.5,464.1,27.0,27.0
+Herrin High School,Herrin CUSD 4,487.9,468.1,140.0,140.0
+Carterville High School,Carterville CUSD 5,525.4,505.9,154.0,154.0
+Coal City High School,Coal City CUSD 1,489.3,493.3,153.0,153.0
+Gardner-South Wilmington Twp H,Gardner S Wilmington Twp HSD 7,500.6,492.9,49.0,49.0
+Morris Community High School,Morris CHSD 101,491.8,490.4,199.0,199.0
+Minooka Community High School,Minooka CHSD 111,507.0,491.3,631.0,631.0
+Newark Comm High School,Newark CHSD 18,515.7,485.7,44.0,44.0
+Plano High School,Plano CUSD 88,475.1,450.3,158.0,158.0
+Yorkville High School,Yorkville CUSD 115,511.6,498.6,464.0,464.0
+Oswego High School,CUSD 308,505.8,488.7,666.0,666.0
+Oswego East High School,CUSD 308,515.7,511.8,713.0,713.0
+Astoria High School,Astoria CUSD 1,451.8,420.6,17.0,17.0
+V I T Sr High School,V I T CUSD 2,461.0,441.4,21.0,21.0
+Cuba Sr High School,CUSD 3 Fulton County,471.7,432.9,24.0,24.0
+Spoon River Valley Sr High Sch,Spoon River Valley CUSD 4,496.1,476.1,18.0,18.0
+Canton High School,Canton Union SD 66,484.9,479.7,149.0,149.0
+Lewistown Jr/Sr High School,Lewistown CUSD 97,456.3,428.3,41.0,41.0
+Illini West High School,Illini West H S Dist 307,476.6,452.4,67.0,67.0
+Warsaw Sr High School,Warsaw CUSD 316,514.2,472.0,45.0,45.0
+Hamilton High School,Hamilton CCSD 328,492.7,471.0,30.0,30.0
+Southeastern Jr/Sr High School,Southeastern CUSD 337,445.9,449.0,29.0,29.0
+West Prairie Senior High Schoo,West Prairie CUSD 103,473.4,436.9,29.0,29.0
+Bushnell-Prairie City High Sch,Bushnell Prairie City CUSD 170,459.8,437.0,40.0,40.0
+Macomb Senior High School,Macomb CUSD 185,501.2,484.6,144.0,144.0
+Rushville-Industry High School,Schuyler-Industry CUSD 5,484.7,465.0,64.0,64.0
+DePue High School,DePue USD 103,433.7,418.9,27.0,27.0
+La Moille Jr/Sr High School,La Moille CUSD 303,477.4,469.5,19.0,19.0
+Bureau Valley High School,Bureau Valley CUSD 340,472.5,452.7,79.0,79.0
+Princeton High School,Princeton HSD 500,505.1,489.1,126.0,126.0
+Hall High School,Hall HSD 502,464.4,454.4,89.0,89.0
+Orion High School,Orion CUSD 223,496.9,508.4,77.0,77.0
+Galva Jr-Sr High School,Galva CUSD 224,469.2,439.6,24.0,24.0
+AlWood  Middle/High School,AlWood CUSD 225,525.0,481.3,30.0,30.0
+Annawan High School,Annawan CUSD 226,459.5,474.5,22.0,22.0
+Cambridge Jr/Sr High School,Cambridge CUSD 227,495.3,478.4,32.0,32.0
+Geneseo High School,Geneseo CUSD 228,517.1,506.3,185.0,185.0
+Kewanee High School,Kewanee CUSD 229,445.5,434.0,110.0,110.0
+Wethersfield Jr/Sr High School,Wethersfield CUSD 230,478.3,451.4,36.0,36.0
+Stark County High School,Stark County CUSD 100,491.1,481.7,47.0,47.0
+Cairo Jr/Sr High School,Cairo USD 1,396.4,396.4,14.0,14.0
+Egyptian Sr High School,Egyptian CUSD 5,448.4,438.4,19.0,19.0
+Carbondale Comm H S,Carbondale CHSD 165,503.1,480.8,205.0,205.0
+Trico Senior High School,Trico CUSD 176,480.3,463.0,67.0,67.0
+Murphysboro High School,Murphysboro CUSD 186,461.3,454.8,111.0,111.0
+Elverado High School,Elverado CUSD 196,443.3,450.4,24.0,24.0
+Pinckneyville Comm High School,Pinckneyville CHSD 101,465.9,475.8,113.0,113.0
+Du Quoin High School,Du Quoin CUSD 300,465.2,450.2,108.0,108.0
+Century Jr/Sr High School,Century CUSD 100,449.0,422.8,29.0,29.0
+Meridian High School,Meridian CUSD 101,411.4,387.1,28.0,28.0
+Cobden High School,Cobden SUD 17,481.0,478.3,41.0,41.0
+Dongola High School,Dongola USD 66,454.0,426.0,15.0,15.0
+Anna-Jonesboro High School,Anna Jonesboro CHSD 81,449.2,450.2,129.0,129.0
+Shawnee High School,Shawnee CUSD 84,436.1,440.0,18.0,18.0
+Elgin High School,SD U-46,454.1,440.5,567.0,567.0
+Larkin High School,SD U-46,449.1,430.6,330.0,330.0
+Streamwood High School,SD U-46,478.6,460.6,343.0,343.0
+Bartlett High School,SD U-46,504.2,494.6,497.0,497.0
+South Elgin High School,SD U-46,502.0,494.3,673.0,673.0
+Batavia Sr High School,Batavia USD 101,530.2,533.9,521.0,521.0
+West Aurora High School,Aurora West USD 129,471.5,461.9,779.0,779.0
+East High School,Aurora East USD 131,432.8,410.7,871.0,871.0
+Dundee-Crown High School,CUSD 300,466.6,458.0,605.0,605.0
+Hampshire High School,CUSD 300,507.8,495.0,461.0,461.0
+Harry D Jacobs High School,CUSD 300,514.3,500.6,435.0,435.0
+Central High School,Central CUSD 301,526.6,527.5,337.0,337.0
+Kaneland Senior High School,Kaneland CUSD 302,524.2,505.1,310.0,310.0
+St Charles East High School,St Charles CUSD 303,544.9,545.8,553.0,553.0
+St Charles North High School,St Charles CUSD 303,544.4,551.7,458.0,458.0
+Geneva Community High School,Geneva CUSD 304,553.4,551.7,450.0,450.0
+Donovan Sr High School,Donovan CUSD 3,461.3,457.5,16.0,16.0
+Central High School,Central CUSD 4,465.5,447.7,75.0,75.0
+Cissna Park Sr High School,Cissna Park CUSD 6,467.5,436.7,12.0,12.0
+Watseka Comm High School,Iroquois County CUSD 9,484.4,461.5,71.0,71.0
+Iroquois West High School,Iroquois West CUSD 10,472.4,447.1,84.0,84.0
+Milford High School Campus,Milford Area Public Schools Di,511.9,513.1,36.0,36.0
+Momence High School,Momence CUSD 1,445.7,431.6,79.0,79.0
+Herscher High School,Herscher CUSD 2,483.5,487.2,126.0,126.0
+Manteno High School,Manteno CUSD 5,471.0,466.0,151.0,151.0
+Grant Park High School,Grant Park CUSD 6,470.0,434.2,26.0,26.0
+Kankakee High School,Kankakee SD 111,435.4,411.6,274.0,274.0
+St Anne Comm High School,St Anne CHSD 302,446.2,412.8,47.0,47.0
+Bradley-Bourbonnais C High Sch,Bradley Bourbonnais CHSD 307,475.1,454.6,424.0,424.0
+West Central High School,West Central CUSD 235,454.5,433.4,56.0,56.0
+Knoxville Sr High School,Knoxville CUSD 202,483.2,484.3,77.0,77.0
+Galesburg High School,Galesburg CUSD 205,465.7,459.4,247.0,247.0
+R O W V A Jr and  Sr High Scho,R O W V A CUSD 208,483.0,454.3,56.0,56.0
+Williamsfield High School,Williamsfield CUSD 210,492.8,468.3,18.0,18.0
+Abingdon-Avon High Sch,Abingdon-Avon CUSD 276,467.1,426.2,73.0,73.0
+Mercer County High School,Mercer County School District ,472.5,468.4,85.0,85.0
+Monmouth-Roseville High Sch,Monmouth-Roseville CUSD 238,476.1,460.4,110.0,110.0
+United High School,United CUSD 304,474.2,466.3,60.0,60.0
+Waukegan High School,Waukegan CUSD 60,425.8,413.0,837.0,837.0
+Lake Zurich High School,Lake Zurich CUSD 95,558.3,558.9,426.0,426.0
+Deerfield High School,Twp HSD 113,586.2,585.5,401.0,401.0
+Highland Park High School,Twp HSD 113,555.3,548.2,430.0,430.0
+Lake Forest High School,Lake Forest CHSD 115,583.9,582.4,356.0,356.0
+Round Lake Senior High School,Round Lake CUSD 116,449.6,435.9,488.0,488.0
+Antioch Comm High School,CHSD 117,508.0,497.3,302.0,302.0
+Lakes Community High School,CHSD 117,519.7,517.8,317.0,317.0
+Wauconda High School,Wauconda CUSD 118,499.7,474.6,326.0,326.0
+Mundelein Cons High School,Mundelein Cons HSD 120,497.1,480.9,491.0,491.0
+Warren Township High School,Warren Twp HSD 121,517.1,504.7,921.0,921.0
+Grant Community High School,Grant CHSD 124,483.8,471.2,424.0,424.0
+Adlai E Stevenson High School,Adlai E Stevenson HSD 125,603.4,612.6,1052.0,1052.0
+Zion-Benton Twnshp Hi Sch,Zion-Benton Twp HSD 126,451.7,428.7,464.0,464.0
+New Tech High - Zion-Benton Ea,Zion-Benton Twp HSD 126,455.9,434.9,75.0,75.0
+Grayslake Central High School,Grayslake CHSD 127,537.0,519.9,322.0,322.0
+Grayslake North High School,Grayslake CHSD 127,518.0,505.0,344.0,344.0
+Libertyville High School,CHSD 128,572.9,567.5,452.0,452.0
+Vernon Hills High School,CHSD 128,577.3,588.3,379.0,379.0
+North Chicago Community High S,North Chicago SD 187,412.3,400.5,155.0,155.0
+Barrington High School,Barrington CUSD 220,571.5,577.3,667.0,667.0
+Leland High School,Leland CUSD 1,470.8,468.5,13.0,13.0
+Serena High School,Serena CUSD 2,455.6,432.4,41.0,41.0
+Earlville Jr/Sr High School,Earlville CUSD 9,474.1,479.5,37.0,37.0
+Streator Twp High School,Streator Twp HSD 40,457.2,441.8,194.0,194.0
+La Salle-Peru Twp High School,La Salle-Peru Twp HSD 120,474.4,453.2,282.0,282.0
+Ottawa Township High School,Ottawa Twp HSD 140,479.7,460.8,264.0,264.0
+Seneca High School,Seneca Twp HSD 160,495.8,498.4,85.0,85.0
+Mendota Twp High School,Mendota Twp HSD 280,468.9,476.8,132.0,132.0
+Henry-Senachwine High School,Henry-Senachwine CUSD 5,497.8,473.4,32.0,32.0
+Midland High School,Midland CUSD 7,509.8,479.6,51.0,51.0
+Putnam County High School,Putnam County CUSD 535,502.6,493.3,54.0,54.0
+Argenta-Oreana High School,Argenta-Oreana CUSD 1,468.6,439.5,65.0,65.0
+Maroa-Forsyth Senior High Sch,Maroa Forsyth CUSD 2,502.7,473.7,89.0,89.0
+Mt Zion High School,Mt Zion CUSD 3,520.9,518.5,171.0,171.0
+Sangamon Valley High School,Sangamon Valley CUSD 9,449.2,438.0,61.0,61.0
+Warrensburg-Latham High School,Warrensburg-Latham CUSD 11,513.0,457.6,79.0,79.0
+Meridian High School,Meridian CUSD 15,488.7,466.6,70.0,70.0
+Eisenhower High School,Decatur SD 61,425.2,402.6,180.0,180.0
+MacArthur High School,Decatur SD 61,435.0,411.3,197.0,197.0
+Bement High School,Bement CUSD 5,451.3,445.7,23.0,23.0
+Monticello High School,Monticello CUSD 25,531.0,508.5,120.0,120.0
+Deland-Weldon High School,Deland-Weldon CUSD 57,455.4,414.6,13.0,13.0
+Cerro Gordo Jr and Sr High Sch,Cerro Gordo CUSD 100,487.6,489.7,34.0,34.0
+Calhoun High School,Calhoun CUSD 40,474.6,478.9,28.0,28.0
+Brussels High School,Brussels CUSD 42,475.0,486.7,12.0,12.0
+Carrollton High School,Carrollton CUSD 1,455.9,470.2,51.0,51.0
+North Greene Jr/Sr High Sch,North Greene CUSD 3,431.0,425.8,62.0,62.0
+Greenfield High School,Greenfield CUSD 10,470.5,468.9,37.0,37.0
+Jersey Comm High School,Jersey CUSD 100,492.4,483.5,186.0,186.0
+Carlinville High School,Carlinville CUSD 1,517.0,500.8,92.0,92.0
+Northwestern High School,Northwestern CUSD 2,440.0,428.1,21.0,21.0
+Mt Olive High School,Mount Olive CUSD 5,491.4,453.0,37.0,37.0
+Staunton High School,Staunton CUSD 6,479.0,475.3,81.0,81.0
+Gillespie High School,Gillespie CUSD 7,489.3,495.6,75.0,75.0
+Bunker Hill High School,Bunker Hill CUSD 8,470.4,437.6,51.0,51.0
+Southwestern High School,Southwestern CUSD 9,472.4,465.4,106.0,106.0
+North Mac High School,North Mac CUSD 34,481.4,448.3,69.0,69.0
+Roxana Sr High School,Roxana CUSD 1,454.1,448.1,111.0,111.0
+Triad High School,Triad CUSD 2,508.5,519.0,284.0,284.0
+Highland High School,Highland CUSD 5,506.5,515.2,205.0,205.0
+Edwardsville High School,Edwardsville CUSD 7,526.4,522.1,545.0,545.0
+Civic Memorial High School,Bethalto CUSD 8,463.6,446.2,196.0,196.0
+Granite City High School,Granite City CUSD 9,454.1,432.7,343.0,343.0
+Collinsville High School,Collinsville CUSD 10,468.7,458.0,431.0,431.0
+Alton High School,Alton CUSD 11,468.0,450.9,371.0,371.0
+Madison Senior High School,Madison CUSD 12,392.3,369.2,26.0,26.0
+East Alton-Wood River High Sch,East Alton-Wood River CHSD 14,447.0,426.3,143.0,143.0
+Johnsburg High School,Johnsburg CUSD 12,501.9,490.7,137.0,137.0
+Alden-Hebron High School,Alden Hebron SD 19,494.4,476.9,16.0,16.0
+Harvard High School,Harvard CUSD 50,457.4,442.5,158.0,158.0
+Marengo High School,Marengo CHSD 154,505.3,510.8,138.0,138.0
+Crystal Lake Central High Scho,CHSD 155,503.6,501.0,390.0,390.0
+Cary-Grove Community High Scho,CHSD 155,533.6,523.9,408.0,408.0
+Crystal Lake South High School,CHSD 155,514.0,505.1,330.0,330.0
+Prairie Ridge High School,CHSD 155,543.6,543.6,301.0,301.0
+McHenry High School-West Campu,McHenry CHSD 156,498.7,486.5,337.0,337.0
+McHenry  East High School,McHenry CHSD 156,488.8,480.6,129.0,129.0
+Richmond-Burton High School,Richmond-Burton CHSD 157,526.8,527.1,136.0,136.0
+Huntley High School,Huntley Community School Distr,538.4,531.1,750.0,750.0
+Woodstock High School,Woodstock CUSD 200,516.3,483.1,247.0,247.0
+Woodstock North High School,Woodstock CUSD 200,494.9,482.2,218.0,218.0
+Valmeyer High School,Valmeyer CUSD 3,489.2,474.6,24.0,24.0
+Columbia High School,Columbia CUSD 4,517.0,526.3,139.0,139.0
+Waterloo High School,Waterloo CUSD 5,510.1,502.6,195.0,195.0
+Coulterville High School,Coulterville USD 1,465.4,478.5,13.0,13.0
+Red Bud High School,Red Bud CUSD 132,475.3,457.8,95.0,95.0
+Steeleville High School,Steeleville CUSD 138,460.9,457.7,44.0,44.0
+Chester High School,Chester CUSD 139,450.6,430.0,87.0,87.0
+Sparta High School,Sparta CUSD 140,449.9,441.0,73.0,73.0
+Dixon High School,Dixon USD 170,490.9,469.9,179.0,179.0
+Amboy High School,Amboy CUSD 272,482.0,470.4,50.0,50.0
+Ashton-Franklin Center HS,Ashton-Franklin Center CUSD 27,439.7,439.0,29.0,29.0
+Rochelle Twp High School,Rochelle Twp HSD 212,471.3,474.0,185.0,185.0
+Oregon High School,Oregon CUSD 220,471.7,457.5,81.0,81.0
+Forreston Jr/Sr High Sch,Forrestville Valley CUSD 221,480.2,476.4,56.0,56.0
+Polo Comm High School,Polo CUSD 222,473.4,461.7,41.0,41.0
+Stillman Valley High School,Meridian CUSD 223,511.4,491.1,114.0,114.0
+Byron High School 9-12,Byron CUSD 226,522.6,507.3,106.0,106.0
+Erie High School,Erie CUSD 1,508.6,493.6,59.0,59.0
+Fulton High School,River Bend CUSD 2,519.3,491.8,68.0,68.0
+Prophetstown High School,Prophetstown-Lyndon-Tampico CU,484.8,448.3,42.0,42.0
+Sterling High School,Sterling CUSD 5,490.3,465.7,195.0,195.0
+Morrison High School,Morrison CUSD 6,499.6,484.4,75.0,75.0
+Rock Falls Township High Schoo,Rock Falls Twp HSD 301,484.9,464.9,146.0,146.0
+Manual High School,Peoria SD 150,402.4,384.7,109.0,109.0
+Peoria High School,Peoria SD 150,411.6,401.0,214.0,214.0
+Richwoods High School,Peoria SD 150,496.8,487.3,300.0,300.0
+Diploma Degree North Campus,Peoria SD 150,549.5,513.3,21.0,21.0
+Quest Charter School Academy,Peoria SD 150,415.2,410.6,52.0,52.0
+Farmington Central High Sch,Farmington Central CUSD 265,466.4,473.1,70.0,70.0
+Brimfield High School,Brimfield CUSD 309,505.7,525.3,51.0,51.0
+Limestone Community High Schoo,Limestone CHSD 310,472.3,453.2,183.0,183.0
+Il Valley Central High School,Il Valley Central USD 321,507.4,490.9,140.0,140.0
+Elmwood High School,Elmwood CUSD 322,511.8,506.2,34.0,34.0
+Dunlap High School,Dunlap CUSD 323,544.4,558.1,294.0,294.0
+Peoria Heights High School,Peoria Heights CUSD 325,472.0,456.7,46.0,46.0
+Princeville High School,Princeville CUSD 326,499.8,522.9,56.0,56.0
+Illini Bluffs High School,Illini Bluffs CUSD 327,477.2,478.2,50.0,50.0
+United Twp High School,United Twp HSD 30,454.2,441.4,321.0,321.0
+Moline Sr High School,Moline-Coal Valley CUSD 40,475.5,454.5,464.0,464.0
+Rock Island High School,Rock Island SD 41,444.2,428.1,385.0,385.0
+Riverdale Sr High School,Riverdale CUSD 100,494.3,486.1,79.0,79.0
+Sherrard High School,Sherrard CUSD 200,488.1,478.5,93.0,93.0
+Rockridge High School,Rockridge CUSD 300,504.1,511.4,95.0,95.0
+Lebanon High School,Lebanon CUSD 9,488.5,431.0,20.0,20.0
+Mascoutah High School,Mascoutah CUD 19,532.3,511.1,270.0,270.0
+Marissa Jr & Sr High School,Marissa CUSD 40,462.0,454.3,35.0,35.0
+New Athens High School,New Athens CUSD 60,489.7,450.9,32.0,32.0
+Freeburg Community High Sch,Freeburg CHSD 77,511.0,494.7,175.0,175.0
+Cahokia High School,Cahokia CUSD 187,421.4,406.8,88.0,88.0
+SIU Charter Sch of East St Lou,East St Louis SD 189,409.1,401.7,23.0,23.0
+East St Louis Senior High Scho,East St Louis SD 189,398.2,380.7,212.0,212.0
+Dupo High School,Dupo CUSD 196,450.9,447.9,58.0,58.0
+Belleville High School-East,Belleville Twp HSD 201,483.1,469.9,540.0,540.0
+Belleville High School-West,Belleville Twp HSD 201,473.4,457.3,548.0,548.0
+O Fallon High School,O Fallon Twp HSD 203,512.8,497.6,602.0,602.0
+Greenview Jr/Sr High School,Greenview CUSD 200,430.9,426.4,11.0,11.0
+Porta High School,Porta CUSD 202,487.8,485.5,55.0,55.0
+Athens Sr High School,Athens CUSD 213,495.3,483.2,73.0,73.0
+Tri-City High School,Tri City CUSD 1,471.7,453.7,30.0,30.0
+Rochester High School,Rochester CUSD 3A,525.5,493.0,210.0,210.0
+Glenwood High School,Ball Chatham CUSD 5,514.4,499.7,332.0,332.0
+Pleasant Plains High School,Pleasant Plains CUSD 8,515.0,500.3,106.0,106.0
+Auburn High School,Auburn CUSD 10,479.1,456.5,93.0,93.0
+Pawnee Jr/Sr High Sch,Pawnee CUSD 11,485.2,438.2,33.0,33.0
+Riverton High School,Riverton CUSD 14,471.1,460.1,98.0,98.0
+Williamsville High School,Williamsville CUSD 15,505.7,479.1,107.0,107.0
+New Berlin High School,New Berlin CUSD 16,478.9,479.1,75.0,75.0
+Lanphier High School,Springfield SD 186,438.2,424.7,147.0,147.0
+Springfield High School,Springfield SD 186,537.9,528.8,197.0,197.0
+Springfield Southeast High Sch,Springfield SD 186,458.4,448.5,127.0,127.0
+Havana High School,Havana CUSD 126,466.8,450.0,59.0,59.0
+Illini Central High School,Illini Central CUSD 189,449.5,423.1,42.0,42.0
+Midwest Central High School,Midwest Central CUSD 191,436.8,433.0,88.0,88.0
+Pekin Community High School,Pekin CSD 303,472.4,471.3,408.0,408.0
+Washington Comm High School,Washington CHSD 308,522.8,527.5,348.0,348.0
+East Peoria High School,East Peoria CHSD 309,454.6,453.1,215.0,215.0
+Dee-Mack High School,Deer Creek-Mackinaw CUSD 701,493.9,483.9,74.0,74.0
+Tremont High School,Tremont CUSD 702,520.9,494.2,93.0,93.0
+Delavan High School,Delavan CUSD 703,492.4,475.8,38.0,38.0
+Morton High School,Morton CUSD 709,536.5,531.6,257.0,257.0
+Fieldcrest High School,Fieldcrest CUSD 6,488.6,486.9,59.0,59.0
+El Paso-Gridley High School,El Paso-Gridley CUSD 11,521.6,497.1,99.0,99.0
+Lowpoint-Washburn Jr Sr High S,Lowpoint-Washburn CUSD 21,420.7,421.4,14.0,14.0
+Roanoke-Benson High School,Roanoke Benson CUSD 60,510.3,496.8,38.0,38.0
+Metamora High School,County of Woodford School,522.1,526.6,243.0,243.0
+Eureka High School,Eureka CUD 140,539.3,537.4,99.0,99.0
+Westville High School,Westville CUSD 2,445.4,418.9,90.0,90.0
+Georgetown-Ridge Farm High Sch,Georgetown-Ridge Farm CUD 4,443.5,451.0,52.0,52.0
+Hoopeston Area High School,Hoopeston Area CUSD 11,458.4,453.9,83.0,83.0
+Oakwood High School,Oakwood CUSD 76,461.1,464.8,63.0,63.0
+Danville High School,Danville CCSD 118,434.9,415.7,248.0,248.0
+Armstrong High School,Armstrong Twp HSD 225,474.3,447.1,28.0,28.0
+Salt Fork High School,Salt Fork Community Unit Distr,461.5,441.5,47.0,47.0
+Bismarck Henning Rossville Alv,Bismarck Henning Rossville Alv,480.6,476.8,84.0,84.0
+Beecher High School,Beecher CUSD 200U,506.1,466.4,102.0,102.0
+Crete-Monee High School,Crete Monee CUSD 201U,448.7,426.2,328.0,328.0
+Plainfield High School,Plainfield SD 202,492.4,485.5,513.0,513.0
+Plainfield South High School,Plainfield SD 202,481.4,473.2,554.0,554.0
+Plainfield North High School,Plainfield SD 202,522.6,523.5,580.0,580.0
+Plainfield East High School,Plainfield SD 202,516.7,512.3,519.0,519.0
+Joliet Central High School,Joliet Twp HSD 204,450.7,437.6,703.0,703.0
+Joliet West High School,Joliet Twp HSD 204,476.6,465.0,731.0,731.0
+Lockport Township High Sch Eas,Lockport Twp HSD 205,511.0,502.9,895.0,895.0
+Peotone High School,Peotone CUSD 207U,496.4,477.3,124.0,124.0
+Wilmington High School,Wilmington CUSD 209U,481.9,469.3,95.0,95.0
+Lincoln-Way Central High Schoo,Lincoln Way CHSD 210,539.4,533.0,494.0,494.0
+Lincoln-Way East High School,Lincoln Way CHSD 210,547.3,529.5,663.0,663.0
+Lincoln Way West,Lincoln Way CHSD 210,526.8,520.1,494.0,494.0
+Reed-Custer High School,Reed Custer CUSD 255U,465.6,453.7,109.0,109.0
+Bolingbrook High School,Valley View CUSD 365U,493.5,482.2,515.0,515.0
+Romeoville High School,Valley View CUSD 365U,486.7,467.3,365.0,365.0
+University High School,ISU  Laboratory Schools,580.9,580.9,148.0,148.0
