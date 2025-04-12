@@ -1,79 +1,79 @@
 county_code,county_name,state_name
-05001,Arkansas County,Arkansas
-05003,Ashley County,Arkansas
-05005,Baxter County,Arkansas
-05007,Benton County,Arkansas
-05009,Boone County,Arkansas
-05011,Bradley County,Arkansas
-05013,Calhoun County,Arkansas
-05015,Carroll County,Arkansas
-05017,Chicot County,Arkansas
-05019,Clark County,Arkansas
-05021,Clay County,Arkansas
-05023,Cleburne County,Arkansas
-05025,Cleveland County,Arkansas
-05027,Columbia County,Arkansas
-05029,Conway County,Arkansas
-05031,Craighead County,Arkansas
-05033,Crawford County,Arkansas
-05035,Crittenden County,Arkansas
-05037,Cross County,Arkansas
-05039,Dallas County,Arkansas
-05041,Desha County,Arkansas
-05043,Drew County,Arkansas
-05045,Faulkner County,Arkansas
-05047,Franklin County,Arkansas
-05049,Fulton County,Arkansas
-05051,Garland County,Arkansas
-05053,Grant County,Arkansas
-05055,Greene County,Arkansas
-05057,Hempstead County,Arkansas
-05059,Hot Spring County,Arkansas
-05061,Howard County,Arkansas
-05063,Independence County,Arkansas
-05065,Izard County,Arkansas
-05067,Jackson County,Arkansas
-05069,Jefferson County,Arkansas
-05071,Johnson County,Arkansas
-05073,Lafayette County,Arkansas
-05075,Lawrence County,Arkansas
-05077,Lee County,Arkansas
-05079,Lincoln County,Arkansas
-05081,Little River County,Arkansas
-05083,Logan County,Arkansas
-05085,Lonoke County,Arkansas
-05087,Madison County,Arkansas
-05089,Marion County,Arkansas
-05091,Miller County,Arkansas
-05093,Mississippi County,Arkansas
-05095,Monroe County,Arkansas
-05097,Montgomery County,Arkansas
-05099,Nevada County,Arkansas
-05101,Newton County,Arkansas
-05103,Ouachita County,Arkansas
-05105,Perry County,Arkansas
-05107,Phillips County,Arkansas
-05109,Pike County,Arkansas
-05111,Poinsett County,Arkansas
-05113,Polk County,Arkansas
-05115,Pope County,Arkansas
-05117,Prairie County,Arkansas
-05119,Pulaski County,Arkansas
-05121,Randolph County,Arkansas
-05123,St. Francis County,Arkansas
-05125,Saline County,Arkansas
-05127,Scott County,Arkansas
-05129,Searcy County,Arkansas
-05131,Sebastian County,Arkansas
-05133,Sevier County,Arkansas
-05135,Sharp County,Arkansas
-05137,Stone County,Arkansas
-05139,Union County,Arkansas
-05141,Van Buren County,Arkansas
-05143,Washington County,Arkansas
-05145,White County,Arkansas
-05147,Woodruff County,Arkansas
-05149,Yell County,Arkansas
+5001,Arkansas County,Arkansas
+5003,Ashley County,Arkansas
+5005,Baxter County,Arkansas
+5007,Benton County,Arkansas
+5009,Boone County,Arkansas
+5011,Bradley County,Arkansas
+5013,Calhoun County,Arkansas
+5015,Carroll County,Arkansas
+5017,Chicot County,Arkansas
+5019,Clark County,Arkansas
+5021,Clay County,Arkansas
+5023,Cleburne County,Arkansas
+5025,Cleveland County,Arkansas
+5027,Columbia County,Arkansas
+5029,Conway County,Arkansas
+5031,Craighead County,Arkansas
+5033,Crawford County,Arkansas
+5035,Crittenden County,Arkansas
+5037,Cross County,Arkansas
+5039,Dallas County,Arkansas
+5041,Desha County,Arkansas
+5043,Drew County,Arkansas
+5045,Faulkner County,Arkansas
+5047,Franklin County,Arkansas
+5049,Fulton County,Arkansas
+5051,Garland County,Arkansas
+5053,Grant County,Arkansas
+5055,Greene County,Arkansas
+5057,Hempstead County,Arkansas
+5059,Hot Spring County,Arkansas
+5061,Howard County,Arkansas
+5063,Independence County,Arkansas
+5065,Izard County,Arkansas
+5067,Jackson County,Arkansas
+5069,Jefferson County,Arkansas
+5071,Johnson County,Arkansas
+5073,Lafayette County,Arkansas
+5075,Lawrence County,Arkansas
+5077,Lee County,Arkansas
+5079,Lincoln County,Arkansas
+5081,Little River County,Arkansas
+5083,Logan County,Arkansas
+5085,Lonoke County,Arkansas
+5087,Madison County,Arkansas
+5089,Marion County,Arkansas
+5091,Miller County,Arkansas
+5093,Mississippi County,Arkansas
+5095,Monroe County,Arkansas
+5097,Montgomery County,Arkansas
+5099,Nevada County,Arkansas
+5101,Newton County,Arkansas
+5103,Ouachita County,Arkansas
+5105,Perry County,Arkansas
+5107,Phillips County,Arkansas
+5109,Pike County,Arkansas
+5111,Poinsett County,Arkansas
+5113,Polk County,Arkansas
+5115,Pope County,Arkansas
+5117,Prairie County,Arkansas
+5119,Pulaski County,Arkansas
+5121,Randolph County,Arkansas
+5123,St. Francis County,Arkansas
+5125,Saline County,Arkansas
+5127,Scott County,Arkansas
+5129,Searcy County,Arkansas
+5131,Sebastian County,Arkansas
+5133,Sevier County,Arkansas
+5135,Sharp County,Arkansas
+5137,Stone County,Arkansas
+5139,Union County,Arkansas
+5141,Van Buren County,Arkansas
+5143,Washington County,Arkansas
+5145,White County,Arkansas
+5147,Woodruff County,Arkansas
+5149,Yell County,Arkansas
 17001,Adams County,Illinois
 17003,Alexander County,Illinois
 17005,Bond County,Illinois
@@ -492,67 +492,81 @@ county_code,county_name,state_name
 48503,Young County,Texas
 48505,Zapata County,Texas
 48507,Zavala County,Texas
-08001,Adams County,Colorado
-08003,Alamosa County,Colorado
-08005,Arapahoe County,Colorado
-08007,Archuleta County,Colorado
-08009,Baca County,Colorado
-08011,Bent County,Colorado
-08013,Boulder County,Colorado
-08014,"Broomfield, City and County of[i]",Colorado
-08015,Chaffee County,Colorado
-08017,Cheyenne County,Colorado
-08019,Clear Creek County,Colorado
-08021,Conejos County,Colorado
-08023,Costilla County,Colorado
-08025,Crowley County,Colorado
-08027,Custer County,Colorado
-08029,Delta County,Colorado
-08031,"Denver, City and County of[j]",Colorado
-08033,Dolores County,Colorado
-08035,Douglas County,Colorado
-08037,Eagle County,Colorado
-08039,Elbert County,Colorado
-08041,El Paso County,Colorado
-08043,Fremont County,Colorado
-08045,Garfield County,Colorado
-08047,Gilpin County,Colorado
-08049,Grand County,Colorado
-08051,Gunnison County,Colorado
-08053,Hinsdale County,Colorado
-08055,Huerfano County,Colorado
-08057,Jackson County,Colorado
-08059,Jefferson County,Colorado
-08061,Kiowa County,Colorado
-08063,Kit Carson County,Colorado
-08065,Lake County,Colorado
-08067,La Plata County,Colorado
-08069,Larimer County,Colorado
-08071,Las Animas County,Colorado
-08073,Lincoln County,Colorado
-08075,Logan County,Colorado
-08077,Mesa County,Colorado
-08079,Mineral County,Colorado
-08081,Moffat County,Colorado
-08083,Montezuma County,Colorado
-08085,Montrose County,Colorado
-08087,Morgan County,Colorado
-08089,Otero County,Colorado
-08091,Ouray County,Colorado
-08093,Park County,Colorado
-08095,Phillips County,Colorado
-08097,Pitkin County,Colorado
-08099,Prowers County,Colorado
-08101,Pueblo County,Colorado
-08103,Rio Blanco County,Colorado
-08105,Rio Grande County,Colorado
-08107,Routt County,Colorado
-08109,Saguache County,Colorado
-08111,San Juan County,Colorado
-08113,San Miguel County,Colorado
-08115,Sedgwick County,Colorado
-08117,Summit County,Colorado
-08119,Teller County,Colorado
-08121,Washington County,Colorado
-08123,Weld County,Colorado
-08125,Yuma County,Colorado
+8001,Adams County,Colorado
+8003,Alamosa County,Colorado
+8005,Arapahoe County,Colorado
+8007,Archuleta County,Colorado
+8009,Baca County,Colorado
+8011,Bent County,Colorado
+8013,Boulder County,Colorado
+8014,"Broomfield, City and County of[i]",Colorado
+8015,Chaffee County,Colorado
+8017,Cheyenne County,Colorado
+8019,Clear Creek County,Colorado
+8021,Conejos County,Colorado
+8023,Costilla County,Colorado
+8025,Crowley County,Colorado
+8027,Custer County,Colorado
+8029,Delta County,Colorado
+8031,"Denver, City and County of[j]",Colorado
+8033,Dolores County,Colorado
+8035,Douglas County,Colorado
+8037,Eagle County,Colorado
+8039,Elbert County,Colorado
+8041,El Paso County,Colorado
+8043,Fremont County,Colorado
+8045,Garfield County,Colorado
+8047,Gilpin County,Colorado
+8049,Grand County,Colorado
+8051,Gunnison County,Colorado
+8053,Hinsdale County,Colorado
+8055,Huerfano County,Colorado
+8057,Jackson County,Colorado
+8059,Jefferson County,Colorado
+8061,Kiowa County,Colorado
+8063,Kit Carson County,Colorado
+8065,Lake County,Colorado
+8067,La Plata County,Colorado
+8069,Larimer County,Colorado
+8071,Las Animas County,Colorado
+8073,Lincoln County,Colorado
+8075,Logan County,Colorado
+8077,Mesa County,Colorado
+8079,Mineral County,Colorado
+8081,Moffat County,Colorado
+8083,Montezuma County,Colorado
+8085,Montrose County,Colorado
+8087,Morgan County,Colorado
+8089,Otero County,Colorado
+8091,Ouray County,Colorado
+8093,Park County,Colorado
+8095,Phillips County,Colorado
+8097,Pitkin County,Colorado
+8099,Prowers County,Colorado
+8101,Pueblo County,Colorado
+8103,Rio Blanco County,Colorado
+8105,Rio Grande County,Colorado
+8107,Routt County,Colorado
+8109,Saguache County,Colorado
+8111,San Juan County,Colorado
+8113,San Miguel County,Colorado
+8115,Sedgwick County,Colorado
+8117,Summit County,Colorado
+8119,Teller County,Colorado
+8121,Washington County,Colorado
+8123,Weld County,Colorado
+8125,Yuma County,Colorado
+25001,Barnstable County,Massachusetts
+25003,Berkshire County,Massachusetts
+25005,Bristol County,Massachusetts
+25007,Dukes County,Massachusetts
+25009,Essex County,Massachusetts
+25011,Franklin County,Massachusetts
+25013,Hampden County,Massachusetts
+25015,Hampshire County,Massachusetts
+25017,Middlesex County,Massachusetts
+25019,Nantucket County,Massachusetts
+25021,Norfolk County,Massachusetts
+25023,Plymouth County,Massachusetts
+25025,Suffolk County,Massachusetts
+25027,Worcester County,Massachusetts
