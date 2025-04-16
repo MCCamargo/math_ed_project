@@ -1,0 +1,649 @@
+,RCDTS,Type,School Name,District,City,County,District Type,District Size,School Type,SAT Reading Average Score,SAT Math Average Score,SAT Math Total Students Level 1 %,SAT Math Total Students Level 2 %,SAT Math Total Students Level 3 %,SAT Math Total Students Level 4 %
+1,010010010260001,School,Seymour High School,Payson CUSD 1,Payson,Adams,UNIT,MEDIUM,HIGH SCHOOL,462.2,476.1,39.0,41.5,19.5,0.0
+4,010010020260001,School,Liberty High School,Liberty CUSD 2,Liberty,Adams,UNIT,MEDIUM,HIGH SCHOOL,472.4,493.3,33.3,28.9,37.8,0.0
+7,010010030260001,School,Central High School,Central CUSD 3,Camp Point,Adams,UNIT,MEDIUM,HIGH SCHOOL,480.0,469.8,38.8,36.7,24.5,0.0
+12,010010040260001,School,Unity High School,CUSD 4,Mendon,Adams,UNIT,MEDIUM,HIGH SCHOOL,463.8,435.9,64.1,25.6,5.1,5.1
+16,010011720220003,School,Quincy Sr High School,Quincy SD 172,Quincy,Adams,UNIT,LARGE,HIGH SCHOOL,480.1,461.9,49.6,29.4,18.4,2.6
+25,010050010260001,School,Brown County High School,Brown County CUSD 1,Mount Sterling,Brown,UNIT,MEDIUM,HIGH SCHOOL,507.5,490.2,36.5,30.8,30.8,1.9
+29,010090150260007,School,Beardstown Jr/Sr High School,Beardstown CUSD 15,Beardstown,Cass,UNIT,MEDIUM,HIGH SCHOOL,441.1,427.4,67.6,25.7,6.7,0.0
+33,010090640260003,School,Virginia Jr/ Sr High School,Virginia CUSD 64,Virginia,Cass,UNIT,SMALL,HIGH SCHOOL,468.9,483.3,33.3,50.0,16.7,0.0
+36,010092620260002,School,A-C Central High School,A-C Central CUSD 262,Ashland,Cass,UNIT,SMALL,HIGH SCHOOL,457.3,424.0,70.0,20.0,10.0,0.0
+40,010690010260001,School,Franklin Jr/Sr High School,Franklin CUSD 1,Franklin,Morgan,UNIT,SMALL,HIGH SCHOOL,462.4,440.3,65.5,20.7,13.8,0.0
+44,010690060260001,School,Waverly Junior/Senior High Sch,Waverly CUSD 6,Waverly,Morgan,UNIT,SMALL,HIGH SCHOOL,483.1,483.4,37.5,40.6,15.6,6.3
+47,010690110260001,School,Meredosia-Chambersburg High Sc,Meredosia-Chambersburg CUSD 11,Meredosia,Morgan,UNIT,SMALL,HIGH SCHOOL,,,,,,
+51,010690270260001,School,Triopia Jr-Sr High School,Triopia CUSD 27,Concord,Morgan,UNIT,SMALL,HIGH SCHOOL,496.5,483.5,30.4,34.8,34.8,0.0
+54,010691170220014,School,Jacksonville High School,Jacksonville SD 117,Jacksonville,Morgan,UNIT,LARGE,HIGH SCHOOL,474.6,461.2,48.9,28.4,22.1,0.5
+64,010750030260002,School,Pleasant Hill High School,Pleasant Hill CUSD 3,Pleasant Hill,Pike,UNIT,SMALL,HIGH SCHOOL,410.0,392.5,87.5,12.5,0.0,0.0
+67,010750040260002,School,Griggsville-Perry High School,Griggsville-Perry CUSD 4,Griggsville,Pike,UNIT,SMALL,HIGH SCHOOL,437.0,422.5,70.0,25.0,5.0,0.0
+71,010750100260009,School,Pittsfield High School,Pikeland CUSD 10,Pittsfield,Pike,UNIT,MEDIUM,HIGH SCHOOL,479.1,455.1,48.7,38.2,13.2,0.0
+75,010750120260001,School,Western High School,Western CUSD 12,Barry,Pike,UNIT,MEDIUM,HIGH SCHOOL,434.5,457.0,50.0,25.0,25.0,0.0
+79,010860010260001,School,Winchester High School,Winchester CUSD 1,Winchester,Scott,UNIT,MEDIUM,HIGH SCHOOL,457.3,454.4,42.3,50.0,7.7,0.0
+82,010860020260001,School,Bluffs High School,Scott-Morgan CUSD 2,Bluffs,Scott,UNIT,SMALL,HIGH SCHOOL,412.8,425.6,72.2,22.2,5.6,0.0
+86,030030010260001,School,Mulberry Grove Sr High School,Mulberry Grove CUSD 1,Mulberry Grove,Bond,UNIT,SMALL,HIGH SCHOOL,430.7,453.7,44.4,51.9,3.7,0.0
+90,030030020260001,School,Bond Cty Comm Unit 2 High Scho,Bond County CUSD 2,Greenville,Bond,UNIT,LARGE,HIGH SCHOOL,494.7,492.1,36.4,31.8,27.9,3.9
+97,030110010260002,School,Morrisonville High School,Morrisonville CUSD 1,Morrisonville,Christian,UNIT,SMALL,HIGH SCHOOL,480.0,463.6,50.0,28.6,21.4,0.0
+101,030110030260006,School,Taylorville Sr High School,Taylorville CUSD 3,Taylorville,Christian,UNIT,LARGE,HIGH SCHOOL,449.1,445.6,54.0,33.3,11.5,1.1
+106,030110040260002,School,Edinburg High School,Edinburg CUSD 4,Edinburg,Christian,UNIT,SMALL,HIGH SCHOOL,476.9,463.1,38.5,53.8,7.7,0.0
+110,030110080260006,School,Pana Sr High School,Pana CUSD 8,Pana,Christian,UNIT,MEDIUM,HIGH SCHOOL,481.9,468.4,38.5,44.0,17.6,0.0
+115,030110140240001,School,South Fork Jr Sr High School,South Fork SD 14,Kincaid,Christian,UNIT,SMALL,HIGH SCHOOL,463.8,394.6,72.0,20.0,8.0,0.0
+118,030250100260001,School,Altamont High School,Altamont CUSD 10,Altamont,Effingham,UNIT,MEDIUM,HIGH SCHOOL,466.9,453.1,54.5,25.5,20.0,0.0
+121,030250200260001,School,Beecher City Jr-Sr High School,Beecher City CUSD 20,Beecher City,Effingham,UNIT,SMALL,HIGH SCHOOL,459.6,482.3,42.3,26.9,26.9,3.8
+124,030250300260001,School,Dieterich Jr/Sr High School,Dieterich CUSD 30,Dieterich,Effingham,UNIT,MEDIUM,HIGH SCHOOL,485.8,481.9,35.5,38.7,25.8,0.0
+127,030250400260001,School,Effingham High School,Effingham CUSD 40,Effingham,Effingham,UNIT,LARGE,HIGH SCHOOL,481.1,469.8,43.3,31.7,23.9,1.1
+133,030250500260001,School,Teutopolis High School,Teutopolis CUSD 50,Teutopolis,Effingham,UNIT,MEDIUM,HIGH SCHOOL,512.7,502.9,28.0,31.7,37.8,2.4
+137,030262010260003,School,Brownstown High School,Brownstown CUSD 201,Brownstown,Fayette,UNIT,SMALL,HIGH SCHOOL,471.6,445.3,47.4,47.4,5.3,0.0
+141,030262020260002,School,St Elmo Sr High School,St Elmo CUSD 202,Saint Elmo,Fayette,UNIT,SMALL,HIGH SCHOOL,441.5,428.8,61.5,34.6,3.8,0.0
+145,030262030260001,School,Vandalia Community High School,Vandalia CUSD 203,Vandalia,Fayette,UNIT,MEDIUM,HIGH SCHOOL,464.7,459.9,50.6,30.1,16.9,2.4
+149,030262040260002,School,Ramsey High School,Ramsey CUSD 204,Ramsey,Fayette,UNIT,SMALL,HIGH SCHOOL,454.1,454.4,48.4,29.0,22.6,0.0
+152,030680020260001,School,Lincolnwood High School,Panhandle CUSD 2,Raymond,Montgomery,UNIT,MEDIUM,HIGH SCHOOL,471.2,471.2,42.4,33.3,24.2,0.0
+157,030680030260001,School,Hillsboro High School,Hillsboro CUSD 3,Hillsboro,Montgomery,UNIT,MEDIUM,HIGH SCHOOL,462.1,448.2,57.0,30.0,13.0,0.0
+162,030680120260001,School,Litchfield Senior High School,Litchfield CUSD 12,Litchfield,Montgomery,UNIT,MEDIUM,HIGH SCHOOL,493.3,473.4,44.6,32.5,16.9,6.0
+169,030680220260001,School,Nokomis Jr/Sr High Sch,Nokomis CUSD 22,Nokomis,Montgomery,UNIT,MEDIUM,HIGH SCHOOL,471.3,452.8,46.2,41.0,12.8,0.0
+172,040041000260001,School,Belvidere High School,Belvidere CUSD 100,Belvidere,Boone,UNIT,LARGE,HIGH SCHOOL,458.6,439.0,58.3,29.9,10.7,1.1
+173,040041000260002,School,Belvidere North High Sch,Belvidere CUSD 100,Belvidere,Boone,UNIT,LARGE,HIGH SCHOOL,500.2,472.4,45.5,29.1,21.6,3.8
+183,040042000260003,School,North Boone High School,North Boone CUSD 200,Poplar Grove,Boone,UNIT,MEDIUM,HIGH SCHOOL,465.3,455.6,45.6,38.9,15.6,0.0
+190,041011220220002,School,Harlem High School,Harlem UD 122,Machesney Park,Winnebago,UNIT,LARGE,HIGH SCHOOL,474.3,457.8,50.1,30.5,16.5,2.9
+216,041012050250001,School,Auburn High School,Rockford SD 205,Rockford,Winnebago,UNIT,LARGE,HIGH SCHOOL,495.6,470.5,54.8,18.0,18.0,9.2
+217,041012050250002,School,Rockford East High School,Rockford SD 205,Rockford,Winnebago,UNIT,LARGE,HIGH SCHOOL,444.5,421.8,69.0,23.5,7.1,0.3
+218,041012050250003,School,Guilford High School,Rockford SD 205,Rockford,Winnebago,UNIT,LARGE,HIGH SCHOOL,482.1,451.1,51.9,31.4,15.6,1.2
+219,041012050250004,School,Jefferson High School,Rockford SD 205,Rockford,Winnebago,UNIT,LARGE,HIGH SCHOOL,437.5,417.7,70.0,26.5,3.2,0.3
+256,041012050253075,School,Roosevelt Center,Rockford SD 205,Rockford,Winnebago,UNIT,LARGE,HIGH SCHOOL,,,,,,
+261,041012070160001,School,Hononegah CHD High School,Hononegah CHD 207,Rockton,Winnebago,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,544.4,525.2,20.8,33.2,39.6,6.4
+263,041013200260001,School,South Beloit Sr High School,County of Winnebago SD 320,South Beloit,Winnebago,UNIT,MEDIUM,HIGH SCHOOL,471.9,473.8,34.5,46.6,19.0,0.0
+269,041013210260001,School,Pecatonica High School,Pecatonica CUSD 321,Pecatonica,Winnebago,UNIT,MEDIUM,HIGH SCHOOL,523.4,514.7,28.8,32.2,28.8,10.2
+273,041013220260001,School,Durand High School,Durand CUSD 322,Durand,Winnebago,UNIT,MEDIUM,HIGH SCHOOL,533.5,515.8,17.9,48.7,23.1,10.3
+277,041013230260001,School,Winnebago High School,Winnebago CUSD 323,Winnebago,Winnebago,UNIT,MEDIUM,HIGH SCHOOL,507.3,496.5,24.3,46.7,27.1,1.9
+508,050162020170001,School,Evanston Twp High School,Evanston Twp HSD 202,Evanston,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,547.2,533.6,27.9,24.9,31.7,15.5
+510,050162030170001,School,New Trier Township H S Winnetk,New Trier Twp HSD 203,Winnetka,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,613.0,612.5,5.6,18.1,42.6,33.7
+511,050162030170002,School,New Trier Township H S Northfi,New Trier Twp HSD 203,Northfield,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,,,,,,
+513,050162070170001,School,Maine East High School,Maine Township HSD 207,Park Ridge,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,493.4,477.7,42.1,31.6,21.2,5.1
+514,050162070170003,School,Maine South High School,Maine Township HSD 207,Park Ridge,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,556.9,551.6,16.4,31.7,35.8,16.1
+515,050162070170004,School,Maine West High School,Maine Township HSD 207,Des Plaines,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,482.8,473.1,46.2,32.5,16.3,5.0
+517,050162110170001,School,J B Conant High School,Township HSD 211,Hoffman Estates,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,540.4,551.4,22.1,25.9,30.6,21.4
+518,050162110170002,School,Wm Fremd High School,Township HSD 211,Palatine,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,571.0,577.6,15.2,23.0,36.0,25.7
+519,050162110170003,School,Palatine High School,Township HSD 211,Palatine,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,485.8,480.8,46.5,27.2,18.0,8.3
+520,050162110170004,School,Schaumburg High School,Township HSD 211,Schaumburg,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,519.5,537.5,23.7,27.1,35.3,13.8
+521,050162110170006,School,Hoffman Estates High School,Township HSD 211,Hoffman Estates,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,511.8,517.1,31.6,27.7,30.4,10.3
+523,050162140170002,School,Elk Grove High School,Township HSD 214,Elk Grove Village,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,498.0,487.9,37.9,32.2,24.3,5.5
+524,050162140170004,School,John Hersey High School,Township HSD 214,Arlington Heights,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,571.2,560.7,15.7,27.0,40.1,17.2
+525,050162140170005,School,Prospect High School,Township HSD 214,Mt Prospect,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,567.0,566.9,12.2,28.0,41.7,18.0
+526,050162140170006,School,Wheeling High School,Township HSD 214,Wheeling,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,491.3,484.1,40.1,33.5,20.3,6.1
+527,050162140170007,School,Rolling Meadows High School,Township HSD 214,Rolling Meadows,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,516.7,507.0,30.8,31.7,28.7,8.8
+528,050162140170008,School,Buffalo Grove High School,Township HSD 214,Buffalo Grove,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,530.8,541.4,24.2,27.3,31.8,16.7
+530,050162190170002,School,Niles North High School,Niles Twp HSD 219,Skokie,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,526.5,513.5,27.2,34.4,28.7,9.7
+531,050162190170003,School,Niles West High School,Niles Twp HSD 219,Skokie,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,524.5,521.1,25.3,34.5,29.0,11.3
+533,050162250170001,School,Glenbrook North High School,Northfield Twp HSD 225,Northbrook,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,583.2,591.3,12.3,20.9,39.6,27.2
+534,050162250170002,School,Glenbrook South High School,Northfield Twp HSD 225,Glenview,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,573.5,571.5,13.3,26.1,37.9,22.7
+691,060162000130001,School,Oak Park & River Forest High S,Oak Park - River Forest SD 200,Oak Park,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,571.7,549.9,20.8,26.8,35.5,16.9
+693,060162010170001,School,J Sterling Morton East High Sc,J S Morton HSD 201,Cicero,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,438.0,420.7,70.4,22.2,6.7,0.7
+694,060162010170002,School,J Sterling Morton West High Sc,J S Morton HSD 201,Berwyn,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,458.3,436.5,61.0,29.0,8.6,1.3
+695,060162010170003,School,J Sterling Morton Freshman Cnt,J S Morton HSD 201,Cicero,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,,,,,,
+697,060162040170001,School,Lyons Twp High Sch,Lyons Twp HSD 204,La Grange,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,547.1,543.1,19.3,29.5,38.0,13.2
+699,060162080170001,School,Riverside Brookfield Twp HS,Riverside-Brookfield Twp SD 20,Riverside,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,530.7,520.8,27.4,29.1,32.3,11.2
+701,060162090170001,School,Proviso East High School,Proviso Twp HSD 209,Maywood,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,413.7,393.1,85.2,13.0,1.8,0.0
+702,060162090170002,School,Proviso West High School,Proviso Twp HSD 209,Hillside,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,442.2,417.9,73.4,22.7,3.9,0.0
+703,060162090170003,School,Proviso Math and Science Acade,Proviso Twp HSD 209,Forest Park,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,535.4,521.0,22.3,38.3,33.7,5.7
+705,060162120160001,School,East Leyden High School,Leyden CHSD 212,Franklin Park,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,479.2,467.2,42.3,36.8,19.5,1.4
+706,060162120160002,School,West Leyden High School,Leyden CHSD 212,Northlake,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,458.7,439.2,56.9,33.8,8.0,1.4
+708,060162340160001,School,Ridgewood Comm High School,Ridgewood CHSD 234,Norridge,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,494.4,468.8,41.7,40.2,17.1,1.0
+710,060164010260001,School,Elmwood Park High School,Elmwood Park CUSD 401,Elmwood Park,Cook,UNIT,LARGE,HIGH SCHOOL,493.5,478.1,41.7,33.9,21.5,2.9
+999,070162050170001,School,Thornton Township High School,Thornton Twp HSD 205,Harvey,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,436.0,418.1,73.6,19.7,6.1,0.6
+1000,070162050170002,School,Thornridge High School,Thornton Twp HSD 205,Dolton,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,428.6,408.2,77.2,17.2,5.6,0.0
+1001,070162050170003,School,Thornwood High School,Thornton Twp HSD 205,South Holland,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,440.8,422.6,68.5,23.6,7.1,0.8
+1003,070162060170001,School,Bloom High School,Bloom Twp HSD 206,Chicago Heights,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,443.7,423.7,72.1,21.1,6.8,0.0
+1004,070162060170002,School,Bloom Trail High School,Bloom Twp HSD 206,Chicago Heights,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,450.8,423.1,68.0,22.2,9.3,0.5
+1006,070162100170001,School,Lemont Twp High School,Lemont Twp HSD 210,Lemont,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,533.3,534.5,19.5,33.3,35.8,11.3
+1008,070162150170001,School,Thornton Fractnl No High Schoo,Thornton Fractional Twp HSD 21,Calumet City,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,438.4,417.2,72.0,22.3,5.7,0.0
+1009,070162150170002,School,Thornton Fractnl So High Schoo,Thornton Fractional Twp HSD 21,Lansing,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,453.9,430.2,67.1,21.4,10.8,0.6
+1011,070162170160001,School,Argo Community High School,Argo CHSD 217,Summit,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,461.8,461.3,50.3,29.3,16.9,3.5
+1013,070162180160001,School,DD Eisenhower High Sch (Campus,CHSD 218,Blue Island,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,447.3,440.1,57.3,31.9,9.5,1.3
+1014,070162180160004,School,H L Richards High Sch(Campus),CHSD 218,Oak Lawn,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,463.3,450.4,54.2,28.1,16.2,1.5
+1015,070162180160007,School,A B Shepard High Sch (Campus),CHSD 218,Palos Heights,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,479.9,462.3,49.0,32.8,15.9,2.3
+1017,070162200170001,School,Reavis High School,Reavis Twp HSD 220,Burbank,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,468.9,458.9,49.4,32.0,17.0,1.6
+1019,070162270170002,School,Rich Township High School,Rich Twp HSD 227,Olympia Fields,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,432.3,412.8,74.5,20.5,4.4,0.6
+1021,070162280160001,School,Bremen High School,Bremen CHSD 228,Midlothian,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,449.9,433.0,64.6,25.8,8.0,1.6
+1022,070162280160002,School,Tinley Park High School,Bremen CHSD 228,Tinley Park,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,479.1,475.1,41.0,34.5,21.1,3.4
+1023,070162280160003,School,Hillcrest High School,Bremen CHSD 228,Country Club Hills,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,418.8,411.2,72.0,24.0,4.1,0.0
+1024,070162280160004,School,Oak Forest High School,Bremen CHSD 228,Oak Forest,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,486.9,484.2,36.9,35.7,24.2,3.2
+1026,070162290160001,School,Oak Lawn Comm High School,Oak Lawn CHSD 229,Oak Lawn,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,471.6,471.9,42.9,35.3,19.4,2.4
+1028,070162300130001,School,Carl Sandburg High School,Cons HSD 230,Orland Park,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,531.5,522.5,23.9,33.0,33.3,9.9
+1029,070162300130002,School,Amos Alonzo Stagg High School,Cons HSD 230,Palos Hills,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,501.0,495.2,31.7,37.8,24.7,5.8
+1030,070162300130003,School,Victor J Andrew High School,Cons HSD 230,Orland Hills,Cook,HIGH SCHOOL,LARGE,HIGH SCHOOL,504.4,499.2,30.9,36.7,27.7,4.7
+1032,070162310160001,School,Evergreen Park High School,Evergreen Park CHSD 231,Evergreen Park,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,476.6,471.0,43.4,31.9,22.1,2.7
+1034,070162330160001,School,Homewood-Flossmoor High School,Homewood Flossmoor CHSD 233,Flossmoor,Cook,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,487.3,473.9,43.3,35.0,18.5,3.2
+1038,080083080260001,School,Eastland Jr/Sr High School,Eastland CUSD 308,Lanark,Carroll,UNIT,MEDIUM,HIGH SCHOOL,507.1,495.7,32.7,40.8,22.4,4.1
+1041,080083140260001,School,West Carroll High School,West Carroll CUSD 314,Savanna,Carroll,UNIT,MEDIUM,HIGH SCHOOL,451.0,439.6,61.5,26.9,11.5,0.0
+1045,080083990260002,School,Chadwick-Milledgeville Jr/Sr H,Chadwick-Milledgeville CUSD 39,Milledgeville,Carroll,UNIT,MEDIUM,HIGH SCHOOL,489.1,468.0,34.3,57.1,8.6,0.0
+1048,080431190220003,School,East Dubuque High School,East Dubuque USD 119,East Dubuque,Jo Daviess,UNIT,MEDIUM,HIGH SCHOOL,500.8,490.4,32.0,42.0,24.0,2.0
+1052,080431200220002,School,Galena High School,Galena USD 120,Galena,Jo Daviess,UNIT,MEDIUM,HIGH SCHOOL,503.0,504.0,26.3,42.1,28.1,3.5
+1056,080432050260001,School,Warren Jr/Sr High School,Warren CUSD 205,Warren,Jo Daviess,UNIT,SMALL,HIGH SCHOOL,471.7,485.0,33.3,44.4,22.2,0.0
+1059,080432060260003,School,Stockton Sr High School,Stockton CUSD 206,Stockton,Jo Daviess,UNIT,MEDIUM,HIGH SCHOOL,485.9,491.7,37.0,41.3,15.2,6.5
+1063,080432100260002,School,River Ridge High School,River Ridge CUSD 210,Hanover,Jo Daviess,UNIT,MEDIUM,HIGH SCHOOL,497.0,515.9,29.7,29.7,35.1,5.4
+1067,080432110260002,School,Scales Mound High School,Scales Mound CUSD 211,Scales Mound,Jo Daviess,UNIT,SMALL,HIGH SCHOOL,490.0,513.8,28.6,33.3,28.6,9.5
+1071,080891450220001,School,Freeport High School,Freeport SD 145,Freeport,Stephenson,UNIT,LARGE,HIGH SCHOOL,457.0,427.9,66.0,22.6,9.9,1.4
+1080,080892000260001,School,Pearl City High School,Pearl City CUSD 200,Pearl City,Stephenson,UNIT,SMALL,HIGH SCHOOL,476.7,475.8,45.5,24.2,27.3,3.0
+1084,080892010260001,School,Dakota Jr Sr High School,Dakota CUSD 201,Dakota,Stephenson,UNIT,MEDIUM,HIGH SCHOOL,499.1,489.6,40.0,32.9,22.9,4.3
+1087,080892020260001,School,Lena-Winslow High School,Lena Winslow CUSD 202,Lena,Stephenson,UNIT,MEDIUM,HIGH SCHOOL,483.0,489.2,30.2,46.0,23.8,0.0
+1091,080892030260001,School,Orangeville High School,Orangeville CUSD 203,Orangeville,Stephenson,UNIT,SMALL,HIGH SCHOOL,526.7,499.2,33.3,41.7,20.8,4.2
+1095,090100010260001,School,Fisher Jr/Sr High School,Fisher CUSD 1,Fisher,Champaign,UNIT,MEDIUM,HIGH SCHOOL,511.6,514.9,32.4,24.3,35.1,8.1
+1098,090100030260001,School,Mahomet-Seymour High School,Mahomet-Seymour CUSD 3,Mahomet,Champaign,UNIT,LARGE,HIGH SCHOOL,542.0,560.7,17.9,28.5,31.3,22.4
+1103,090100040260001,School,Centennial High School,Champaign CUSD 4,Champaign,Champaign,UNIT,LARGE,HIGH SCHOOL,480.7,477.3,47.1,26.1,21.3,5.5
+1104,090100040260002,School,Central High School,Champaign CUSD 4,Champaign,Champaign,UNIT,LARGE,HIGH SCHOOL,503.3,493.8,42.2,24.8,20.7,12.2
+1122,090100070260007,School,Unity High School,Tolono CUSD 7,Tolono,Champaign,UNIT,MEDIUM,HIGH SCHOOL,528.8,514.3,27.5,30.0,36.7,5.8
+1127,090100080260001,School,Heritage High School,Heritage CUSD 8,Broadlands,Champaign,UNIT,SMALL,HIGH SCHOOL,486.8,457.5,57.1,21.4,21.4,0.0
+1130,090101160220001,School,Urbana High School,Urbana SD 116,Urbana,Champaign,UNIT,LARGE,HIGH SCHOOL,484.5,458.4,56.1,21.2,17.5,5.2
+1155,090101930170001,School,Rantoul Twp High School,Rantoul Township HSD 193,Rantoul,Champaign,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,431.6,416.0,73.1,20.5,6.4,0.0
+1161,090103050160001,School,St Joseph-Ogden High School,St Joseph Ogden CHSD 305,Saint Joseph,Champaign,HIGH SCHOOL,SMALL,HIGH SCHOOL,528.4,540.8,21.2,26.9,38.5,13.5
+1163,090270050260001,School,GCMS High School,Gibson City-Melvin-Sibley CUSD,Gibson City,Ford,UNIT,MEDIUM,HIGH SCHOOL,508.4,504.5,23.2,44.6,30.4,1.8
+1167,090270100260001,School,Paxton-Buckley-Loda High Schoo,Paxton-Buckley-Loda CUD 10,Paxton,Ford,UNIT,MEDIUM,HIGH SCHOOL,491.2,507.4,33.3,32.3,26.3,8.1
+1171,11012002C260001,School,Marshall High School,Marshall CUSD 2C,Marshall,Clark,UNIT,MEDIUM,HIGH SCHOOL,501.9,483.8,34.8,37.7,27.5,0.0
+1176,11012003C260001,School,Martinsville Jr-Sr High School,Martinsville CUSD 3C,Martinsville,Clark,UNIT,SMALL,HIGH SCHOOL,462.6,466.3,36.8,47.4,15.8,0.0
+1179,11012004C260001,School,Casey-Westfield Jr/Sr HS,Casey-Westfield CUSD 4C,Casey,Clark,UNIT,MEDIUM,HIGH SCHOOL,476.7,472.0,36.4,45.5,16.4,1.8
+1182,110150010260001,School,Charleston High School,Charleston CUSD 1,Charleston,Coles,UNIT,LARGE,HIGH SCHOOL,478.1,460.3,51.7,28.5,17.4,2.4
+1189,110150020260001,School,Mattoon High School,Mattoon CUSD 2,Mattoon,Coles,UNIT,LARGE,HIGH SCHOOL,467.2,444.7,57.9,27.9,14.2,0.0
+1195,110150050260002,School,Oakland High School,Oakland CUSD 5,Oakland,Coles,UNIT,SMALL,HIGH SCHOOL,487.2,462.8,50.0,33.3,11.1,5.6
+1198,110180030260001,School,Neoga Jr/Sr High School,Neoga CUSD 3,Neoga,Cumberland,UNIT,MEDIUM,HIGH SCHOOL,503.5,486.3,45.1,25.5,25.5,3.9
+1201,110180770260001,School,Cumberland High School,Cumberland CUSD 77,Toledo,Cumberland,UNIT,MEDIUM,HIGH SCHOOL,480.6,473.5,34.9,46.0,15.9,3.2
+1205,110213010260001,School,Tuscola High School,Tuscola CUSD 301,Tuscola,Douglas,UNIT,MEDIUM,HIGH SCHOOL,479.7,468.6,45.3,31.3,20.3,3.1
+1209,110213020260001,School,Villa Grove High School,Villa Grove CUSD 302,Villa Grove,Douglas,UNIT,MEDIUM,HIGH SCHOOL,475.6,462.9,44.4,40.0,13.3,2.2
+1213,110213050260001,School,Arthur-Lovington-Atwood-Hammon,Arthur CUSD 305,Arthur,Douglas,UNIT,MEDIUM,HIGH SCHOOL,497.1,485.7,32.4,44.1,19.1,4.4
+1218,110213060260001,School,Arcola High School,Arcola CUSD 306,Arcola,Douglas,UNIT,MEDIUM,HIGH SCHOOL,446.8,441.2,56.1,33.3,10.5,0.0
+1221,110230010260001,School,Shiloh High School,Shiloh CUSD 1,Hume,Edgar,UNIT,SMALL,HIGH SCHOOL,444.8,422.6,55.6,40.7,3.7,0.0
+1224,110230030260001,School,Kansas High School,Kansas CUSD 3,Kansas,Edgar,UNIT,SMALL,HIGH SCHOOL,445.0,451.7,50.0,33.3,16.7,0.0
+1230,110230060260001,School,Chrisman High School,Edgar County CUD 6,Chrisman,Edgar,UNIT,SMALL,HIGH SCHOOL,471.3,447.0,56.5,34.8,4.3,4.3
+1239,110238000800001,School,Paris Cooperative High School,Paris Cooperative High School,Paris,Edgar,HIGH SCHOOL,SMALL,HIGH SCHOOL,474.4,457.4,44.9,41.1,14.0,0.0
+1241,110703000260004,School,Sullivan High School,Sullivan CUSD 300,Sullivan,Moultrie,UNIT,MEDIUM,HIGH SCHOOL,491.2,467.0,48.5,34.8,15.2,1.5
+1245,110703020260001,School,Okaw Valley High School,Okaw Valley CUSD 302,Bethany,Moultrie,UNIT,MEDIUM,HIGH SCHOOL,467.9,456.2,38.5,53.8,7.7,0.0
+1249,110870010260002,School,Windsor Jr & Sr High School,Windsor CUSD 1,Windsor,Shelby,UNIT,SMALL,HIGH SCHOOL,484.2,453.1,46.2,38.5,15.4,0.0
+1252,11087003A260001,School,Cowden-Herrick Jr/Sr High Scho,Cowden-Herrick CUSD 3A,Cowden,Shelby,UNIT,SMALL,HIGH SCHOOL,439.6,432.5,66.7,33.3,0.0,0.0
+1255,110870040260001,School,Shelbyville High School,Shelbyville CUSD 4,Shelbyville,Shelby,UNIT,MEDIUM,HIGH SCHOOL,479.2,464.0,39.7,43.6,16.7,0.0
+1260,11087005A260001,School,Stewardson-Strasburg High Scho,Stewardson-Strasburg CUD 5A,Strasburg,Shelby,UNIT,SMALL,HIGH SCHOOL,489.4,474.7,40.6,40.6,18.8,0.0
+1263,110870210260001,School,Central A & M High School,Central A & M CUD 21,Moweaqua,Shelby,UNIT,MEDIUM,HIGH SCHOOL,469.8,446.9,52.9,35.3,11.8,0.0
+1268,120130100260002,School,Clay City High School,Clay City CUSD 10,Clay City,Clay,UNIT,SMALL,HIGH SCHOOL,534.0,492.0,20.0,70.0,10.0,0.0
+1272,120130250260001,School,North Clay Community High Scho,North Clay CUSD 25,Louisville,Clay,UNIT,MEDIUM,HIGH SCHOOL,460.6,467.5,41.7,37.5,20.8,0.0
+1275,120130350260001,School,Flora High School,Flora CUSD 35,Flora,Clay,UNIT,MEDIUM,HIGH SCHOOL,460.4,439.4,58.4,32.5,9.1,0.0
+1279,120170010260001,School,Hutsonville High School,Hutsonville CUSD 1,Hutsonville,Crawford,UNIT,SMALL,HIGH SCHOOL,473.6,450.4,64.3,14.3,17.9,3.6
+1282,120170020260001,School,Robinson High School,Robinson CUSD 2,Robinson,Crawford,UNIT,MEDIUM,HIGH SCHOOL,473.2,466.1,52.3,23.9,22.9,0.9
+1287,120170030260001,School,Palestine High School,Palestine CUSD 3,Palestine,Crawford,UNIT,SMALL,HIGH SCHOOL,471.1,468.3,44.4,27.8,27.8,0.0
+1290,120170040260001,School,Oblong High School,Oblong CUSD 4,Oblong,Crawford,UNIT,MEDIUM,HIGH SCHOOL,447.1,453.9,56.1,26.8,14.6,2.4
+1293,120400010260001,School,Newton Comm High School,Jasper County CUD 1,Newton,Jasper,UNIT,MEDIUM,HIGH SCHOOL,474.2,469.7,40.0,38.0,22.0,0.0
+1298,120510100260001,School,Red Hill Jr/Sr High School,Red Hill CUSD 10,Bridgeport,Lawrence,UNIT,MEDIUM,HIGH SCHOOL,464.1,442.8,52.5,42.6,4.9,0.0
+1302,120510200260008,School,Lawrenceville High School,Lawrence County CUD 20,Lawrenceville,Lawrence,UNIT,MEDIUM,HIGH SCHOOL,468.5,441.6,61.3,25.0,13.8,0.0
+1306,120800010260001,School,Richland County High School,Richland County CUSD 1,Olney,Richland,UNIT,LARGE,HIGH SCHOOL,469.2,466.6,45.3,37.3,14.9,2.5
+1310,130140010260001,School,Carlyle High School,Carlyle CUSD 1,Carlyle,Clinton,UNIT,MEDIUM,HIGH SCHOOL,471.4,462.7,39.7,42.9,15.9,1.6
+1314,130140030260006,School,Wesclin Sr High School,Wesclin CUSD 3,Trenton,Clinton,UNIT,MEDIUM,HIGH SCHOOL,503.6,491.5,37.1,30.3,31.5,1.1
+1334,130140710160001,School,Central Comm High School,Central CHSD 71,Breese,Clinton,HIGH SCHOOL,SMALL,HIGH SCHOOL,499.1,503.7,34.0,31.4,28.3,6.3
+1340,130410010260001,School,Waltonville High School,Waltonville CUSD 1,Waltonville,Jefferson,UNIT,SMALL,HIGH SCHOOL,454.8,457.3,51.5,27.3,21.2,0.0
+1367,130412010170001,School,Mount Vernon High School,Mt Vernon Twp HSD 201,Mount Vernon,Jefferson,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,447.5,438.7,58.8,28.3,12.1,0.8
+1369,130412090270001,School,Woodlawn High School,Woodlawn Unit School District ,Woodlawn,Jefferson,UNIT,MEDIUM,HIGH SCHOOL,488.3,467.7,40.4,46.2,13.5,0.0
+1372,130413180270001,School,Webber High School,Bluford Unit School District 3,Bluford,Jefferson,UNIT,SMALL,HIGH SCHOOL,456.1,440.0,50.0,42.9,7.1,0.0
+1383,130581000260002,School,Patoka Sr High School,Patoka CUSD 100,Patoka,Marion,UNIT,SMALL,HIGH SCHOOL,485.4,466.9,53.8,30.8,7.7,7.7
+1397,130582000170001,School,Centralia High School,Centralia HSD 200,Centralia,Marion,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,470.6,466.9,42.7,36.4,21.0,0.0
+1399,130584010260001,School,South Central High School,South Central CUD 401,Farina,Marion,UNIT,MEDIUM,HIGH SCHOOL,479.5,454.1,49.2,35.6,15.3,0.0
+1403,130585010260001,School,Sandoval Sr High School,Sandoval CUSD 501,Sandoval,Marion,UNIT,SMALL,HIGH SCHOOL,424.5,407.5,75.0,25.0,0.0,0.0
+1407,130586000160001,School,Salem Community High School,Salem CHSD 600,Salem,Marion,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,459.3,458.6,49.6,29.8,19.1,1.4
+1409,130587220260001,School,Odin Attendance Center 9-12,Odin PSD 722,Odin,Marion,UNIT,SMALL,HIGH SCHOOL,446.4,438.6,64.3,21.4,7.1,7.1
+1414,130950100260001,School,Okawville Jr/Sr High School,West Washington Co CUD 10,Okawville,Washington,UNIT,MEDIUM,HIGH SCHOOL,494.0,495.2,33.3,33.3,26.2,7.1
+1423,130950990160001,School,Nashville Comm High School,Nashville CHSD 99,Nashville,Washington,HIGH SCHOOL,SMALL,HIGH SCHOOL,484.9,469.6,31.7,56.4,11.9,0.0
+1425,150162990250001,School,Amundsen High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,487.3,475.9,42.1,34.1,21.5,2.3
+1426,150162990250003,School,Bogan High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,400.1,391.6,86.4,11.9,1.7,0.0
+1427,150162990250006,School,Carver Military Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,448.8,431.5,63.4,31.2,5.4,0.0
+1428,150162990250011,School,Farragut Career Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,405.9,397.2,82.6,15.7,1.7,0.0
+1429,150162990250012,School,Fenger Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,401.3,380.0,88.7,11.3,0.0,0.0
+1430,150162990250013,School,Foreman High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,401.0,390.8,85.0,11.7,3.3,0.0
+1431,150162990250014,School,Back of The Yards IB HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,470.5,468.7,41.4,37.2,20.7,0.8
+1432,150162990250015,School,Gage Park High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,393.5,388.6,86.9,12.1,0.9,0.0
+1433,150162990250016,School,Harlan Community Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,398.7,388.0,85.2,12.3,2.5,0.0
+1434,150162990250017,School,Harper High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,,,,,,
+1435,150162990250019,School,Hirsch Metropolitan High Schoo,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,374.4,365.6,96.3,3.7,0.0,0.0
+1436,150162990250020,School,Hubbard High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,440.2,416.5,68.5,25.9,5.4,0.2
+1437,150162990250021,School,Hyde Park Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,405.6,386.7,87.5,12.5,0.0,0.0
+1438,150162990250022,School,Thomas Kelly College Preparato,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,434.6,430.9,64.7,25.1,9.3,1.0
+1439,150162990250023,School,Kelvyn Park High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,409.7,389.8,95.2,3.2,1.6,0.0
+1440,150162990250024,School,Kennedy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,466.3,448.7,50.2,36.9,12.4,0.6
+1441,150162990250025,School,Kenwood Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,505.1,482.9,34.7,41.2,22.1,2.0
+1442,150162990250026,School,Lake View High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,447.4,433.2,60.9,30.0,8.8,0.3
+1443,150162990250027,School,Lane Technical High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,607.7,607.0,1.7,16.9,58.5,22.8
+1444,150162990250029,School,Marshall Metropolitan High Sch,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,389.3,386.7,92.9,5.7,1.4,0.0
+1445,150162990250030,School,Mather High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,450.2,441.2,58.7,28.3,12.5,0.5
+1446,150162990250031,School,Morgan Park High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,419.4,400.3,82.3,16.9,0.9,0.0
+1447,150162990250034,School,Phillips Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,402.2,398.8,83.5,14.1,2.4,0.0
+1448,150162990250035,School,Roosevelt High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,409.2,400.1,80.8,17.4,1.4,0.5
+1449,150162990250036,School,Schurz High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,423.5,416.9,70.6,24.5,4.6,0.3
+1450,150162990250037,School,Senn High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,469.5,454.0,50.0,33.0,15.8,1.2
+1451,150162990250039,School,King College Prep High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,488.8,476.3,29.5,56.3,13.4,0.9
+1452,150162990250041,School,Steinmetz College Prep HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,423.0,407.9,75.3,21.3,3.0,0.3
+1453,150162990250042,School,Sullivan High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,429.5,420.6,70.8,20.0,9.2,0.0
+1454,150162990250043,School,Taft High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,488.0,468.9,42.4,34.0,22.3,1.4
+1455,150162990250044,School,Tilden Career Communty Academy,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,404.4,393.8,84.4,13.3,2.2,0.0
+1456,150162990250046,School,Von Steuben Metro Science HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,514.1,507.0,26.5,34.4,35.6,3.5
+1457,150162990250047,School,Lincoln Park High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,533.1,525.9,15.3,39.1,40.3,5.3
+1458,150162990250048,School,Washington G High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,439.2,418.5,65.5,29.7,4.8,0.0
+1459,150162990250049,School,Wells Community Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,401.1,389.9,85.5,14.5,0.0,0.0
+1460,150162990250052,School,Crane Medical Prep HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,437.8,424.9,70.7,26.1,3.3,0.0
+1461,150162990250053,School,Disney II Magnet HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,486.2,463.6,46.4,34.8,17.9,0.9
+1491,150162990250526,School,Chicago Vocational Career Acad,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,401.2,386.4,85.9,14.1,0.0,0.0
+1493,150162990250531,School,Dunbar Vocational Career Acad ,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,407.5,390.4,90.4,9.6,0.0,0.0
+1494,150162990250533,School,Jones College Prep High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,640.3,641.5,0.8,8.7,49.4,41.1
+1495,150162990250534,School,Prosser Career Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,466.0,436.8,59.1,31.5,8.6,0.9
+1496,150162990250536,School,Richards Career Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,384.2,372.2,97.0,1.5,1.5,0.0
+1497,150162990250537,School,Simeon Career Academy High Sch,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,415.2,405.0,78.8,19.9,1.3,0.0
+1499,150162990250543,School,Corliss High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,389.7,385.8,85.2,14.8,0.0,0.0
+1500,150162990250545,School,Clemente Community Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,411.3,398.6,81.7,14.3,3.2,0.8
+1508,150162990250616,School,Manley Career Academy High Sch,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,377.1,375.8,100.0,0.0,0.0,0.0
+1509,150162990250617,School,Curie Metropolitan High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,444.6,440.1,55.4,35.8,8.2,0.6
+1523,150162990250763,School,Julian High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,388.5,377.1,93.7,5.3,1.1,0.0
+1524,150162990250764,School,Young Magnet High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,640.3,642.1,1.3,11.7,46.8,40.2
+1525,150162990250767,School,Juarez Community Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,437.4,417.7,74.0,21.7,4.3,0.0
+1526,150162990250772,School,Chicago HS for Agricult Scienc,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,485.6,457.4,46.7,39.4,13.3,0.6
+1527,150162990250779,School,Hancock College Preparatory HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,524.6,517.7,15.6,46.0,36.0,2.4
+1528,150162990250788,School,Brooks College Prep Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,549.3,522.9,15.0,43.0,39.5,2.5
+1529,150162990250794,School,Northside College Preparatory ,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,656.2,662.0,0.8,5.0,46.2,48.1
+1530,150162990250795,School,Chicago Military Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,426.5,424.8,71.0,22.6,6.5,0.0
+1531,150162990250796,School,Payton College Preparatory HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,675.8,675.0,0.0,3.8,38.5,57.6
+1533,150162990250803,School,Phoenix Military Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,476.0,442.4,53.2,38.1,8.7,0.0
+1534,150162990250818,School,Spry Community Links High Scho,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,403.9,392.3,93.5,6.5,0.0,0.0
+1535,150162990250820,School,Chicago Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,476.5,451.8,48.6,36.1,15.3,0.0
+1536,150162990250824,School,Bowen High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,391.3,375.9,87.0,13.0,0.0,0.0
+1537,150162990250825,School,North-Grand High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,423.4,410.9,74.9,23.5,1.7,0.0
+1538,150162990250826,School,Raby High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,396.7,380.2,92.9,7.1,0.0,0.0
+1539,150162990250827,School,Clark Acad Prep Magnet High Sc,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,406.2,397.2,82.2,17.8,0.0,0.0
+1540,150162990250828,School,Rickover Naval Academy High Sc,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,448.4,445.8,52.7,41.8,5.5,0.0
+1541,150162990250829,School,Uplift Community High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,459.2,406.2,69.2,30.8,0.0,0.0
+1543,150162990250830,School,World Language High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,444.5,429.3,66.2,25.7,8.1,0.0
+1544,150162990250831,School,Douglass Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,369.0,355.0,100.0,0.0,0.0,0.0
+1545,150162990250832,School,Devry Advantage Academy High S,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,507.3,493.0,28.6,44.0,25.0,2.4
+1546,150162990250833,School,Lindblom Math & Science Acad H,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,534.2,528.1,14.3,44.2,38.8,2.7
+1547,150162990250834,School,Bronzeville Scholastic HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,413.3,392.5,100.0,0.0,0.0,0.0
+1548,150162990250835,School,School of Social Justice HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,413.5,403.2,83.1,15.6,1.3,0.0
+1549,150162990250836,School,Multicultural Arts High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,391.8,385.8,91.1,6.7,2.2,0.0
+1550,150162990250837,School,Infinity Math  Science & Tech ,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,449.4,453.4,52.8,30.3,14.6,2.2
+1552,150162990250841,School,Collins Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,401.3,391.0,86.7,13.3,0.0,0.0
+1553,150162990250844,School,Austin College and Career Acad,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,381.1,384.8,88.7,11.3,0.0,0.0
+1554,150162990250847,School,Orr Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,403.4,390.8,87.7,9.6,2.7,0.0
+1555,150162990250848,School,Air Force Acad High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,439.2,424.3,66.7,25.5,7.8,0.0
+1556,150162990250849,School,Alcott College Prep,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,447.3,438.1,57.1,32.1,9.5,1.2
+1558,150162990250850,School,Chicago Technology Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,421.2,401.8,79.4,17.6,2.9,0.0
+1559,150162990250851,School,Chicago HS for the Arts,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,499.6,460.1,46.3,37.2,16.5,0.0
+1560,150162990250855,School,Ogden Int High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,463.9,447.7,51.3,37.5,9.9,1.3
+1561,150162990250856,School,Williams Medical Prep High Sch,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,411.8,404.7,82.4,17.6,0.0,0.0
+1562,150162990250857,School,Westinghouse High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,497.1,487.3,27.5,49.2,22.5,0.8
+1563,150162990250859,School,Solorio Academy High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,465.5,461.3,47.9,32.5,18.2,1.4
+1565,150162990250860,School,South Shore Intl Col Prep HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,454.0,427.1,64.4,32.6,3.0,0.0
+1566,150162990250861,School,Goode STEM Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,424.9,417.4,70.8,24.1,5.2,0.0
+1567,150162990250862,School,Chicago Excel Academy HS,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,388.0,371.2,93.8,6.2,0.0,0.0
+1568,150162990250863,School,Walter Henri Dyett High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,422.1,409.9,71.2,26.6,2.2,0.0
+1569,150162990250867,School,Englewood STEM High School,City of Chicago SD 299,Chicago,Cook,UNIT,LARGE,HIGH SCHOOL,399.0,380.0,80.0,20.0,0.0,0.0
+2063,15016905025001C,School,Intrinsic 2 Charter High Schoo,Intrinsic 2 Charter High Schoo,Chicago,Cook,HIGH SCHOOL,SMALL,HIGH SCHOOL,,,,,,
+2065,15016906025001C,School,Urban Prep West Charter School,Urban Prep West Charter School,Chicago,Cook,HIGH SCHOOL,SMALL,HIGH SCHOOL,401.7,379.6,87.5,12.5,0.0,0.0
+2067,160194240260001,School,Genoa-Kingston High School,Genoa Kingston CUSD 424,Genoa,Dekalb,UNIT,MEDIUM,HIGH SCHOOL,471.2,463.7,47.3,33.6,17.3,1.8
+2072,160194250260001,School,Indian Creek High School,Indian Creek CUSD 425,Shabbona,Dekalb,UNIT,MEDIUM,HIGH SCHOOL,488.7,473.6,40.0,30.0,28.3,1.7
+2076,160194260260003,School,Hiawatha Jr/Sr High School,Hiawatha CUSD 426,Kirkland,Dekalb,UNIT,MEDIUM,HIGH SCHOOL,466.9,461.3,40.6,43.8,15.6,0.0
+2079,160194270260001,School,Sycamore High School,Sycamore CUSD 427,Sycamore,Dekalb,UNIT,LARGE,HIGH SCHOOL,513.2,497.2,31.3,40.6,22.7,5.4
+2087,160194280260011,School,DeKalb High School,DeKalb CUSD 428,Dekalb,Dekalb,UNIT,LARGE,HIGH SCHOOL,483.2,456.3,48.3,33.0,17.2,1.4
+2100,160194290260003,School,Hinckley-Big Rock High School,Hinckley Big Rock CUSD 429,Hinckley,Dekalb,UNIT,MEDIUM,HIGH SCHOOL,521.3,511.2,34.6,34.6,19.2,11.5
+2104,160194300260001,School,Sandwich Community High School,Sandwich CUSD 430,Sandwich,Dekalb,UNIT,LARGE,HIGH SCHOOL,484.8,472.8,44.9,29.9,23.6,1.6
+2111,160194320260003,School,Somonauk High School,Somonauk CUSD 432,Somonauk,Dekalb,UNIT,MEDIUM,HIGH SCHOOL,491.7,481.7,33.3,42.9,23.8,0.0
+2115,170200150260001,School,Clinton High School,Clinton CUSD 15,Clinton,Dewitt,UNIT,LARGE,HIGH SCHOOL,478.8,461.6,36.8,50.0,13.2,0.0
+2121,170200180260001,School,Blue Ridge High School,Blue Ridge CUSD 18,Farmer City,Dewitt,UNIT,MEDIUM,HIGH SCHOOL,491.5,484.9,36.2,31.9,25.5,6.4
+2125,170530050260001,School,Woodland High School,Woodland CUSD 5,Streator,Livingston,UNIT,MEDIUM,HIGH SCHOOL,478.6,474.9,37.8,32.4,24.3,5.4
+2128,17053006J260001,School,Tri-Point High School,Tri Point CUSD 6-J,Cullom,Livingston,UNIT,SMALL,HIGH SCHOOL,452.4,444.8,55.2,27.6,17.2,0.0
+2132,170530080260001,School,Prairie Central High School,Prairie Central CUSD 8,Fairbury,Livingston,UNIT,LARGE,HIGH SCHOOL,471.5,471.7,36.2,43.1,19.0,1.7
+2139,170530740270001,School,Flanagan-Cornell High School,Flanagan-Cornell Dist 74,Flanagan,Livingston,UNIT,SMALL,HIGH SCHOOL,435.2,435.0,54.8,33.3,11.9,0.0
+2142,170530900170001,School,Pontiac High School,Pontiac Twp HSD 90,Pontiac,Livingston,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,485.4,477.6,40.3,34.6,22.6,2.5
+2144,170532300170001,School,Dwight High School,Dwight Twp HSD 230,Dwight,Livingston,HIGH SCHOOL,SMALL,HIGH SCHOOL,447.5,473.8,31.3,47.9,18.8,2.1
+2161,170540210260001,School,Hartsburg-Emden Jr-Sr High Sch,Hartsburg Emden CUSD 21,Hartsburg,Logan,UNIT,SMALL,HIGH SCHOOL,460.6,445.0,68.8,18.8,12.5,0.0
+2164,170540230260001,School,Mount Pulaski High School,Mt Pulaski CUSD 23,Mount Pulaski,Logan,UNIT,MEDIUM,HIGH SCHOOL,512.4,487.9,36.8,36.8,26.3,0.0
+2179,170544040160001,School,Lincoln Comm High School,Lincoln CHSD 404,Lincoln,Logan,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,484.4,465.8,47.8,31.1,18.2,2.9
+2181,170640020260003,School,LeRoy High School,LeRoy CUSD 2,Le Roy,McLean,UNIT,MEDIUM,HIGH SCHOOL,495.3,482.4,36.7,38.8,24.5,0.0
+2185,170640030260002,School,Tri-Valley High School,Tri Valley CUSD 3,Downs,McLean,UNIT,MEDIUM,HIGH SCHOOL,543.9,534.9,15.7,41.4,34.3,8.6
+2189,170640040260001,School,Heyworth Jr-Sr High School,Heyworth CUSD 4,Heyworth,McLean,UNIT,MEDIUM,HIGH SCHOOL,471.0,473.9,44.1,33.9,20.3,1.7
+2192,170640050260001,School,Normal Community High School,McLean County USD 5,Normal,McLean,UNIT,LARGE,HIGH SCHOOL,519.4,519.0,29.4,29.4,29.2,11.9
+2193,170640050260002,School,Normal Community West High Sch,McLean County USD 5,Normal,McLean,UNIT,LARGE,HIGH SCHOOL,501.3,490.4,37.8,34.8,20.2,7.2
+2194,170640050260003,School,Eugene Field School,McLean County USD 5,Normal,McLean,UNIT,LARGE,HIGH SCHOOL,,,,,,
+2218,170640070260002,School,Lexington High School,Lexington CUSD 7,Lexington,McLean,UNIT,SMALL,HIGH SCHOOL,484.1,480.0,40.6,28.1,28.1,3.1
+2222,170640160260009,School,Olympia High School,Olympia CUSD 16,Stanford,McLean,UNIT,LARGE,HIGH SCHOOL,507.9,495.3,30.8,33.7,31.7,3.8
+2228,170640190260001,School,Ridgeview High School,Ridgeview CUSD 19,Colfax,McLean,UNIT,MEDIUM,HIGH SCHOOL,455.2,448.1,57.1,21.4,21.4,0.0
+2232,170640870250001,School,Bloomington High School,Bloomington SD 87,Bloomington,McLean,UNIT,LARGE,HIGH SCHOOL,493.0,472.7,47.8,24.9,22.5,4.8
+2379,190220860170001,School,Hinsdale Central High School,Hinsdale Twp HSD 86,Hinsdale,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,599.7,605.1,8.2,20.3,38.6,32.9
+2380,190220860170002,School,Hinsdale South High School,Hinsdale Twp HSD 86,Darien,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,535.5,529.6,24.3,32.7,31.7,11.3
+2382,190220870170001,School,Glenbard East High School,Glenbard Twp HSD 87,Lombard,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,494.8,487.8,37.4,32.0,25.0,5.6
+2383,190220870170002,School,Glenbard North High School,Glenbard Twp HSD 87,Carol Stream,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,502.4,488.4,38.8,30.4,25.5,5.2
+2384,190220870170003,School,Glenbard West High School,Glenbard Twp HSD 87,Glen Ellyn,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,552.7,551.8,19.9,27.7,34.1,18.2
+2385,190220870170004,School,Glenbard South High School,Glenbard Twp HSD 87,Glen Ellyn,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,525.2,529.3,28.3,26.6,32.8,12.3
+2387,190220880160001,School,Addison Trail High School,DuPage HSD 88,Addison,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,491.6,483.1,36.4,39.2,20.3,4.1
+2388,190220880160002,School,Willowbrook High School,DuPage HSD 88,Villa Park,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,516.7,504.4,31.6,33.6,28.5,6.3
+2406,190220940160001,School,Community High School,CHSD 94,West Chicago,Dupage,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,468.0,460.0,48.7,30.8,18.6,1.8
+2408,190220990160001,School,Comm H S Dist 99 - North H S,CHSD 99,Downers Grove,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,546.4,547.6,18.8,27.1,39.4,14.8
+2409,190220990160002,School,Comm H S Dist 99 - South High ,CHSD 99,Downers Grove,Dupage,HIGH SCHOOL,LARGE,HIGH SCHOOL,518.4,520.5,25.5,32.7,32.6,9.2
+2411,190221000160001,School,Fenton High School,Fenton CHSD 100,Bensenville,Dupage,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,483.0,463.5,48.3,31.8,16.5,3.4
+2413,190221080160001,School,Lake Park High School,Lake Park CHSD 108,Roselle,Dupage,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,524.1,514.0,25.3,36.7,30.7,7.2
+2428,190222000260020,School,Wheaton Warrenville South H S,CUSD 200,Wheaton,Dupage,UNIT,LARGE,HIGH SCHOOL,539.6,528.5,25.7,31.7,29.9,12.6
+2429,190222000260021,School,Wheaton North High School,CUSD 200,Wheaton,Dupage,UNIT,LARGE,HIGH SCHOOL,545.4,538.1,19.5,29.5,37.3,13.7
+2449,190222010260001,School,Westmont High School,CUSD 201,Westmont,Dupage,UNIT,MEDIUM,HIGH SCHOOL,548.6,539.9,20.0,30.5,37.9,11.6
+2455,190222020260001,School,Lisle High School,Lisle CUSD 202,Lisle,Dupage,UNIT,MEDIUM,HIGH SCHOOL,507.9,508.1,34.6,28.0,28.0,9.3
+2459,190222030260001,School,Naperville Central High School,Naperville CUSD 203,Naperville,Dupage,UNIT,LARGE,HIGH SCHOOL,566.3,564.3,15.1,26.3,39.1,19.4
+2460,190222030260013,School,Naperville North High School,Naperville CUSD 203,Naperville,Dupage,UNIT,LARGE,HIGH SCHOOL,577.1,582.8,14.1,24.4,34.3,27.3
+2482,190222040260001,School,Waubonsie Valley High School,Indian Prairie CUSD 204,Aurora,Dupage,UNIT,LARGE,HIGH SCHOOL,546.2,541.0,23.6,27.8,31.8,16.8
+2483,190222040260002,School,Neuqua Valley High School,Indian Prairie CUSD 204,Naperville,Dupage,UNIT,LARGE,HIGH SCHOOL,588.6,592.3,11.2,24.8,34.4,29.6
+2484,190222040260005,School,Metea Valley High School,Indian Prairie CUSD 204,Aurora,Dupage,UNIT,LARGE,HIGH SCHOOL,557.5,559.7,20.8,24.5,32.9,21.9
+2515,190222050260003,School,York Comm High School,Elmhurst SD 205,Elmhurst,Dupage,UNIT,LARGE,HIGH SCHOOL,558.6,565.8,16.2,26.6,34.2,23.1
+2529,200240010260005,School,Edwards County High School,Edwards County CUSD 1,Albion,Edwards,UNIT,MEDIUM,HIGH SCHOOL,496.3,490.3,43.8,26.6,21.9,7.8
+2533,200300070260001,School,Gallatin High School,Gallatin CUSD 7,Junction,Gallatin,UNIT,MEDIUM,HIGH SCHOOL,450.7,441.7,61.0,26.8,12.2,0.0
+2537,200330100260002,School,Hamilton County Jr/Sr High Sch,Hamilton Co CUSD 10,Mc Leansboro,Hamilton,UNIT,MEDIUM,HIGH SCHOOL,459.7,455.1,50.0,37.5,10.2,2.3
+2542,200350010260003,School,Hardin County High School,Hardin County CUSD 1,Elizabethtown,Hardin,UNIT,MEDIUM,HIGH SCHOOL,460.6,443.9,48.4,48.4,3.2,0.0
+2546,200760010260001,School,Pope Co High School,Pope Co CUD 1,Golconda,Pope,UNIT,MEDIUM,HIGH SCHOOL,444.0,428.0,60.0,35.0,5.0,0.0
+2549,200830010260001,School,Galatia High School,Galatia CUSD 1,Galatia,Saline,UNIT,SMALL,HIGH SCHOOL,469.6,450.0,48.0,44.0,8.0,0.0
+2554,200830020260001,School,Carrier Mills-Stonefort H S,Carrier Mills-Stonefort CUSD 2,Carrier Mills,Saline,UNIT,SMALL,HIGH SCHOOL,433.9,419.4,75.0,16.7,8.3,0.0
+2557,200830030260001,School,Harrisburg High School,Harrisburg CUSD 3,Harrisburg,Saline,UNIT,LARGE,HIGH SCHOOL,451.3,418.9,71.3,24.0,4.7,0.0
+2562,200830040260001,School,Eldorado High School,Eldorado CUSD 4,Eldorado,Saline,UNIT,MEDIUM,HIGH SCHOOL,443.2,411.6,72.0,19.5,8.5,0.0
+2568,200933480260001,School,Mount Carmel High School,Wabash CUSD 348,Mount Carmel,Wabash,UNIT,MEDIUM,HIGH SCHOOL,458.3,452.0,55.3,26.3,17.5,0.9
+2579,200961000260001,School,Wayne City High School,Wayne City CUSD 100,Wayne City,Wayne,UNIT,MEDIUM,HIGH SCHOOL,425.5,441.0,62.1,24.1,13.8,0.0
+2585,200962000260001,School,Cisne High School,North Wayne CUSD 200,Cisne,Wayne,UNIT,SMALL,HIGH SCHOOL,452.4,446.5,58.8,35.3,0.0,5.9
+2590,200962250160001,School,Fairfield Comm High School,Fairfield Comm H S Dist 225,Fairfield,Wayne,HIGH SCHOOL,SMALL,HIGH SCHOOL,462.7,448.4,47.9,42.6,8.5,1.1
+2592,200970010260003,School,Grayville Jr Sr High School,Grayville CUSD 1,Grayville,White,UNIT,SMALL,HIGH SCHOOL,492.3,448.5,53.8,38.5,7.7,0.0
+2595,200970030260001,School,Norris City-Omaha-Enfield H S,Norris City-Omaha-Enfield CUSD,Norris City,White,UNIT,MEDIUM,HIGH SCHOOL,431.0,422.2,65.9,29.3,4.9,0.0
+2599,200970050260001,School,Carmi-White County High School,Carmi-White County CUSD 5,Carmi,White,UNIT,MEDIUM,HIGH SCHOOL,470.9,458.0,43.2,42.0,14.8,0.0
+2611,210280990260001,School,Christopher High,Christopher USD 99,Christopher,Franklin,UNIT,MEDIUM,HIGH SCHOOL,431.8,431.1,59.6,36.8,3.5,0.0
+2614,210281030130001,School,Benton Cons High School,Benton Cons HSD 103,Benton,Franklin,HIGH SCHOOL,SMALL,HIGH SCHOOL,478.0,465.5,38.6,40.9,19.7,0.8
+2618,210281680260001,School,Frankfort Community High Schoo,Frankfort CUSD 168,West Frankfort,Franklin,UNIT,LARGE,HIGH SCHOOL,445.3,427.3,67.0,22.7,10.2,0.0
+2623,210281740260001,School,Thompsonville High School,Thompsonville CUSD 174,Thompsonville,Franklin,UNIT,SMALL,HIGH SCHOOL,448.6,435.7,67.9,17.9,14.3,0.0
+2626,210281880260001,School,Zeigler-Royalton High School,Zeigler-Royalton CUSD 188,Zeigler,Franklin,UNIT,MEDIUM,HIGH SCHOOL,463.8,447.7,53.8,30.8,15.4,0.0
+2630,210281960260001,School,Sesser-Valier High School,Sesser-Valier CUSD 196,Sesser,Franklin,UNIT,MEDIUM,HIGH SCHOOL,499.3,477.1,38.1,35.7,26.2,0.0
+2634,210440010260001,School,Goreville High School,Goreville CUD 1,Goreville,Johnson,UNIT,MEDIUM,HIGH SCHOOL,478.1,479.2,30.6,44.4,25.0,0.0
+2645,210441330170001,School,Vienna High School,Vienna HSD 133,Vienna,Johnson,HIGH SCHOOL,SMALL,HIGH SCHOOL,469.0,445.5,48.1,40.3,11.7,0.0
+2647,210610010260001,School,Massac County High School,Massac UD 1,Metropolis,Massac,UNIT,LARGE,HIGH SCHOOL,479.2,446.5,53.5,33.3,12.4,0.8
+2655,210610380260001,School,Joppa Jr & Sr High School,Joppa-Maple Grove UD 38,Joppa,Massac,UNIT,SMALL,HIGH SCHOOL,475.5,486.4,18.2,63.6,18.2,0.0
+2658,211000010260001,School,Johnston City High School,Johnston City CUSD 1,Johnston City,Williamson,UNIT,MEDIUM,HIGH SCHOOL,453.3,448.0,55.6,25.9,17.3,1.2
+2663,211000020260001,School,Marion High School,Marion CUSD 2,Marion,Williamson,UNIT,LARGE,HIGH SCHOOL,466.5,447.2,54.6,31.7,11.2,2.4
+2671,211000030260001,School,Crab Orchard High School,Crab Orchard CUSD 3,Marion,Williamson,UNIT,MEDIUM,HIGH SCHOOL,478.5,464.1,51.9,29.6,11.1,7.4
+2674,211000040260001,School,Herrin High School,Herrin CUSD 4,Herrin,Williamson,UNIT,LARGE,HIGH SCHOOL,487.9,468.1,50.0,27.9,20.0,2.1
+2679,211000050260001,School,Carterville High School,Carterville CUSD 5,Carterville,Williamson,UNIT,LARGE,HIGH SCHOOL,525.4,505.9,30.5,32.5,29.2,7.8
+2684,240320010260001,School,Coal City High School,Coal City CUSD 1,Coal City,Grundy,UNIT,LARGE,HIGH SCHOOL,489.3,493.3,28.8,39.2,31.4,0.7
+2702,240320730170001,School,Gardner-South Wilmington Twp H,Gardner S Wilmington Twp HSD 7,Gardner,Grundy,HIGH SCHOOL,SMALL,HIGH SCHOOL,500.6,492.9,30.6,42.9,24.5,2.0
+2708,240321010160001,School,Morris Community High School,Morris CHSD 101,Morris,Grundy,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,491.8,490.4,38.2,31.2,24.1,6.5
+2710,240321110160001,School,Minooka Community High School,Minooka CHSD 111,Minooka,Grundy,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,507.0,491.3,32.5,39.1,24.6,3.8
+2720,240470180160001,School,Newark Comm High School,Newark CHSD 18,Newark,Kendall,HIGH SCHOOL,SMALL,HIGH SCHOOL,515.7,485.7,25.0,54.5,15.9,4.5
+2725,240470880260001,School,Plano High School,Plano CUSD 88,Plano,Kendall,UNIT,LARGE,HIGH SCHOOL,475.1,450.3,55.4,26.1,16.6,1.9
+2733,240471150260001,School,Yorkville High School,Yorkville CUSD 115,Yorkville,Kendall,UNIT,LARGE,HIGH SCHOOL,511.6,498.6,29.7,38.1,28.7,3.4
+2743,240473080260001,School,Oswego High School,CUSD 308,Oswego,Kendall,UNIT,LARGE,HIGH SCHOOL,505.8,488.7,36.0,35.4,22.8,5.7
+2744,240473080260002,School,Oswego East High School,CUSD 308,Oswego,Kendall,UNIT,LARGE,HIGH SCHOOL,515.7,511.8,27.0,37.4,27.8,7.7
+2765,260290010260001,School,Astoria High School,Astoria CUSD 1,Astoria,Fulton,UNIT,SMALL,HIGH SCHOOL,451.8,420.6,70.6,23.5,5.9,0.0
+2769,260290020260001,School,V I T Sr High School,V I T CUSD 2,Table Grove,Fulton,UNIT,SMALL,HIGH SCHOOL,461.0,441.4,57.1,38.1,0.0,4.8
+2773,260290030260001,School,Cuba Sr High School,CUSD 3 Fulton County,Cuba,Fulton,UNIT,SMALL,HIGH SCHOOL,471.7,432.9,66.7,25.0,8.3,0.0
+2777,260290040260001,School,Spoon River Valley Sr High Sch,Spoon River Valley CUSD 4,London Mills,Fulton,UNIT,SMALL,HIGH SCHOOL,496.1,476.1,38.9,33.3,27.8,0.0
+2781,260290660250001,School,Canton High School,Canton Union SD 66,Canton,Fulton,UNIT,LARGE,HIGH SCHOOL,484.9,479.7,37.6,37.6,20.8,4.0
+2787,260290970260001,School,Lewistown Jr/Sr High School,Lewistown CUSD 97,Lewistown,Fulton,UNIT,MEDIUM,HIGH SCHOOL,456.3,428.3,56.1,36.6,7.3,0.0
+2790,260343070160001,School,Illini West High School,Illini West H S Dist 307,Carthage,Hancock,HIGH SCHOOL,SMALL,HIGH SCHOOL,476.6,452.4,55.2,25.4,19.4,0.0
+2792,260343160260001,School,Warsaw Sr High School,Warsaw CUSD 316,Warsaw,Hancock,UNIT,SMALL,HIGH SCHOOL,514.2,472.0,40.0,46.7,13.3,0.0
+2802,260343280240001,School,Hamilton High School,Hamilton CCSD 328,Hamilton,Hancock,UNIT,MEDIUM,HIGH SCHOOL,492.7,471.0,36.7,56.7,6.7,0.0
+2805,260343370260001,School,Southeastern Jr/Sr High School,Southeastern CUSD 337,Augusta,Hancock,UNIT,SMALL,HIGH SCHOOL,445.9,449.0,44.8,44.8,10.3,0.0
+2811,260621030260001,School,West Prairie Senior High Schoo,West Prairie CUSD 103,Sciota,McDonough,UNIT,MEDIUM,HIGH SCHOOL,473.4,436.9,62.1,27.6,10.3,0.0
+2816,260621700260001,School,Bushnell-Prairie City High Sch,Bushnell Prairie City CUSD 170,Bushnell,McDonough,UNIT,MEDIUM,HIGH SCHOOL,459.8,437.0,50.0,42.5,7.5,0.0
+2820,260621850260001,School,Macomb Senior High School,Macomb CUSD 185,Macomb,McDonough,UNIT,LARGE,HIGH SCHOOL,501.2,484.6,36.1,37.5,23.6,2.8
+2826,260850050260001,School,Rushville-Industry High School,Schuyler-Industry CUSD 5,Rushville,Schuyler,UNIT,MEDIUM,HIGH SCHOOL,484.7,465.0,46.9,34.4,18.8,0.0
+2841,280061030220001,School,DePue High School,DePue USD 103,DePue,Bureau,UNIT,SMALL,HIGH SCHOOL,433.7,418.9,81.5,11.1,3.7,3.7
+2849,280063030260001,School,La Moille Jr/Sr High School,La Moille CUSD 303,La Moille,Bureau,UNIT,SMALL,HIGH SCHOOL,477.4,469.5,36.8,42.1,21.1,0.0
+2853,280063400260001,School,Bureau Valley High School,Bureau Valley CUSD 340,Manlius,Bureau,UNIT,MEDIUM,HIGH SCHOOL,472.5,452.7,53.2,32.9,11.4,2.5
+2858,280065000150001,School,Princeton High School,Princeton HSD 500,Princeton,Bureau,HIGH SCHOOL,SMALL,HIGH SCHOOL,505.1,489.1,29.4,44.4,23.8,2.4
+2860,280065020170001,School,Hall High School,Hall HSD 502,Spring Valley,Bureau,HIGH SCHOOL,SMALL,HIGH SCHOOL,464.4,454.4,55.1,25.8,15.7,3.4
+2862,280065050160001,School,Ohio Community High School,Ohio CHSD 505,Ohio,Bureau,HIGH SCHOOL,SMALL,HIGH SCHOOL,,,,,,
+2866,280372230260001,School,Orion High School,Orion CUSD 223,Orion,Henry,UNIT,MEDIUM,HIGH SCHOOL,496.9,508.4,24.7,35.1,39.0,1.3
+2870,280372240260001,School,Galva Jr-Sr High School,Galva CUSD 224,Galva,Henry,UNIT,MEDIUM,HIGH SCHOOL,469.2,439.6,58.3,33.3,8.3,0.0
+2873,280372250260001,School,AlWood  Middle/High School,AlWood CUSD 225,Woodhull,Henry,UNIT,SMALL,HIGH SCHOOL,525.0,481.3,40.0,40.0,16.7,3.3
+2876,280372260260001,School,Annawan High School,Annawan CUSD 226,Annawan,Henry,UNIT,SMALL,HIGH SCHOOL,459.5,474.5,45.5,31.8,18.2,4.5
+2879,280372270260002,School,Cambridge Jr/Sr High School,Cambridge CUSD 227,Cambridge,Henry,UNIT,SMALL,HIGH SCHOOL,495.3,478.4,34.4,50.0,15.6,0.0
+2882,280372280260001,School,Geneseo High School,Geneseo CUSD 228,Geneseo,Henry,UNIT,LARGE,HIGH SCHOOL,517.1,506.3,27.6,37.3,30.3,4.9
+2888,280372290260001,School,Kewanee High School,Kewanee CUSD 229,Kewanee,Henry,UNIT,LARGE,HIGH SCHOOL,445.5,434.0,65.5,28.2,5.5,0.9
+2896,280372300260002,School,Wethersfield Jr/Sr High School,Wethersfield CUSD 230,Kewanee,Henry,UNIT,MEDIUM,HIGH SCHOOL,478.3,451.4,47.2,38.9,13.9,0.0
+2902,280881000260001,School,Stark County High School,Stark County CUSD 100,Toulon,Stark,UNIT,MEDIUM,HIGH SCHOOL,491.1,481.7,34.0,42.6,23.4,0.0
+2906,300020010220001,School,Cairo Jr/Sr High School,Cairo USD 1,Cairo,Alexander,UNIT,SMALL,HIGH SCHOOL,396.4,396.4,85.7,14.3,0.0,0.0
+2909,300020050260001,School,Egyptian Sr High School,Egyptian CUSD 5,Tamms,Alexander,UNIT,SMALL,HIGH SCHOOL,448.4,438.4,63.2,21.1,15.8,0.0
+2924,300391650160001,School,Carbondale Comm H S,Carbondale CHSD 165,Carbondale,Jackson,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,503.1,480.8,42.9,30.2,20.5,6.3
+2926,300391760260001,School,Trico Senior High School,Trico CUSD 176,Campbell Hill,Jackson,UNIT,MEDIUM,HIGH SCHOOL,480.3,463.0,43.3,40.3,16.4,0.0
+2930,300391860260001,School,Murphysboro High School,Murphysboro CUSD 186,Murphysboro,Jackson,UNIT,LARGE,HIGH SCHOOL,461.3,454.8,50.5,34.2,15.3,0.0
+2936,300391960260001,School,Elverado High School,Elverado CUSD 196,Elkville,Jackson,UNIT,SMALL,HIGH SCHOOL,443.3,450.4,54.2,33.3,12.5,0.0
+2946,300731010160001,School,Pinckneyville Comm High School,Pinckneyville CHSD 101,Pinckneyville,Perry,HIGH SCHOOL,SMALL,HIGH SCHOOL,465.9,475.8,36.3,44.2,17.7,1.8
+2950,300733000260001,School,Du Quoin High School,Du Quoin CUSD 300,Du Quoin,Perry,UNIT,MEDIUM,HIGH SCHOOL,465.2,450.2,53.7,27.8,15.7,2.8
+2954,300771000260001,School,Century Jr/Sr High School,Century CUSD 100,Ullin,Pulaski,UNIT,SMALL,HIGH SCHOOL,449.0,422.8,69.0,31.0,0.0,0.0
+2957,300771010260001,School,Meridian High School,Meridian CUSD 101,Mounds,Pulaski,UNIT,SMALL,HIGH SCHOOL,411.4,387.1,89.3,10.7,0.0,0.0
+2962,300910170220001,School,Cobden High School,Cobden SUD 17,Cobden,Union,UNIT,MEDIUM,HIGH SCHOOL,481.0,478.3,29.3,48.8,22.0,0.0
+2972,300910660220001,School,Dongola High School,Dongola USD 66,Dongola,Union,UNIT,SMALL,HIGH SCHOOL,454.0,426.0,66.7,26.7,6.7,0.0
+2976,300910810160001,School,Anna-Jonesboro High School,Anna Jonesboro CHSD 81,Anna,Union,HIGH SCHOOL,SMALL,HIGH SCHOOL,449.2,450.2,51.9,34.1,11.6,2.3
+2978,300910840260001,School,Shawnee High School,Shawnee CUSD 84,Wolf Lake,Union,UNIT,SMALL,HIGH SCHOOL,436.1,440.0,61.1,33.3,5.6,0.0
+2982,310450460220001,School,Elgin High School,SD U-46,Elgin,Kane,UNIT,LARGE,HIGH SCHOOL,454.1,440.5,62.6,22.4,12.2,2.8
+2983,310450460220002,School,Larkin High School,SD U-46,Elgin,Kane,UNIT,LARGE,HIGH SCHOOL,449.1,430.6,63.4,27.7,8.2,0.6
+2984,310450460220003,School,Streamwood High School,SD U-46,Streamwood,Kane,UNIT,LARGE,HIGH SCHOOL,478.6,460.6,47.5,34.1,14.9,3.5
+2985,310450460220004,School,Bartlett High School,SD U-46,Bartlett,Kane,UNIT,LARGE,HIGH SCHOOL,504.2,494.6,36.9,31.3,25.4,6.5
+2986,310450460220005,School,South Elgin High School,SD U-46,South Elgin,Kane,UNIT,LARGE,HIGH SCHOOL,502.0,494.3,38.3,28.8,26.2,6.7
+3036,310451010220001,School,Batavia Sr High School,Batavia USD 101,Batavia,Kane,UNIT,LARGE,HIGH SCHOOL,530.2,533.9,22.5,28.2,38.6,10.7
+3045,310451290220001,School,West Aurora High School,Aurora West USD 129,Aurora,Kane,UNIT,LARGE,HIGH SCHOOL,471.5,461.9,48.7,31.2,18.0,2.2
+3062,310451310220001,School,East High School,Aurora East USD 131,Aurora,Kane,UNIT,LARGE,HIGH SCHOOL,432.8,410.7,70.2,21.6,7.8,0.5
+3081,310453000260002,School,Dundee-Crown High School,CUSD 300,Carpentersville,Kane,UNIT,LARGE,HIGH SCHOOL,466.6,458.0,51.5,28.5,18.2,1.8
+3082,310453000260003,School,Hampshire High School,CUSD 300,Hampshire,Kane,UNIT,LARGE,HIGH SCHOOL,507.8,495.0,32.3,36.7,28.6,2.4
+3083,310453000260004,School,Harry D Jacobs High School,CUSD 300,Algonquin,Kane,UNIT,LARGE,HIGH SCHOOL,514.3,500.6,33.6,34.3,25.3,6.7
+3108,310453010260001,School,Central High School,Central CUSD 301,Burlington,Kane,UNIT,LARGE,HIGH SCHOOL,526.6,527.5,22.0,30.7,38.4,8.9
+3116,310453020260001,School,Kaneland Senior High School,Kaneland CUSD 302,Maple Park,Kane,UNIT,LARGE,HIGH SCHOOL,524.2,505.1,26.1,39.4,30.0,4.5
+3123,310453030260011,School,St Charles East High School,St Charles CUSD 303,Saint Charles,Kane,UNIT,LARGE,HIGH SCHOOL,544.9,545.8,15.9,31.7,38.2,14.1
+3124,310453030260012,School,St Charles North High School,St Charles CUSD 303,Saint Charles,Kane,UNIT,LARGE,HIGH SCHOOL,544.4,551.7,16.0,29.5,39.4,15.1
+3139,310453040260001,School,Geneva Community High School,Geneva CUSD 304,Geneva,Kane,UNIT,LARGE,HIGH SCHOOL,553.4,551.7,14.9,29.8,41.1,14.2
+3154,320380030260001,School,Donovan Sr High School,Donovan CUSD 3,Donovan,Iroquois,UNIT,SMALL,HIGH SCHOOL,461.3,457.5,43.8,50.0,6.3,0.0
+3158,320380040260001,School,Central High School,Central CUSD 4,Clifton,Iroquois,UNIT,MEDIUM,HIGH SCHOOL,465.5,447.7,50.7,38.7,10.7,0.0
+3163,320380060260001,School,Cissna Park Sr High School,Cissna Park CUSD 6,Cissna Park,Iroquois,UNIT,SMALL,HIGH SCHOOL,467.5,436.7,50.0,41.7,8.3,0.0
+3167,320380090260001,School,Watseka Comm High School,Iroquois County CUSD 9,Watseka,Iroquois,UNIT,MEDIUM,HIGH SCHOOL,484.4,461.5,45.1,36.6,18.3,0.0
+3172,320380100260001,School,Iroquois West High School,Iroquois West CUSD 10,Gilman,Iroquois,UNIT,MEDIUM,HIGH SCHOOL,472.4,447.1,53.6,33.3,13.1,0.0
+3178,320381240260001,School,Milford High School Campus,Milford Area Public Schools Di,Milford,Iroquois,UNIT,MEDIUM,HIGH SCHOOL,511.9,513.1,19.4,50.0,27.8,2.8
+3183,320460010260003,School,Momence High School,Momence CUSD 1,Momence,Kankakee,UNIT,MEDIUM,HIGH SCHOOL,445.7,431.6,62.0,27.8,10.1,0.0
+3187,320460020260001,School,Herscher High School,Herscher CUSD 2,Herscher,Kankakee,UNIT,MEDIUM,HIGH SCHOOL,483.5,487.2,39.7,24.6,31.0,4.8
+3192,320460050260005,School,Manteno High School,Manteno CUSD 5,Manteno,Kankakee,UNIT,LARGE,HIGH SCHOOL,471.0,466.0,47.7,27.8,22.5,2.0
+3196,320460060260001,School,Grant Park High School,Grant Park CUSD 6,Grant Park,Kankakee,UNIT,MEDIUM,HIGH SCHOOL,470.0,434.2,52.0,36.0,12.0,0.0
+3209,320461110250014,School,Kankakee High School,Kankakee SD 111,Kankakee,Kankakee,UNIT,LARGE,HIGH SCHOOL,435.4,411.6,76.5,16.9,6.3,0.4
+3226,320463020160001,School,St Anne Comm High School,St Anne CHSD 302,Saint Anne,Kankakee,HIGH SCHOOL,SMALL,HIGH SCHOOL,446.2,412.8,65.2,30.4,4.3,0.0
+3228,320463070160001,School,Bradley-Bourbonnais C High Sch,Bradley Bourbonnais CHSD 307,Bradley,Kankakee,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,475.1,454.6,49.1,35.8,13.4,1.7
+3230,330362350260001,School,West Central High School,West Central CUSD 235,Biggsville,Henderson,UNIT,MEDIUM,HIGH SCHOOL,454.5,433.4,53.6,35.7,8.9,1.8
+3235,330482020260001,School,Knoxville Sr High School,Knoxville CUSD 202,Knoxville,Knox,UNIT,MEDIUM,HIGH SCHOOL,483.2,484.3,50.6,18.2,26.0,5.2
+3239,330482050260023,School,Galesburg High School,Galesburg CUSD 205,Galesburg,Knox,UNIT,LARGE,HIGH SCHOOL,465.7,459.4,51.4,29.6,16.2,2.8
+3247,330482080260001,School,R O W V A Jr and  Sr High Scho,R O W V A CUSD 208,Oneida,Knox,UNIT,MEDIUM,HIGH SCHOOL,483.0,454.3,51.8,33.9,14.3,0.0
+3250,330482100260001,School,Williamsfield High School,Williamsfield CUSD 210,Williamsfield,Knox,UNIT,SMALL,HIGH SCHOOL,492.8,468.3,44.4,38.9,16.7,0.0
+3254,330482760260001,School,Abingdon-Avon High Sch,Abingdon-Avon CUSD 276,Abingdon,Knox,UNIT,MEDIUM,HIGH SCHOOL,467.1,426.2,65.8,26.0,8.2,0.0
+3259,330664040260001,School,Mercer County High School,Mercer County School District ,Aledo,Mercer,UNIT,MEDIUM,HIGH SCHOOL,472.5,468.4,36.5,47.1,16.5,0.0
+3265,330942380260001,School,Monmouth-Roseville High Sch,Monmouth-Roseville CUSD 238,Monmouth,Warren,UNIT,MEDIUM,HIGH SCHOOL,476.1,460.4,50.0,29.1,18.2,2.7
+3271,330943040260001,School,United High School,United CUSD 304,Monmouth,Warren,UNIT,MEDIUM,HIGH SCHOOL,474.2,466.3,41.7,38.3,20.0,0.0
+3338,340490600260022,School,Waukegan High School,Waukegan CUSD 60,Waukegan,Lake,UNIT,LARGE,HIGH SCHOOL,425.8,413.0,71.9,22.8,5.3,0.0
+3403,340490950260001,School,Lake Zurich High School,Lake Zurich CUSD 95,Lake Zurich,Lake,UNIT,LARGE,HIGH SCHOOL,558.3,558.9,13.4,32.2,36.6,17.8
+3449,340491130170001,School,Deerfield High School,Twp HSD 113,Deerfield,Lake,HIGH SCHOOL,LARGE,HIGH SCHOOL,586.2,585.5,9.3,24.1,41.1,25.6
+3450,340491130170002,School,Highland Park High School,Twp HSD 113,Highland Park,Lake,HIGH SCHOOL,LARGE,HIGH SCHOOL,555.3,548.2,22.4,24.0,37.1,16.6
+3455,340491150160001,School,Lake Forest High School,Lake Forest CHSD 115,Lake Forest,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,583.9,582.4,9.6,23.6,44.9,21.9
+3457,340491160260006,School,Round Lake Senior High School,Round Lake CUSD 116,Round Lake,Lake,UNIT,LARGE,HIGH SCHOOL,449.6,435.9,58.0,33.2,8.2,0.6
+3467,340491170160001,School,Antioch Comm High School,CHSD 117,Antioch,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,508.0,497.3,31.5,36.4,27.5,4.6
+3468,340491170160002,School,Lakes Community High School,CHSD 117,Lake Villa,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,519.7,517.8,27.2,32.3,30.1,10.4
+3470,340491180260005,School,Wauconda High School,Wauconda CUSD 118,Wauconda,Lake,UNIT,LARGE,HIGH SCHOOL,499.7,474.6,43.1,31.4,22.5,3.1
+3477,340491200130001,School,Mundelein Cons High School,Mundelein Cons HSD 120,Mundelein,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,497.1,480.9,40.2,32.4,23.9,3.5
+3479,340491210170001,School,Warren Township High School,Warren Twp HSD 121,Gurnee,Lake,HIGH SCHOOL,LARGE,HIGH SCHOOL,517.1,504.7,34.7,30.9,24.5,9.9
+3481,340491240160001,School,Grant Community High School,Grant CHSD 124,Fox Lake,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,483.8,471.2,43.4,33.3,20.3,3.1
+3483,340491250130001,School,Adlai E Stevenson High School,Adlai E Stevenson HSD 125,Lincolnshire,Lake,HIGH SCHOOL,LARGE,HIGH SCHOOL,603.4,612.6,7.9,19.7,37.2,35.2
+3485,340491260170001,School,Zion-Benton Twnshp Hi Sch,Zion-Benton Twp HSD 126,Zion,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,451.7,428.7,63.7,26.8,9.1,0.4
+3486,340491260170002,School,New Tech High - Zion-Benton Ea,Zion-Benton Twp HSD 126,Zion,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,455.9,434.9,57.3,36.0,6.7,0.0
+3488,340491270160001,School,Grayslake Central High School,Grayslake CHSD 127,Grayslake,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,537.0,519.9,27.4,28.7,31.8,12.1
+3489,340491270160002,School,Grayslake North High School,Grayslake CHSD 127,Grayslake,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,518.0,505.0,34.3,29.4,29.1,7.3
+3491,340491280160002,School,Libertyville High School,CHSD 128,Libertyville,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,572.9,567.5,11.9,29.0,39.6,19.5
+3492,340491280160004,School,Vernon Hills High School,CHSD 128,Vernon Hills,Lake,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,577.3,588.3,11.6,24.0,37.7,26.6
+3494,340491870260001,School,North Chicago Community High S,North Chicago SD 187,North Chicago,Lake,UNIT,LARGE,HIGH SCHOOL,412.3,400.5,83.9,12.3,3.2,0.6
+3503,340492200260004,School,Barrington High School,Barrington CUSD 220,Barrington,Lake,UNIT,LARGE,HIGH SCHOOL,571.5,577.3,15.1,21.0,38.7,25.1
+3520,350500010260001,School,Leland High School,Leland CUSD 1,Leland,La Salle,UNIT,SMALL,HIGH SCHOOL,470.8,468.5,38.5,46.2,15.4,0.0
+3523,350500020260001,School,Serena High School,Serena CUSD 2,Serena,La Salle,UNIT,MEDIUM,HIGH SCHOOL,455.6,432.4,63.4,26.8,9.8,0.0
+3528,350500090260001,School,Earlville Jr/Sr High School,Earlville CUSD 9,Earlville,La Salle,UNIT,SMALL,HIGH SCHOOL,474.1,479.5,43.2,35.1,18.9,2.7
+3534,350500400170001,School,Streator Twp High School,Streator Twp HSD 40,Streator,La Salle,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,457.2,441.8,57.0,31.1,11.4,0.5
+3548,350501200170001,School,La Salle-Peru Twp High School,La Salle-Peru Twp HSD 120,La Salle,La Salle,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,474.4,453.2,49.6,35.1,14.2,1.1
+3559,350501400170001,School,Ottawa Township High School,Ottawa Twp HSD 140,Ottawa,La Salle,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,479.7,460.8,48.3,33.1,16.7,1.9
+3569,350501600170001,School,Seneca High School,Seneca Twp HSD 160,Seneca,La Salle,HIGH SCHOOL,SMALL,HIGH SCHOOL,495.8,498.4,35.3,34.1,25.9,4.7
+3582,350502800170001,School,Mendota Twp High School,Mendota Twp HSD 280,Mendota,La Salle,HIGH SCHOOL,SMALL,HIGH SCHOOL,468.9,476.8,43.9,31.8,17.4,6.8
+3590,350590050260001,School,Henry-Senachwine High School,Henry-Senachwine CUSD 5,Henry,Marshall,UNIT,MEDIUM,HIGH SCHOOL,497.8,473.4,34.4,43.8,21.9,0.0
+3593,350590070260001,School,Midland High School,Midland CUSD 7,Varna,Marshall,UNIT,MEDIUM,HIGH SCHOOL,509.8,479.6,37.3,39.2,23.5,0.0
+3597,350785350260002,School,Putnam County High School,Putnam County CUSD 535,Granville,Putnam,UNIT,MEDIUM,HIGH SCHOOL,502.6,493.3,33.3,44.4,18.5,3.7
+3602,390550010260001,School,Argenta-Oreana High School,Argenta-Oreana CUSD 1,Argenta,Macon,UNIT,MEDIUM,HIGH SCHOOL,468.6,439.5,60.0,30.8,7.7,1.5
+3606,390550020260001,School,Maroa-Forsyth Senior High Sch,Maroa Forsyth CUSD 2,Maroa,Macon,UNIT,MEDIUM,HIGH SCHOOL,502.7,473.7,46.1,28.1,21.3,4.5
+3610,390550030260001,School,Mt Zion High School,Mt Zion CUSD 3,Mount Zion,Macon,UNIT,LARGE,HIGH SCHOOL,520.9,518.5,25.9,31.8,31.2,11.2
+3616,390550090260001,School,Sangamon Valley High School,Sangamon Valley CUSD 9,Niantic,Macon,UNIT,MEDIUM,HIGH SCHOOL,449.2,438.0,57.4,36.1,4.9,1.6
+3621,390550110260001,School,Warrensburg-Latham High School,Warrensburg-Latham CUSD 11,Warrensburg,Macon,UNIT,MEDIUM,HIGH SCHOOL,513.0,457.6,43.0,40.5,13.9,2.5
+3625,390550150260001,School,Meridian High School,Meridian CUSD 15,Macon,Macon,UNIT,MEDIUM,HIGH SCHOOL,488.7,466.6,47.1,30.0,20.0,2.9
+3629,390550610250036,School,Eisenhower High School,Decatur SD 61,Decatur,Macon,UNIT,LARGE,HIGH SCHOOL,425.2,402.6,78.2,17.9,3.4,0.6
+3630,390550610250038,School,MacArthur High School,Decatur SD 61,Decatur,Macon,UNIT,LARGE,HIGH SCHOOL,435.0,411.3,74.5,18.9,6.6,0.0
+3647,390740050260001,School,Bement High School,Bement CUSD 5,Bement,Piatt,UNIT,SMALL,HIGH SCHOOL,451.3,445.7,56.5,34.8,8.7,0.0
+3651,390740250260001,School,Monticello High School,Monticello CUSD 25,Monticello,Piatt,UNIT,MEDIUM,HIGH SCHOOL,531.0,508.5,21.7,46.7,28.3,3.3
+3657,390740570260001,School,Deland-Weldon High School,Deland-Weldon CUSD 57,De Land,Piatt,UNIT,SMALL,HIGH SCHOOL,455.4,414.6,76.9,23.1,0.0,0.0
+3661,390741000260001,School,Cerro Gordo Jr and Sr High Sch,Cerro Gordo CUSD 100,Cerro Gordo,Piatt,UNIT,MEDIUM,HIGH SCHOOL,487.6,489.7,23.5,52.9,20.6,2.9
+3664,400070400260001,School,Calhoun High School,Calhoun CUSD 40,Hardin,Calhoun,UNIT,SMALL,HIGH SCHOOL,474.6,478.9,42.9,35.7,17.9,3.6
+3667,400070420260001,School,Brussels High School,Brussels CUSD 42,Brussels,Calhoun,UNIT,SMALL,HIGH SCHOOL,475.0,486.7,41.7,33.3,25.0,0.0
+3670,400310010260003,School,Carrollton High School,Carrollton CUSD 1,Carrollton,Greene,UNIT,MEDIUM,HIGH SCHOOL,455.9,470.2,47.1,27.5,23.5,2.0
+3673,400310030260001,School,North Greene Jr/Sr High Sch,North Greene CUSD 3,White Hall,Greene,UNIT,MEDIUM,HIGH SCHOOL,431.0,425.8,71.0,24.2,4.8,0.0
+3676,400310100260001,School,Greenfield High School,Greenfield CUSD 10,Greenfield,Greene,UNIT,SMALL,HIGH SCHOOL,470.5,468.9,40.5,40.5,18.9,0.0
+3679,400421000260001,School,Jersey Comm High School,Jersey CUSD 100,Jerseyville,Jersey,UNIT,LARGE,HIGH SCHOOL,492.4,483.5,42.2,32.4,20.5,4.9
+3685,400560010260002,School,Carlinville High School,Carlinville CUSD 1,Carlinville,Macoupin,UNIT,MEDIUM,HIGH SCHOOL,517.0,500.8,32.6,34.8,27.2,5.4
+3690,400560020260004,School,Northwestern High School,Northwestern CUSD 2,Palmyra,Macoupin,UNIT,SMALL,HIGH SCHOOL,440.0,428.1,66.7,33.3,0.0,0.0
+3694,400560050260001,School,Mt Olive High School,Mount Olive CUSD 5,Mount Olive,Macoupin,UNIT,SMALL,HIGH SCHOOL,491.4,453.0,51.4,27.0,21.6,0.0
+3697,400560060260001,School,Staunton High School,Staunton CUSD 6,Staunton,Macoupin,UNIT,MEDIUM,HIGH SCHOOL,479.0,475.3,37.0,39.5,22.2,1.2
+3701,400560070260003,School,Gillespie High School,Gillespie CUSD 7,Gillespie,Macoupin,UNIT,MEDIUM,HIGH SCHOOL,489.3,495.6,38.7,33.3,20.0,8.0
+3705,400560080260001,School,Bunker Hill High School,Bunker Hill CUSD 8,Bunker Hill,Macoupin,UNIT,MEDIUM,HIGH SCHOOL,470.4,437.6,54.9,29.4,15.7,0.0
+3708,400560090260001,School,Southwestern High School,Southwestern CUSD 9,Piasa,Macoupin,UNIT,MEDIUM,HIGH SCHOOL,472.4,465.4,45.3,32.1,20.8,1.9
+3714,400560340260001,School,North Mac High School,North Mac CUSD 34,Virden,Macoupin,UNIT,MEDIUM,HIGH SCHOOL,481.4,448.3,58.0,26.1,14.5,1.4
+3719,410570010260001,School,Roxana Sr High School,Roxana CUSD 1,Roxana,Madison,UNIT,LARGE,HIGH SCHOOL,454.1,448.1,51.4,36.0,12.6,0.0
+3724,410570020260001,School,Triad High School,Triad CUSD 2,Troy,Madison,UNIT,LARGE,HIGH SCHOOL,508.5,519.0,26.4,29.9,37.7,6.0
+3733,410570050260001,School,Highland High School,Highland CUSD 5,Highland,Madison,UNIT,LARGE,HIGH SCHOOL,506.5,515.2,23.9,36.6,35.6,3.9
+3740,410570070260001,School,Edwardsville High School,Edwardsville CUSD 7,Edwardsville,Madison,UNIT,LARGE,HIGH SCHOOL,526.4,522.1,23.3,35.8,31.4,9.4
+3754,410570080260001,School,Civic Memorial High School,Bethalto CUSD 8,Bethalto,Madison,UNIT,LARGE,HIGH SCHOOL,463.6,446.2,52.6,30.6,16.8,0.0
+3760,410570090260001,School,Granite City High School,Granite City CUSD 9,Granite City,Madison,UNIT,LARGE,HIGH SCHOOL,454.1,432.7,64.4,25.4,8.7,1.5
+3769,410570100260001,School,Collinsville High School,Collinsville CUSD 10,Collinsville,Madison,UNIT,LARGE,HIGH SCHOOL,468.7,458.0,50.0,33.5,14.4,2.1
+3781,410570110260001,School,Alton High School,Alton CUSD 11,Alton,Madison,UNIT,LARGE,HIGH SCHOOL,468.0,450.9,58.0,21.4,16.8,3.8
+3791,410570120260001,School,Madison Senior High School,Madison CUSD 12,Madison,Madison,UNIT,MEDIUM,HIGH SCHOOL,392.3,369.2,88.5,11.5,0.0,0.0
+3799,410570140160001,School,East Alton-Wood River High Sch,East Alton-Wood River CHSD 14,Wood River,Madison,HIGH SCHOOL,SMALL,HIGH SCHOOL,447.0,426.3,62.9,29.4,7.0,0.7
+3812,440630120260002,School,Johnsburg High School,Johnsburg CUSD 12,Johnsburg,McHenry,UNIT,LARGE,HIGH SCHOOL,501.9,490.7,28.5,44.5,24.8,2.2
+3828,440630190240002,School,Alden-Hebron High School,Alden Hebron SD 19,Hebron,McHenry,UNIT,SMALL,HIGH SCHOOL,494.4,476.9,37.5,31.3,25.0,6.3
+3856,440630500260001,School,Harvard High School,Harvard CUSD 50,Harvard,McHenry,UNIT,LARGE,HIGH SCHOOL,457.4,442.5,60.1,27.2,11.4,1.3
+3862,440631540160001,School,Marengo High School,Marengo CHSD 154,Marengo,McHenry,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,505.3,510.8,23.2,39.1,34.8,2.9
+3864,440631550160001,School,Crystal Lake Central High Scho,CHSD 155,Crystal Lake,McHenry,HIGH SCHOOL,LARGE,HIGH SCHOOL,503.6,501.0,33.3,32.6,27.7,6.4
+3865,440631550160002,School,Cary-Grove Community High Scho,CHSD 155,Cary,McHenry,HIGH SCHOOL,LARGE,HIGH SCHOOL,533.6,523.9,22.8,34.6,32.8,9.8
+3866,440631550160003,School,Crystal Lake South High School,CHSD 155,Crystal Lake,McHenry,HIGH SCHOOL,LARGE,HIGH SCHOOL,514.0,505.1,29.5,33.4,30.4,6.7
+3867,440631550160004,School,Prairie Ridge High School,CHSD 155,Crystal Lake,McHenry,HIGH SCHOOL,LARGE,HIGH SCHOOL,543.6,543.6,22.3,25.2,37.9,14.6
+3869,440631560160001,School,McHenry High School-West Campu,McHenry CHSD 156,McHenry,McHenry,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,498.7,486.5,34.9,35.5,27.2,2.4
+3870,440631560160002,School,McHenry  East High School,McHenry CHSD 156,McHenry,McHenry,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,488.8,480.6,33.6,42.2,24.2,0.0
+3872,440631570160001,School,Richmond-Burton High School,Richmond-Burton CHSD 157,Richmond,McHenry,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,526.8,527.1,26.5,33.1,26.5,14.0
+3874,440631580220002,School,Huntley High School,Huntley Community School Distr,Huntley,McHenry,UNIT,LARGE,HIGH SCHOOL,538.4,531.1,19.2,34.9,36.4,9.5
+3888,440632000260008,School,Woodstock High School,Woodstock CUSD 200,Woodstock,McHenry,UNIT,LARGE,HIGH SCHOOL,516.3,483.1,33.6,37.2,26.7,2.4
+3889,440632000260009,School,Woodstock North High School,Woodstock CUSD 200,Woodstock,McHenry,UNIT,LARGE,HIGH SCHOOL,494.9,482.2,36.7,37.6,21.1,4.6
+3900,450670030260001,School,Valmeyer High School,Valmeyer CUSD 3,Valmeyer,Monroe,UNIT,SMALL,HIGH SCHOOL,489.2,474.6,37.5,45.8,16.7,0.0
+3904,450670040260001,School,Columbia High School,Columbia CUSD 4,Columbia,Monroe,UNIT,LARGE,HIGH SCHOOL,517.0,526.3,19.4,34.5,38.8,7.2
+3909,450670050260001,School,Waterloo High School,Waterloo CUSD 5,Waterloo,Monroe,UNIT,LARGE,HIGH SCHOOL,510.1,502.6,32.8,30.8,28.7,7.7
+3915,450790010220001,School,Coulterville High School,Coulterville USD 1,Coulterville,Randolph,UNIT,SMALL,HIGH SCHOOL,465.4,478.5,30.8,46.2,23.1,0.0
+3919,450791320260001,School,Red Bud High School,Red Bud CUSD 132,Red Bud,Randolph,UNIT,MEDIUM,HIGH SCHOOL,475.3,457.8,52.6,26.3,18.9,2.1
+3924,450791380260001,School,Steeleville High School,Steeleville CUSD 138,Steeleville,Randolph,UNIT,SMALL,HIGH SCHOOL,460.9,457.7,45.5,38.6,13.6,2.3
+3927,450791390260001,School,Chester High School,Chester CUSD 139,Chester,Randolph,UNIT,MEDIUM,HIGH SCHOOL,450.6,430.0,59.8,33.3,6.9,0.0
+3930,450791400260001,School,Sparta High School,Sparta CUSD 140,Sparta,Randolph,UNIT,MEDIUM,HIGH SCHOOL,449.9,441.0,56.2,32.9,11.0,0.0
+3934,470521700220001,School,Dixon High School,Dixon USD 170,Dixon,Lee,UNIT,LARGE,HIGH SCHOOL,490.9,469.9,42.5,36.3,19.6,1.7
+3945,470522720260001,School,Amboy High School,Amboy CUSD 272,Amboy,Lee,UNIT,MEDIUM,HIGH SCHOOL,482.0,470.4,40.0,36.0,22.0,2.0
+3949,470522750260001,School,Ashton-Franklin Center HS,Ashton-Franklin Center CUSD 27,Ashton,Lee,UNIT,MEDIUM,HIGH SCHOOL,439.7,439.0,58.6,34.5,6.9,0.0
+3956,470712120170001,School,Rochelle Twp High School,Rochelle Twp HSD 212,Rochelle,Ogle,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,471.3,474.0,47.0,30.3,18.4,4.3
+3958,470712200260001,School,Oregon High School,Oregon CUSD 220,Oregon,Ogle,UNIT,MEDIUM,HIGH SCHOOL,471.7,457.5,48.1,32.1,18.5,1.2
+3962,470712210260004,School,Forreston Jr/Sr High Sch,Forrestville Valley CUSD 221,Forreston,Ogle,UNIT,MEDIUM,HIGH SCHOOL,480.2,476.4,42.9,32.1,23.2,1.8
+3966,470712220260004,School,Polo Comm High School,Polo CUSD 222,Polo,Ogle,UNIT,MEDIUM,HIGH SCHOOL,473.4,461.7,46.3,36.6,17.1,0.0
+3970,470712230260003,School,Stillman Valley High School,Meridian CUSD 223,Stillman Valley,Ogle,UNIT,MEDIUM,HIGH SCHOOL,511.4,491.1,33.3,36.8,27.2,2.6
+3975,470712260260001,School,Byron High School 9-12,Byron CUSD 226,Byron,Ogle,UNIT,MEDIUM,HIGH SCHOOL,522.6,507.3,29.2,34.9,30.2,5.7
+3987,470980010260001,School,Erie High School,Erie CUSD 1,Erie,Whiteside,UNIT,MEDIUM,HIGH SCHOOL,508.6,493.6,32.2,37.3,28.8,1.7
+3991,470980020260001,School,Fulton High School,River Bend CUSD 2,Fulton,Whiteside,UNIT,MEDIUM,HIGH SCHOOL,519.3,491.8,33.8,35.3,25.0,5.9
+3996,470980030260001,School,Prophetstown High School,Prophetstown-Lyndon-Tampico CU,Prophetstown,Whiteside,UNIT,MEDIUM,HIGH SCHOOL,484.8,448.3,57.1,31.0,11.9,0.0
+4001,470980050260014,School,Sterling High School,Sterling CUSD 5,Sterling,Whiteside,UNIT,LARGE,HIGH SCHOOL,490.3,465.7,46.2,32.8,19.0,2.1
+4008,470980060260001,School,Morrison High School,Morrison CUSD 6,Morrison,Whiteside,UNIT,MEDIUM,HIGH SCHOOL,499.6,484.4,30.7,45.3,22.7,1.3
+4022,470983010170001,School,Rock Falls Township High Schoo,Rock Falls Twp HSD 301,Rock Falls,Whiteside,HIGH SCHOOL,SMALL,HIGH SCHOOL,484.9,464.9,43.1,35.4,18.8,2.8
+4038,480721500250023,School,Manual High School,Peoria SD 150,Peoria,Peoria,UNIT,LARGE,HIGH SCHOOL,402.4,384.7,87.2,11.9,0.9,0.0
+4039,480721500250024,School,Peoria High School,Peoria SD 150,Peoria,Peoria,UNIT,LARGE,HIGH SCHOOL,411.6,401.0,79.7,15.6,4.2,0.5
+4040,480721500250025,School,Richwoods High School,Peoria SD 150,Peoria,Peoria,UNIT,LARGE,HIGH SCHOOL,496.8,487.3,38.3,32.0,24.3,5.3
+4041,480721500250028,School,Diploma Degree North Campus,Peoria SD 150,Peoria,Peoria,UNIT,LARGE,HIGH SCHOOL,549.5,513.3,23.8,38.1,28.6,9.5
+4065,480722650260001,School,Farmington Central High Sch,Farmington Central CUSD 265,Farmington,Peoria,UNIT,MEDIUM,HIGH SCHOOL,466.4,473.1,37.1,47.1,15.7,0.0
+4069,480723090260003,School,Brimfield High School,Brimfield CUSD 309,Brimfield,Peoria,UNIT,MEDIUM,HIGH SCHOOL,505.7,525.3,17.6,43.1,37.3,2.0
+4072,480723100160001,School,Limestone Community High Schoo,Limestone CHSD 310,Peoria,Peoria,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,472.3,453.2,52.5,33.3,12.6,1.6
+4076,480723210260007,School,Il Valley Central High School,Il Valley Central USD 321,Chillicothe,Peoria,UNIT,LARGE,HIGH SCHOOL,507.4,490.9,40.0,30.0,22.9,7.1
+4083,480723220260004,School,Elmwood High School,Elmwood CUSD 322,Elmwood,Peoria,UNIT,MEDIUM,HIGH SCHOOL,511.8,506.2,29.4,32.4,35.3,2.9
+4087,480723230260004,School,Dunlap High School,Dunlap CUSD 323,Dunlap,Peoria,UNIT,LARGE,HIGH SCHOOL,544.4,558.1,16.7,23.5,44.9,15.0
+4096,480723250260005,School,Peoria Heights High School,Peoria Heights CUSD 325,Peoria Heights,Peoria,UNIT,MEDIUM,HIGH SCHOOL,472.0,456.7,50.0,37.0,13.0,0.0
+4099,480723260260005,School,Princeville High School,Princeville CUSD 326,Princeville,Peoria,UNIT,MEDIUM,HIGH SCHOOL,499.8,522.9,17.9,37.5,41.1,3.6
+4102,480723270260008,School,Illini Bluffs High School,Illini Bluffs CUSD 327,Glasford,Peoria,UNIT,MEDIUM,HIGH SCHOOL,477.2,478.2,26.0,54.0,20.0,0.0
+4110,490810300170001,School,United Twp High School,United Twp HSD 30,East Moline,Rock Island,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,454.2,441.4,60.4,25.9,10.9,2.8
+4123,490810400220001,School,Moline Sr High School,Moline-Coal Valley CUSD 40,Moline,Rock Island,UNIT,LARGE,HIGH SCHOOL,475.5,454.5,52.4,31.2,14.5,1.9
+4138,490810410250001,School,Rock Island High School,Rock Island SD 41,Rock Island,Rock Island,UNIT,LARGE,HIGH SCHOOL,444.2,428.1,66.0,25.7,8.1,0.3
+4152,490811000260001,School,Riverdale Sr High School,Riverdale CUSD 100,Port Byron,Rock Island,UNIT,MEDIUM,HIGH SCHOOL,494.3,486.1,32.9,38.0,29.1,0.0
+4156,490812000260001,School,Sherrard High School,Sherrard CUSD 200,Sherrard,Rock Island,UNIT,MEDIUM,HIGH SCHOOL,488.1,478.5,41.9,32.3,21.5,4.3
+4162,490813000260001,School,Rockridge High School,Rockridge CUSD 300,Taylor Ridge,Rock Island,UNIT,MEDIUM,HIGH SCHOOL,504.1,511.4,22.1,37.9,36.8,3.2
+4168,500820090260003,School,Lebanon High School,Lebanon CUSD 9,Lebanon,Saint Clair,UNIT,MEDIUM,HIGH SCHOOL,488.5,431.0,65.0,30.0,5.0,0.0
+4171,500820190260001,School,Mascoutah High School,Mascoutah CUD 19,Mascoutah,Saint Clair,UNIT,LARGE,HIGH SCHOOL,532.3,511.1,26.8,33.8,32.3,7.1
+4179,500820400260001,School,Marissa Jr & Sr High School,Marissa CUSD 40,Marissa,Saint Clair,UNIT,MEDIUM,HIGH SCHOOL,462.0,454.3,54.3,25.7,14.3,5.7
+4182,500820600260003,School,New Athens High School,New Athens CUSD 60,New Athens,Saint Clair,UNIT,MEDIUM,HIGH SCHOOL,489.7,450.9,50.0,43.8,6.3,0.0
+4189,500820770160001,School,Freeburg Community High Sch,Freeburg CHSD 77,Freeburg,Saint Clair,HIGH SCHOOL,SMALL,HIGH SCHOOL,511.0,494.7,31.4,39.4,25.1,4.0
+4244,500821870260011,School,Cahokia High School,Cahokia CUSD 187,Cahokia,Saint Clair,UNIT,LARGE,HIGH SCHOOL,421.4,406.8,76.1,18.2,5.7,0.0
+4255,500821880220001,School,Lovejoy Technology Academy,Brooklyn UD 188,Lovejoy,Saint Clair,UNIT,SMALL,HIGH SCHOOL,,,,,,
+4260,500821890220043,School,East St Louis Senior High Scho,East St Louis SD 189,East Saint Louis,Saint Clair,UNIT,LARGE,HIGH SCHOOL,398.2,380.7,90.1,9.9,0.0,0.0
+4270,500821960260001,School,Dupo High School,Dupo CUSD 196,Dupo,Saint Clair,UNIT,MEDIUM,HIGH SCHOOL,450.9,447.9,55.2,31.0,13.8,0.0
+4274,500822010170001,School,Belleville High School-East,Belleville Twp HSD 201,Belleville,Saint Clair,HIGH SCHOOL,LARGE,HIGH SCHOOL,483.1,469.9,44.7,32.1,19.3,3.9
+4275,500822010170002,School,Belleville High School-West,Belleville Twp HSD 201,Belleville,Saint Clair,HIGH SCHOOL,LARGE,HIGH SCHOOL,473.4,457.3,52.0,29.2,16.1,2.7
+4277,500822030170001,School,O Fallon High School,O Fallon Twp HSD 203,O Fallon,Saint Clair,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,512.8,497.6,35.8,31.8,24.3,8.0
+4279,510652000260001,School,Greenview Jr/Sr High School,Greenview CUSD 200,Greenview,Menard,UNIT,SMALL,HIGH SCHOOL,430.9,426.4,63.6,36.4,0.0,0.0
+4282,510652020260001,School,Porta High School,Porta CUSD 202,Petersburg,Menard,UNIT,MEDIUM,HIGH SCHOOL,487.8,485.5,40.0,34.5,23.6,1.8
+4286,510652130260001,School,Athens Sr High School,Athens CUSD 213,Athens,Menard,UNIT,MEDIUM,HIGH SCHOOL,495.3,483.2,26.0,50.7,20.5,2.7
+4291,510840010260001,School,Tri-City High School,Tri City CUSD 1,Buffalo,Sangamon,UNIT,MEDIUM,HIGH SCHOOL,471.7,453.7,46.7,36.7,16.7,0.0
+4295,51084003A260001,School,Rochester High School,Rochester CUSD 3A,Rochester,Sangamon,UNIT,LARGE,HIGH SCHOOL,525.5,493.0,34.3,36.7,24.3,4.8
+4301,510840050260001,School,Glenwood High School,Ball Chatham CUSD 5,Chatham,Sangamon,UNIT,LARGE,HIGH SCHOOL,514.4,499.7,30.4,36.1,30.4,3.0
+4308,510840080260001,School,Pleasant Plains High School,Pleasant Plains CUSD 8,Pleasant Plains,Sangamon,UNIT,MEDIUM,HIGH SCHOOL,515.0,500.3,29.5,34.3,32.4,3.8
+4312,510840100260001,School,Auburn High School,Auburn CUSD 10,Auburn,Sangamon,UNIT,MEDIUM,HIGH SCHOOL,479.1,456.5,48.4,39.8,11.8,0.0
+4317,510840110260001,School,Pawnee Jr/Sr High Sch,Pawnee CUSD 11,Pawnee,Sangamon,UNIT,MEDIUM,HIGH SCHOOL,485.2,438.2,54.5,33.3,12.1,0.0
+4320,510840140260001,School,Riverton High School,Riverton CUSD 14,Riverton,Sangamon,UNIT,MEDIUM,HIGH SCHOOL,471.1,460.1,41.8,42.9,15.3,0.0
+4324,510840150260001,School,Williamsville High School,Williamsville CUSD 15,Williamsville,Sangamon,UNIT,MEDIUM,HIGH SCHOOL,505.7,479.1,33.6,43.9,19.6,2.8
+4328,510840160260001,School,New Berlin High School,New Berlin CUSD 16,New Berlin,Sangamon,UNIT,MEDIUM,HIGH SCHOOL,478.9,479.1,36.0,33.3,29.3,1.3
+4332,510841860250001,School,Lanphier High School,Springfield SD 186,Springfield,Sangamon,UNIT,LARGE,HIGH SCHOOL,438.2,424.7,65.3,25.2,8.2,1.4
+4333,510841860250002,School,Springfield High School,Springfield SD 186,Springfield,Sangamon,UNIT,LARGE,HIGH SCHOOL,537.9,528.8,25.9,28.9,35.0,10.2
+4334,510841860250003,School,Springfield Southeast High Sch,Springfield SD 186,Springfield,Sangamon,UNIT,LARGE,HIGH SCHOOL,458.4,448.5,57.5,23.6,17.3,1.6
+4364,530601260260001,School,Havana High School,Havana CUSD 126,Havana,Mason,UNIT,MEDIUM,HIGH SCHOOL,466.8,450.0,52.5,33.9,13.6,0.0
+4368,530601890260001,School,Illini Central High School,Illini Central CUSD 189,Mason City,Mason,UNIT,MEDIUM,HIGH SCHOOL,449.5,423.1,66.7,26.2,7.1,0.0
+4373,530601910260001,School,Midwest Central High School,Midwest Central CUSD 191,Manito,Mason,UNIT,MEDIUM,HIGH SCHOOL,436.8,433.0,58.0,34.1,8.0,0.0
+4419,530903030160002,School,Pekin Community High School,Pekin CSD 303,Pekin,Tazewell,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,472.4,471.3,42.9,35.0,20.0,2.2
+4421,530903080160001,School,Washington Comm High School,Washington CHSD 308,Washington,Tazewell,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,522.8,527.5,20.7,36.2,32.8,10.3
+4423,530903090160001,School,East Peoria High School,East Peoria CHSD 309,East Peoria,Tazewell,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,454.6,453.1,53.0,30.2,13.5,3.3
+4427,530907010260001,School,Dee-Mack High School,Deer Creek-Mackinaw CUSD 701,Mackinaw,Tazewell,UNIT,MEDIUM,HIGH SCHOOL,493.9,483.9,31.1,45.9,20.3,2.7
+4431,530907020260001,School,Tremont High School,Tremont CUSD 702,Tremont,Tazewell,UNIT,MEDIUM,HIGH SCHOOL,520.9,494.2,34.4,33.3,28.0,4.3
+4435,530907030260001,School,Delavan High School,Delavan CUSD 703,Delavan,Tazewell,UNIT,SMALL,HIGH SCHOOL,492.4,475.8,26.3,57.9,15.8,0.0
+4439,530907090260006,School,Morton High School,Morton CUSD 709,Morton,Tazewell,UNIT,LARGE,HIGH SCHOOL,536.5,531.6,23.4,24.2,42.6,9.8
+4450,531020060260001,School,Fieldcrest High School,Fieldcrest CUSD 6,Minonk,Woodford,UNIT,MEDIUM,HIGH SCHOOL,488.6,486.9,35.6,37.3,25.4,1.7
+4455,531020110260001,School,El Paso-Gridley High School,El Paso-Gridley CUSD 11,El Paso,Woodford,UNIT,MEDIUM,HIGH SCHOOL,521.6,497.1,32.3,38.4,26.3,3.0
+4460,531020210260001,School,Lowpoint-Washburn Jr Sr High S,Lowpoint-Washburn CUSD 21,Washburn,Woodford,UNIT,SMALL,HIGH SCHOOL,420.7,421.4,64.3,35.7,0.0,0.0
+4463,531020600260001,School,Roanoke-Benson High School,Roanoke Benson CUSD 60,Roanoke,Woodford,UNIT,MEDIUM,HIGH SCHOOL,510.3,496.8,34.2,28.9,31.6,5.3
+4470,531021220170001,School,Metamora High School,County of Woodford School,Metamora,Woodford,HIGH SCHOOL,MEDIUM,HIGH SCHOOL,522.1,526.6,24.3,28.0,38.3,9.5
+4472,531021400260001,School,Eureka High School,Eureka CUD 140,Eureka,Woodford,UNIT,MEDIUM,HIGH SCHOOL,539.3,537.4,15.2,33.3,45.5,6.1
+4481,540920020260004,School,Westville High School,Westville CUSD 2,Westville,Vermilion,UNIT,MEDIUM,HIGH SCHOOL,445.4,418.9,68.9,24.4,6.7,0.0
+4485,540920040260004,School,Georgetown-Ridge Farm High Sch,Georgetown-Ridge Farm CUD 4,Georgetown,Vermilion,UNIT,MEDIUM,HIGH SCHOOL,443.5,451.0,49.0,39.2,11.8,0.0
+4493,540920110260005,School,Hoopeston Area High School,Hoopeston Area CUSD 11,Hoopeston,Vermilion,UNIT,MEDIUM,HIGH SCHOOL,458.4,453.9,54.2,26.5,19.3,0.0
+4500,540920760260001,School,Oakwood High School,Oakwood CUSD 76,Fithian,Vermilion,UNIT,MEDIUM,HIGH SCHOOL,461.1,464.8,44.4,38.1,17.5,0.0
+4504,540921180240022,School,Danville High School,Danville CCSD 118,Danville,Vermilion,UNIT,LARGE,HIGH SCHOOL,434.9,415.7,71.0,24.2,4.4,0.4
+4515,540922250170001,School,Armstrong High School,Armstrong Twp HSD 225,Armstrong,Vermilion,HIGH SCHOOL,SMALL,HIGH SCHOOL,474.3,447.1,53.6,39.3,7.1,0.0
+4517,540925120260001,School,Salt Fork High School,Salt Fork Community Unit Distr,Catlin,Vermilion,UNIT,MEDIUM,HIGH SCHOOL,461.5,441.5,53.2,40.4,6.4,0.0
+4522,540928000800001,School,Bismarck Henning Rossville Alv,Bismarck Henning Rossville Alv,Bismarck,Vermilion,HIGH SCHOOL,,HIGH SCHOOL,480.6,476.8,34.5,51.2,13.1,1.2
+4619,56099200U260001,School,Beecher High School,Beecher CUSD 200U,Beecher,Will,UNIT,MEDIUM,HIGH SCHOOL,506.1,466.4,43.0,39.0,16.0,2.0
+4623,56099201U260001,School,Crete-Monee High School,Crete Monee CUSD 201U,Crete,Will,UNIT,LARGE,HIGH SCHOOL,448.7,426.2,65.5,25.9,7.9,0.6
+4632,560992020220001,School,Plainfield High School,Plainfield SD 202,Plainfield,Will,UNIT,LARGE,HIGH SCHOOL,492.4,485.5,38.6,35.7,20.1,5.7
+4633,560992020220002,School,Plainfield South High School,Plainfield SD 202,Plainfield,Will,UNIT,LARGE,HIGH SCHOOL,481.4,473.2,41.7,35.9,19.7,2.7
+4634,560992020220003,School,Plainfield North High School,Plainfield SD 202,Plainfield,Will,UNIT,LARGE,HIGH SCHOOL,522.6,523.5,24.5,33.3,32.5,9.7
+4635,560992020220004,School,Plainfield East High School,Plainfield SD 202,Plainfield,Will,UNIT,LARGE,HIGH SCHOOL,516.7,512.3,29.3,33.6,28.6,8.5
+4664,560992040170001,School,Joliet Central High School,Joliet Twp HSD 204,Joliet,Will,HIGH SCHOOL,LARGE,HIGH SCHOOL,450.7,437.6,60.9,28.4,10.0,0.7
+4665,560992040170003,School,Joliet West High School,Joliet Twp HSD 204,Joliet,Will,HIGH SCHOOL,LARGE,HIGH SCHOOL,476.6,465.0,45.4,35.2,17.6,1.8
+4667,560992050170001,School,Lockport Township High Sch Eas,Lockport Twp HSD 205,Lockport,Will,HIGH SCHOOL,LARGE,HIGH SCHOOL,511.0,502.9,30.2,34.8,28.5,6.4
+4669,56099207U260001,School,Peotone High School,Peotone CUSD 207U,Peotone,Will,UNIT,MEDIUM,HIGH SCHOOL,496.4,477.3,41.1,34.7,22.6,1.6
+4675,56099209U260001,School,Wilmington High School,Wilmington CUSD 209U,Wilmington,Will,UNIT,MEDIUM,HIGH SCHOOL,481.9,469.3,40.0,37.9,20.0,2.1
+4680,560992100160001,School,Lincoln-Way Central High Schoo,Lincoln Way CHSD 210,New Lenox,Will,HIGH SCHOOL,LARGE,HIGH SCHOOL,539.4,533.0,20.6,33.8,34.4,11.1
+4681,560992100160002,School,Lincoln-Way East High School,Lincoln Way CHSD 210,Frankfort,Will,HIGH SCHOOL,LARGE,HIGH SCHOOL,547.3,529.5,23.7,29.3,36.1,10.9
+4682,560992100160004,School,Lincoln Way West,Lincoln Way CHSD 210,New Lenox,Will,HIGH SCHOOL,LARGE,HIGH SCHOOL,526.8,520.1,24.7,35.4,31.8,8.1
+4684,56099255U260001,School,Reed-Custer High School,Reed Custer CUSD 255U,Braidwood,Will,UNIT,MEDIUM,HIGH SCHOOL,465.6,453.7,52.3,33.0,11.9,2.8
+4688,56099365U260007,School,Bolingbrook High School,Valley View CUSD 365U,Bolingbrook,Will,UNIT,LARGE,HIGH SCHOOL,493.5,482.2,37.0,37.7,21.4,3.9
+4689,56099365U260008,School,Romeoville High School,Valley View CUSD 365U,Romeoville,Will,UNIT,LARGE,HIGH SCHOOL,486.7,467.3,47.1,31.7,17.9,3.3
+4709,601054280303014,School,Illinois Youth Ctr - St Charle,IDJJ Sch Dist 428,Saint Charles,Dept Of Corrections,UNIT,,HIGH SCHOOL,,,,,,
+4710,601054280303019,School,Illinois Youth Center-Warrenvi,IDJJ Sch Dist 428,Naperville,Dept Of Corrections,UNIT,,HIGH SCHOOL,,,,,,
+4711,601054280303028,School,School District 428 IYC-HRB,IDJJ Sch Dist 428,Harrisburg,Dept Of Corrections,UNIT,,HIGH SCHOOL,,,,,,
+4714,651089010800001,School,University High School,ISU  Laboratory Schools,Normal,State Of Illinois,UNIT,,HIGH SCHOOL,580.9,580.9,6.8,32.0,36.7,24.5
+4717,651089020800001,School,University of Illinois High Sc,University of Ill Lab School,Urbana,State Of Illinois,HIGH SCHOOL,,HIGH SCHOOL,,,,,,
+4719,651089030800001,School,Illinois Mathematics and Scien,Illinois Mathematics & Science,Aurora,State Of Illinois,HIGH SCHOOL,,HIGH SCHOOL,,,,,,
