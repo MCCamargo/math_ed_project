@@ -1,0 +1,302 @@
+,School Name,Grades,District Name,Math: % Met Readiness Benchmark,English: % Met Readiness Benchmark,Reading: % Met Readiness Benchmark,Science: % Met Readiness Benchmark,% Met Readiness Benchmark in all Four Subjects, School Enrollment ,School % FRL,School % White,School % Hispanic,School % Black,School % Other Races,School Overall % Minority,Region,Number of Students in Grade 11, Number of Students in grade 11 that took the ACT, % Students in grade 11 that took the ACT in 2015-16, Average ACT Math Score , Average ACT English Score , Average ACT Reading Score , Average ACT Science Score ,Is Open Enrollment Charter,County,School LEA,DLEA
+1,Academic Center For Excellence,5-12,Cabot School District,9%,28%,21%,13%,5%, 350 ,47%,83%,5%,1%,11%,17%,3,76,80,105%, 15.9 , 15.9 , 16.6 , 17.5 ,0,LONOKE,4304703,4304000
+2,Academies At Rivercrest High School,9-12,Rivercrest School District,14%,39%,24%,13%,6%, 346 ,71%,58%,9%,31%,3%,42%,2,81,72,89%, 16.7 , 16.1 , 17.3 , 18.5 ,0,MISSISSIPPI,4706703,4706000
+3,Acorn High School,7-12,Ouachita River School District,2%,46%,31%,21%,2%, 267 ,61%,93%,3%,0%,4%,7%,4,48,48,100%, 15.2 , 17.3 , 17.8 , 18.2 ,0,POLK,5706002,5706000
+4,Adventure Online Academy,K-12,Waldron School District,N<10,N<10,N<10,N<10,N<10, 33 ,61%,82%,9%,3%,6%,18%,1,10,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,SCOTT,6401703,6401000
+5,Agee Lierly Life Preparation Services School,9-12,Fayetteville School District,4%,28%,19%,11%,2%, 254 ,52%,39%,26%,17%,19%,61%,1,100,47,47%, 15.0 , 14.3 , 16.0 , 16.0 ,0,WASHINGTON,7203029,7203000
+6,Alma High School,9-12,Alma School District,18%,49%,33%,25%,13%, 978 ,45%,83%,5%,1%,10%,17%,1,283,252,89%, 17.8 , 17.7 , 19.1 , 19.3 ,0,CRAWFORD,1701002,1701000
+7,Alpena High School,7-12,Alpena School District,7%,21%,21%,7%,7%, 208 ,67%,93%,4%,3%,0%,7%,1,39,14,36%, 17.1 , 15.0 , 17.9 , 18.4 ,0,BOONE,0501002,0501000
+8,Ark. School For The Blind High School,7-12,Ark. School For The Blind,N<10,N<10,N<10,N<10,N<10, 37 ,38%,65%,3%,22%,11%,35%,3,4,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,PULASKI,6091002,6091000
+9,Arkadelphia High School,9-12,Arkadelphia School District,14%,52%,32%,27%,12%, 574 ,55%,49%,9%,36%,6%,51%,4,145,113,78%, 17.1 , 18.1 , 18.9 , 19.4 ,0,CLARK,1002010,1002000
+10,Arkansas Arts Academy High School,7-12,Arkansas Arts Academy,19%,55%,59%,34%,15%, 448 ,38%,73%,17%,1%,9%,27%,1,74,65,88%, 17.7 , 19.7 , 23.5 , 19.8 ,1,BENTON,0440703,0440700
+11,Arkansas Connections Academy High,K-12,Arkansas Connections Academy,7%,47%,33%,19%,6%," 3,804 ",31%,70%,8%,14%,9%,30%,1,549,138,25%, 16.0 , 17.7 , 19.0 , 18.2 ,1,BENTON,0444703,0444700
+12,Arkansas Consolidated High School-Alexander,5-12,Division Of Youth Services School System,RV,RV,RV,RV,RV, 123 ,92%,34%,2%,59%,4%,66%,3,18,12,67%, 13.3 , 11.3 , 12.1 , 14.5 ,0,PULASKI,6094001,6094000
+13,Arkansas Consolidated High School-Dermott,9-12,Division Of Youth Services School System,N<10,N<10,N<10,N<10,N<10, 25 ,92%,48%,8%,44%,0%,52%,3,8,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,PULASKI,6094002,6094000
+14,Arkansas Consolidated High School-Harrisburg,7-12,Division Of Youth Services School System,N<10,N<10,N<10,N<10,N<10, 32 ,84%,47%,6%,44%,3%,53%,3,0,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,PULASKI,6094006,6094000
+15,Arkansas Consolidated High School-Mansfield,7-12,Division Of Youth Services School System,N<10,N<10,N<10,N<10,N<10, 39 ,79%,46%,3%,49%,3%,54%,3,2,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,PULASKI,6094005,6094000
+16,Arkansas High School,9-12,Texarkana School District,10%,42%,21%,14%,5%," 1,108 ",59%,32%,7%,56%,6%,68%,4,283,220,78%, 15.8 , 16.6 , 16.9 , 17.3 ,0,MILLER,4605026,4605000
+17,Arkansas Virtual Academy High School,9-12,Arkansas Virtual Academy,10%,52%,42%,19%,5%," 1,872 ",52%,70%,7%,17%,6%,30%,3,489,67,14%, 17.0 , 18.5 , 20.9 , 18.9 ,1,PULASKI,6043703,6043700
+18,Armorel High School,7-12,Armorel School District,18%,46%,36%,29%,18%, 197 ,50%,86%,5%,7%,3%,14%,2,31,28,90%, 17.9 , 17.6 , 19.1 , 20.0 ,0,MISSISSIPPI,4701002,4701000
+19,Ashdown High School,9-12,Ashdown School District,6%,39%,13%,7%,3%, 396 ,68%,63%,6%,25%,6%,37%,4,97,91,94%, 15.7 , 15.9 , 16.3 , 17.5 ,0,LITTLE RIVER,4101004,4101000
+20,Atkins High School,9-12,Atkins School District,21%,61%,40%,30%,9%, 335 ,66%,93%,2%,1%,3%,7%,1,78,43,55%, 18.5 , 18.6 , 19.3 , 19.7 ,0,POPE,5801002,5801000
+21,Augusta High School,7-12,Augusta School District,RV,14%,11%,7%,RV, 151 ,85%,37%,1%,56%,6%,63%,2,29,28,97%, 14.9 , 13.0 , 15.5 , 15.4 ,0,WOODRUFF,7401003,7401000
+22,Bald Knob High School,9-12,Bald Knob School District,13%,43%,28%,15%,5%, 336 ,55%,89%,5%,1%,5%,11%,2,83,40,48%, 17.2 , 16.8 , 18.4 , 17.8 ,0,WHITE,7301003,7301000
+23,Barton High School,7-12,Barton-Lexa School District,6%,18%,9%,9%,3%, 308 ,85%,54%,4%,40%,3%,46%,5,39,34,87%, 15.9 , 14.1 , 14.5 , 17.3 ,0,PHILLIPS,5401003,5401000
+24,Batesville High School Charter,9-12,Batesville School District,21%,45%,35%,29%,14%, 997 ,46%,60%,29%,5%,6%,40%,2,235,161,69%, 18.2 , 17.8 , 19.5 , 19.4 ,0,INDEPENDENCE,3201703,3201000
+25,Bauxite High School,9-12,Bauxite School District,10%,30%,21%,17%,7%, 549 ,30%,89%,6%,3%,2%,11%,3,144,138,96%, 16.5 , 15.3 , 17.2 , 17.5 ,0,SALINE,6301002,6301000
+26,Bay High School,7-12,Bay School District,10%,52%,31%,14%,3%, 229 ,49%,94%,2%,3%,0%,6%,2,33,29,88%, 16.6 , 17.8 , 18.2 , 18.8 ,0,CRAIGHEAD,1601002,1601000
+27,Bearden High School,7-12,Bearden School District,6%,31%,17%,17%,6%, 231 ,71%,57%,4%,30%,9%,43%,4,40,36,90%, 16.2 , 16.4 , 18.0 , 17.4 ,0,OUACHITA,5201002,5201000
+28,Beebe High School,9-12,Beebe School District,22%,51%,26%,24%,10%," 1,055 ",46%,82%,9%,4%,5%,18%,2,278,228,82%, 18.3 , 18.1 , 18.7 , 19.0 ,0,WHITE,7302010,7302000
+29,Belle Point Alternative Center,6-12,Fort Smith School District,N<10,N<10,N<10,N<10,N<10, 73 ,75%,37%,22%,23%,18%,63%,1,12,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,SEBASTIAN,6601005,6601000
+30,Benton High School,10-12,Benton School District,36%,63%,45%,38%,25%," 1,298 ",33%,72%,12%,9%,7%,28%,3,472,405,86%, 20.0 , 20.2 , 20.7 , 20.9 ,0,SALINE,6302012,6302000
+31,Bentonville High School,9-12,Bentonville School District,45%,77%,58%,47%,34%," 3,424 ",13%,74%,11%,2%,13%,26%,1,836,789,94%, 21.2 , 22.4 , 22.6 , 21.8 ,0,BENTON,0401003,0401000
+32,Bentonville West High School,9-12,Bentonville School District,33%,60%,40%,31%,21%," 2,522 ",20%,65%,17%,5%,13%,35%,1,639,591,92%, 19.5 , 19.3 , 20.0 , 20.1 ,0,BENTON,0401019,0401000
+33,Bergman High School,9-12,Bergman School District,19%,51%,30%,22%,13%, 276 ,52%,92%,5%,0%,2%,8%,1,71,67,94%, 17.7 , 19.0 , 19.2 , 19.0 ,0,BOONE,0502007,0502000
+34,Berryville High School,9-12,Berryville School District,9%,41%,33%,18%,6%, 553 ,69%,59%,31%,1%,9%,41%,1,130,117,90%, 16.6 , 16.7 , 18.0 , 17.9 ,0,CARROLL,0801002,0801000
+35,Bigelow High School,7-12,East End School District,5%,38%,22%,8%,5%, 308 ,60%,82%,11%,3%,4%,18%,1,53,37,70%, 16.4 , 16.5 , 17.8 , 18.1 ,0,PERRY,5301002,5301000
+36,Bismarck High School,9-12,Bismarck School District,33%,71%,43%,35%,24%, 318 ,66%,90%,7%,1%,3%,10%,3,75,63,84%, 19.6 , 21.0 , 20.8 , 20.9 ,0,HOT SPRING,3001003,3001000
+37,Blevins High School,7-12,Blevins School District,RV,37%,19%,22%,RV, 196 ,88%,67%,10%,17%,5%,33%,4,29,27,93%, 16.0 , 16.9 , 18.0 , 18.3 ,0,HEMPSTEAD,2901002,2901000
+38,Blytheville High School,9-12,Blytheville School District,2%,8%,5%,3%,RV, 411 ,74%,10%,5%,84%,1%,90%,2,104,66,63%, 13.6 , 12.3 , 13.9 , 15.2 ,0,MISSISSIPPI,4702014,4702000
+39,Booneville High School,10-12,Booneville School District,16%,50%,29%,19%,7%, 266 ,67%,86%,7%,0%,7%,14%,1,72,58,81%, 17.1 , 17.7 , 18.7 , 18.9 ,0,LOGAN,4201002,4201000
+40,Bradford High School,7-12,Bradford School District,9%,30%,17%,9%,9%, 200 ,81%,96%,1%,3%,1%,4%,2,35,23,66%, 16.3 , 15.1 , 16.2 , 16.9 ,0,WHITE,7303015,7303000
+41,Bradley High School,7-12,Emerson-Taylor-Bradley School District,5%,29%,5%,10%,RV, 144 ,71%,67%,1%,31%,1%,33%,4,23,21,91%, 15.5 , 14.5 , 17.1 , 16.3 ,0,COLUMBIA,1408007,1408000
+42,Brinkley High School,7-12,Brinkley School District,RV,25%,21%,8%,RV, 167 ,75%,26%,1%,69%,4%,74%,5,26,24,92%, 14.6 , 14.8 , 15.6 , 15.3 ,0,MONROE,4801003,4801000
+43,Brookland High School,10-12,Brookland School District,10%,50%,35%,20%,8%, 630 ,28%,89%,5%,4%,2%,11%,2,193,160,83%, 16.8 , 18.0 , 19.6 , 18.6 ,0,CRAIGHEAD,1603007,1603000
+44,Bryant High School,10-12,Bryant School District,25%,53%,37%,25%,18%," 2,290 ",39%,54%,18%,23%,5%,46%,3,800,694,87%, 18.3 , 18.6 , 19.2 , 19.2 ,0,SALINE,6303022,6303000
+45,Buffalo Island Central High School,7-12,Buffalo Is. Central School District,9%,46%,26%,11%,3%, 325 ,55%,78%,19%,1%,2%,22%,2,44,35,80%, 17.2 , 17.3 , 18.3 , 16.9 ,0,CRAIGHEAD,1605065,1605000
+46,Cabot High School,10-12,Cabot School District,31%,65%,42%,37%,20%," 2,187 ",38%,82%,8%,3%,7%,18%,3,754,688,91%, 19.4 , 20.0 , 20.3 , 20.6 ,0,LONOKE,4304005,4304000
+47,Caddo Academy,7-12,Caddo Hills School District,2%,36%,26%,7%,2%, 254 ,82%,78%,17%,0%,5%,22%,4,51,42,82%, 16.3 , 16.0 , 17.5 , 17.5 ,0,MONTGOMERY,4901703,4901000
+48,Calico Rock High School,7-12,Calico Rock School District,9%,32%,27%,14%,9%, 185 ,61%,97%,2%,0%,1%,3%,2,27,22,81%, 15.7 , 16.0 , 18.1 , 17.5 ,0,IZARD,3301002,3301000
+49,Camden Fairview High School,9-12,Camden Fairview School District,RV,12%,6%,2%,RV, 693 ,70%,28%,2%,63%,6%,72%,4,194,165,85%, 14.0 , 12.4 , 14.2 , 15.0 ,0,OUACHITA,5204023,5204000
+50,Carlisle High School,7-12,Carlisle School District,3%,23%,21%,23%,3%, 281 ,58%,81%,7%,8%,4%,19%,3,43,39,91%, 16.2 , 14.9 , 17.6 , 17.6 ,0,LONOKE,4303013,4303000
+51,Cave City High Career & Collegiate Preparatory School,9-12,Cave City School District,13%,38%,22%,18%,8%, 359 ,75%,92%,4%,2%,2%,8%,2,97,79,81%, 17.1 , 17.1 , 17.9 , 18.5 ,0,SHARP,6802703,6802000
+52,Cedar Ridge High School,6-12,Cedar Ridge School District,8%,34%,18%,16%,5%, 359 ,68%,91%,5%,2%,2%,9%,2,59,38,64%, 16.8 , 16.3 , 16.9 , 17.6 ,0,INDEPENDENCE,3212027,3212000
+53,Cedarville High School,9-12,Cedarville School District,13%,31%,24%,18%,8%, 243 ,69%,86%,4%,0%,10%,14%,1,68,62,91%, 17.1 , 15.1 , 17.7 , 18.0 ,0,CRAWFORD,1702009,1702000
+54,Centerpoint Academy Of Agriculture & Skilled Trade,11-12,Centerpoint School District,N<10,N<10,N<10,N<10,N<10, 18 ,67%,100%,0%,0%,0%,0%,4,9,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,PIKE,5502703,5502000
+55,Centerpoint High School,6-12,Centerpoint School District,9%,56%,29%,25%,3%, 523 ,69%,75%,23%,1%,1%,25%,4,72,68,94%, 16.8 , 18.2 , 19.1 , 19.5 ,0,PIKE,5502013,5502000
+56,Central High School,7-12,Helena/ West Helena School District,RV,12%,6%,RV,RV, 436 ,96%,2%,0%,96%,2%,98%,5,71,65,92%, 13.9 , 12.8 , 14.4 , 14.3 ,0,PHILLIPS,5403019,5403000
+57,Central High School,9-12,Little Rock School District,28%,52%,41%,30%,22%," 2,260 ",54%,29%,9%,49%,13%,71%,3,566,453,80%, 18.7 , 18.7 , 20.6 , 19.5 ,0,PULASKI,6001001,6001000
+58,Charleston High School,7-12,Charleston School District,24%,68%,35%,22%,14%, 418 ,47%,89%,5%,0%,5%,11%,1,59,37,63%, 18.6 , 18.8 , 19.7 , 20.0 ,0,FRANKLIN,2402007,2402000
+59,Clarendon High School,7-12,Clarendon School District,3%,24%,12%,3%,RV, 194 ,91%,30%,8%,51%,11%,70%,5,36,34,94%, 15.0 , 13.4 , 15.4 , 15.6 ,0,MONROE,4802010,4802000
+60,Clarksville High School,10-12,Clarksville School District,12%,52%,27%,17%,10%, 576 ,67%,51%,36%,1%,11%,49%,1,192,147,77%, 16.7 , 18.1 , 18.8 , 18.1 ,0,JOHNSON,3601005,3601000
+61,Clinton High School,9-12,Clinton School District,24%,48%,36%,30%,17%, 418 ,62%,92%,5%,1%,2%,8%,1,102,83,81%, 18.1 , 17.1 , 19.8 , 19.4 ,0,VAN BUREN,7102006,7102000
+62,Concord High School,7-12,Concord School District,13%,50%,28%,6%,RV, 184 ,51%,96%,4%,1%,0%,4%,2,32,32,100%, 16.4 , 17.1 , 18.2 , 17.8 ,0,CLEBURNE,1201002,1201000
+63,Conway High School,10-12,Conway School District,26%,51%,37%,33%,17%," 2,248 ",46%,53%,13%,28%,6%,47%,3,766,598,78%, 18.8 , 18.5 , 19.8 , 19.7 ,0,FAULKNER,2301006,2301000
+64,Corning High School,9-12,Corning School District,9%,39%,30%,24%,9%, 225 ,65%,92%,3%,1%,3%,8%,2,53,33,62%, 16.5 , 16.9 , 18.2 , 17.8 ,0,CLAY,1101004,1101000
+65,Cossatot River High School,7-12,Cossatot River School District,14%,53%,28%,19%,5%, 385 ,72%,62%,30%,0%,8%,38%,4,61,58,95%, 17.5 , 17.8 , 18.6 , 18.9 ,0,POLK,5707023,5707000
+66,Cotter High School,7-12,Cotter School District,17%,50%,40%,27%,14%, 324 ,65%,94%,3%,1%,2%,6%,1,54,52,96%, 17.6 , 18.2 , 19.2 , 19.5 ,0,BAXTER,0302007,0302000
+67,County Line High School,7-12,County Line School District,13%,44%,26%,35%,9%, 242 ,68%,87%,2%,2%,10%,13%,1,31,23,74%, 18.0 , 16.7 , 18.0 , 19.8 ,0,FRANKLIN,2403012,2403000
+68,Cross Cnty High A New Tech School,7-12,Cross County School District,5%,41%,21%,10%,2%, 312 ,72%,84%,3%,12%,1%,16%,2,52,42,81%, 16.0 , 16.0 , 17.8 , 17.7 ,0,CROSS,1901703,1901000
+69,Crossett High School,9-12,Crossett School District,3%,16%,15%,6%,2%, 483 ,49%,58%,4%,35%,2%,42%,5,114,95,83%, 15.2 , 13.9 , 16.2 , 15.8 ,0,ASHLEY,0201006,0201000
+70,Cutter-Morning Star High School,7-12,Cutter-Morning Star School District,4%,48%,30%,8%,2%, 316 ,69%,72%,13%,4%,12%,28%,3,59,50,85%, 16.1 , 16.5 , 18.4 , 17.3 ,0,GARLAND,2601002,2601000
+71,Danville High School,9-12,Danville School District,7%,41%,21%,14%,7%, 234 ,73%,44%,52%,1%,3%,56%,1,63,58,92%, 16.2 , 16.8 , 16.8 , 18.1 ,0,YELL,7503006,7503000
+72,Dardanelle High School,9-12,Dardanelle School District,37%,74%,52%,41%,19%, 666 ,67%,53%,40%,3%,4%,47%,1,179,81,45%, 20.6 , 20.9 , 21.4 , 22.0 ,0,YELL,7504011,7504000
+73,Decatur High School,9-12,Decatur School District,7%,24%,21%,10%,RV, 175 ,71%,41%,44%,2%,14%,59%,1,40,29,73%, 15.6 , 14.6 , 15.8 , 16.1 ,0,BENTON,0402009,0402000
+74,Deer K-12 School,K-12,Deer/Mt. Judea School District,N<10,N<10,N<10,N<10,N<10, 166 ,68%,86%,4%,1%,9%,14%,1,13,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,NEWTON,5106003,5106000
+75,DeQueen High School,10-12,DeQueen School District,9%,35%,17%,11%,6%, 522 ,71%,29%,63%,2%,6%,71%,4,182,175,96%, 16.5 , 16.3 , 16.9 , 17.3 ,0,SEVIER,6701003,6701000
+76,Dermott High School,7-12,Dermott School District,RV,23%,8%,RV,RV, 144 ,94%,1%,3%,96%,0%,99%,5,15,13,87%, 13.3 , 12.5 , 13.9 , 15.4 ,0,CHICOT,0901003,0901000
+77,Des Arc High School,7-12,Des Arc School District,20%,49%,27%,15%,7%, 264 ,70%,86%,5%,8%,1%,14%,5,44,41,93%, 18.4 , 17.4 , 18.2 , 17.3 ,0,PRAIRIE,5901002,5901000
+78,DeWitt High School,9-12,DeWitt School District,22%,44%,33%,28%,13%, 350 ,57%,74%,5%,15%,5%,26%,5,101,82,81%, 18.1 , 16.9 , 19.0 , 19.9 ,0,ARKANSAS,0101004,0101000
+79,Dierks High School,7-12,Dierks School District,11%,22%,28%,11%,6%, 239 ,75%,88%,10%,0%,1%,12%,4,35,36,103%, 16.7 , 15.1 , 17.7 , 18.0 ,0,HOWARD,3102002,3102000
+80,Don Tyson School Of Innovation,K-12,Springdale School District,26%,62%,42%,35%,19%," 2,022 ",61%,42%,48%,2%,9%,58%,1,285,255,89%, 18.7 , 19.8 , 20.5 , 20.3 ,0,WASHINGTON,7207703,7207000
+81,Dover High School,9-12,Dover School District,18%,51%,33%,26%,13%, 400 ,48%,92%,3%,2%,4%,8%,1,121,108,89%, 17.3 , 18.3 , 18.3 , 19.2 ,0,POPE,5802006,5802000
+82,Drew Central High School,9-12,Drew Central School District,6%,25%,19%,14%,3%, 326 ,65%,68%,6%,22%,4%,32%,5,69,65,94%, 16.4 , 15.2 , 17.0 , 17.3 ,0,DREW,2202005,2202000
+83,Driven Virtual Academy,K-12,Pulaski County Special School District,13%,33%,20%,13%,13%, 218 ,40%,41%,8%,42%,9%,59%,3,23,15,65%, 16.1 , 16.0 , 17.5 , 17.9 ,0,PULASKI,6003703,6003000
+84,Dumas High School,9-12,Dumas School District,8%,18%,3%,3%,RV, 310 ,74%,13%,16%,67%,4%,87%,5,69,62,90%, 15.1 , 13.3 , 14.9 , 15.6 ,0,DESHA,2104021,2104000
+85,Earle High School,7-12,Earle School District,4%,8%,4%,4%,RV, 186 ,94%,1%,1%,94%,4%,99%,2,28,24,86%, 13.5 , 11.7 , 13.4 , 16.3 ,0,CRITTENDEN,1802007,1802000
+86,East Poinsett Co. High School,7-12,East Poinsett Co. School District,9%,34%,26%,11%,6%, 274 ,77%,71%,8%,15%,6%,29%,2,35,35,100%, 16.3 , 16.6 , 18.0 , 17.0 ,0,POINSETT,5608037,5608000
+87,El Dorado High School,9-12,El Dorado School District,17%,41%,27%,23%,11%," 1,220 ",58%,36%,12%,46%,6%,64%,4,328,280,85%, 17.1 , 17.1 , 18.2 , 18.8 ,0,UNION,7001012,7001000
+88,Elkins High School,9-12,Elkins School District,16%,45%,32%,24%,10%, 435 ,39%,82%,7%,2%,9%,18%,1,107,71,66%, 17.4 , 17.0 , 19.1 , 19.2 ,0,WASHINGTON,7201002,7201000
+89,Emerson High School,7-12,Emerson-Taylor-Bradley School District,4%,42%,23%,4%,4%, 149 ,50%,66%,5%,25%,4%,34%,4,28,26,93%, 16.2 , 16.5 , 18.2 , 18.0 ,0,COLUMBIA,1408002,1408000
+90,England High School,7-12,England School District,16%,28%,22%,13%,6%, 279 ,75%,49%,8%,36%,7%,51%,3,40,32,80%, 16.5 , 15.3 , 15.5 , 17.2 ,0,LONOKE,4302018,4302000
+91,ESTEM High School,10-12,ESTEM Public Charter School,19%,47%,29%,25%,16%, 561 ,57%,19%,11%,63%,7%,81%,3,191,178,93%, 17.9 , 18.1 , 18.8 , 19.5 ,1,PULASKI,6047703,6047700
+92,Eureka Springs High School,9-12,Eureka Springs School District,38%,64%,48%,30%,24%, 220 ,60%,86%,10%,2%,2%,14%,1,56,50,89%, 19.8 , 20.0 , 21.6 , 21.0 ,0,CARROLL,0802007,0802000
+93,Farmington High School,10-12,Farmington School District,13%,47%,37%,24%,11%, 679 ,28%,77%,11%,3%,9%,23%,1,226,196,87%, 17.4 , 17.8 , 20.1 , 19.1 ,0,WASHINGTON,7202012,7202000
+94,Fayetteville High School,9-12,Fayetteville School District,35%,62%,51%,39%,28%," 2,599 ",30%,62%,14%,11%,13%,38%,1,617,533,86%, 19.7 , 20.5 , 22.3 , 20.9 ,0,WASHINGTON,7203020,7203000
+95,Fayetteville Virtual Academy A District Conversion Charter School,K-12,Fayetteville School District,33%,60%,53%,47%,33%, 129 ,9%,88%,2%,5%,5%,12%,1,20,15,75%, 18.6 , 21.1 , 24.7 , 21.5 ,0,WASHINGTON,7203703,7203000
+96,Flippin High School,9-12,Flippin School District,17%,41%,29%,22%,10%, 242 ,69%,91%,3%,1%,6%,10%,1,74,69,93%, 17.0 , 16.9 , 17.9 , 18.4 ,0,MARION,4501002,4501000
+97,Fordyce High School,7-12,Fordyce School District,2%,20%,6%,6%,RV, 354 ,45%,37%,5%,57%,1%,63%,4,57,51,89%, 15.3 , 14.0 , 15.6 , 15.7 ,0,DALLAS,2002007,2002000
+98,Foreman High School,7-12,Foreman School District,9%,23%,18%,9%,9%, 221 ,68%,75%,10%,10%,5%,25%,4,28,22,79%, 16.2 , 14.5 , 15.9 , 15.9 ,0,LITTLE RIVER,4102010,4102000
+99,Forrest City High School,9-12,Forrest City School District,2%,11%,5%,3%,2%, 568 ,73%,4%,2%,94%,1%,96%,2,163,134,82%, 14.6 , 12.3 , 13.7 , 14.9 ,0,ST FRANCIS,6201011,6201000
+100,Fort Smith Virtual Academy,K-12,Fort Smith School District,N<10,N<10,N<10,N<10,N<10, 133 ,71%,45%,22%,8%,25%,55%,1,15,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,SEBASTIAN,6601703,6601000
+101,Fouke High School,9-12,Fouke School District,5%,39%,16%,8%,4%, 335 ,61%,96%,2%,0%,1%,4%,4,100,101,101%, 16.5 , 16.5 , 17.6 , 17.3 ,0,MILLER,4603010,4603000
+102,Fountain Lake Charter High School,9-12,Fountain Lake School District,23%,53%,26%,29%,11%, 359 ,41%,84%,9%,1%,6%,16%,3,83,73,88%, 18.7 , 18.1 , 18.6 , 19.9 ,0,GARLAND,2602703,2602000
+103,Future School Of Fort Smith,9-12,Future School Of Fort Smith,2%,28%,17%,5%,RV, 219 ,73%,54%,20%,13%,13%,46%,1,67,60,90%, 14.5 , 15.2 , 15.7 , 15.6 ,1,SEBASTIAN,6640703,6640700
+104,Genoa Central High School,10-12,Genoa Central School District,27%,39%,25%,21%,12%, 263 ,27%,96%,2%,0%,2%,4%,4,108,97,90%, 19.1 , 16.8 , 18.6 , 18.8 ,0,MILLER,4602006,4602000
+105,Gentry High School,9-12,Gentry School District,16%,49%,31%,31%,11%, 538 ,52%,61%,21%,0%,18%,39%,1,119,74,62%, 17.5 , 17.8 , 19.2 , 19.7 ,0,BENTON,0403017,0403000
+106,Glen Rose High School,9-12,Glen Rose School District,22%,46%,35%,19%,11%, 301 ,41%,88%,6%,0%,6%,12%,3,70,54,77%, 18.4 , 18.2 , 19.6 , 19.8 ,0,HOT SPRING,3002009,3002000
+107,Gosnell High School,7-12,Gosnell School District,16%,44%,28%,21%,15%, 606 ,73%,59%,9%,27%,5%,41%,2,91,61,67%, 17.1 , 18.7 , 18.6 , 19.2 ,0,MISSISSIPPI,4708031,4708000
+108,Gravette High School,9-12,Gravette School District,30%,65%,46%,38%,25%, 625 ,34%,82%,7%,1%,10%,18%,1,146,132,90%, 19.3 , 19.6 , 20.8 , 20.7 ,0,BENTON,0404022,0404000
+109,Green Forest High School,9-12,Green Forest School District,6%,20%,12%,10%,4%, 434 ,74%,38%,48%,0%,14%,62%,1,119,82,69%, 15.6 , 14.7 , 16.7 , 16.0 ,0,CARROLL,0803012,0803000
+110,Greenbrier High School,10-12,Greenbrier School District,32%,66%,45%,39%,25%, 814 ,33%,90%,4%,2%,3%,10%,3,298,283,95%, 19.4 , 20.0 , 20.7 , 21.0 ,0,FAULKNER,2303017,2303000
+111,Greene Cty Tech High School,10-12,Greene County Tech School District,14%,38%,30%,21%,10%, 807 ,40%,91%,4%,2%,3%,9%,2,250,214,86%, 17.2 , 16.5 , 18.7 , 18.4 ,0,GREENE,2807008,2807000
+112,Greenland High School,9-12,Greenland School District,12%,47%,21%,21%,9%, 249 ,68%,86%,8%,0%,6%,14%,1,74,43,58%, 16.7 , 17.1 , 17.9 , 18.9 ,0,WASHINGTON,7204028,7204000
+113,Greenwood High School,9-12,Greenwood School District,41%,70%,53%,44%,30%," 1,181 ",24%,81%,6%,1%,12%,19%,1,302,271,90%, 20.8 , 21.2 , 21.7 , 21.7 ,0,SEBASTIAN,6602043,6602000
+114,Gurdon High School,7-12,Gurdon School District,5%,24%,19%,10%,5%, 251 ,76%,49%,22%,26%,3%,51%,4,48,21,44%, 15.5 , 15.4 , 16.9 , 16.4 ,0,CLARK,1003018,1003000
+115,Guy-Perkins High School,7-12,Guy-Perkins School District,19%,39%,23%,35%,8%, 150 ,65%,85%,2%,10%,3%,15%,3,32,26,81%, 16.9 , 15.5 , 18.2 , 18.9 ,0,FAULKNER,2304022,2304000
+116,Haas Hall Academy,7-12,Haas Hall Academy,76%,93%,76%,76%,59%, 499 ,9%,63%,9%,3%,24%,37%,1,72,54,75%, 24.8 , 27.4 , 25.8 , 25.3 ,1,WASHINGTON,7240703,7240700
+117,Haas Hall Academy At The Lane,7-12,Haas Hall Academy,49%,80%,67%,51%,39%, 256 ,13%,63%,20%,2%,16%,38%,1,47,39,83%, 21.6 , 24.0 , 24.1 , 22.8 ,1,WASHINGTON,7240709,7240700
+118,Haas Hall Academy Fort Smith,7-12,Haas Hall Academy,N<10,N<10,N<10,N<10,N<10, 67 ,12%,55%,9%,4%,31%,45%,1,7,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,1,SEBASTIAN,7240715,7240700
+119,Haas Hall Academy Jones Center,7-12,Haas Hall Academy,58%,77%,58%,50%,31%, 157 ,25%,46%,41%,1%,12%,54%,1,28,26,93%, 22.3 , 22.6 , 23.1 , 22.3 ,1,WASHINGTON,7240706,7240700
+120,Haas Hall Bentonville,7-12,Haas Hall Academy,64%,89%,76%,69%,58%, 443 ,2%,47%,8%,5%,40%,53%,1,58,45,78%, 25.2 , 27.1 , 27.4 , 25.4 ,1,WASHINGTON,7240712,7240700
+121,Hackett High School,7-12,Hackett School District,8%,68%,41%,22%,8%, 327 ,64%,87%,5%,0%,8%,13%,1,66,37,56%, 17.3 , 19.8 , 19.9 , 18.9 ,0,SEBASTIAN,6603048,6603000
+122,Hamburg High School,9-12,Hamburg School District,13%,35%,25%,13%,8%, 511 ,60%,56%,23%,20%,2%,44%,5,139,134,96%, 16.6 , 15.4 , 17.1 , 17.4 ,0,ASHLEY,0203018,0203000
+123,Hampton High School,7-12,Hampton School District,13%,44%,22%,9%,4%, 256 ,71%,67%,5%,27%,0%,33%,4,48,23,48%, 15.9 , 16.2 , 16.5 , 16.9 ,0,CALHOUN,0701002,0701000
+124,Har-Ber High School,10-12,Springdale School District,21%,49%,30%,23%,14%," 2,306 ",60%,40%,45%,3%,12%,60%,1,763,642,84%, 17.7 , 18.3 , 18.6 , 19.1 ,0,WASHINGTON,7207062,7207000
+125,Harmony Grove High School,7-12,Harmony Grove School District (Ouachita),5%,36%,23%,16%,2%, 421 ,37%,78%,5%,14%,4%,22%,4,68,64,94%, 16.2 , 16.1 , 18.1 , 18.3 ,0,OUACHITA,5205029,5205000
+126,Harmony Grove High School,10-12,Harmony Grove School District (Saline),13%,46%,33%,27%,6%, 306 ,26%,89%,5%,3%,3%,11%,3,101,90,89%, 17.7 , 17.7 , 18.5 , 18.7 ,0,SALINE,6304030,6304000
+127,Harrisburg High School,6-12,Harrisburg School District,5%,37%,26%,11%,3%, 523 ,70%,89%,6%,3%,2%,11%,2,79,65,82%, 16.4 , 15.8 , 17.5 , 17.4 ,0,POINSETT,5602009,5602000
+128,Harrison High School,9-12,Harrison School District,26%,61%,39%,27%,18%, 841 ,45%,90%,5%,0%,4%,10%,1,224,202,90%, 18.5 , 19.3 , 20.6 , 19.7 ,0,BOONE,0503019,0503000
+129,Hazen High School,7-12,Hazen School District,10%,46%,18%,13%,5%, 252 ,67%,81%,2%,14%,2%,19%,5,47,39,83%, 17.3 , 17.1 , 17.9 , 18.1 ,0,PRAIRIE,5903012,5903000
+130,Heber Springs High School,9-12,Heber Springs School District,32%,69%,46%,29%,20%, 478 ,33%,90%,6%,0%,3%,10%,2,122,96,79%, 19.7 , 20.6 , 20.0 , 20.2 ,0,CLEBURNE,1202006,1202000
+131,Hector High School,7-12,Hector School District,9%,33%,27%,18%,9%, 324 ,72%,94%,4%,0%,2%,6%,1,54,33,61%, 16.2 , 16.8 , 17.5 , 19.6 ,0,POPE,5803010,5803000
+132,Hermitage High School,7-12,Hermitage School District,5%,24%,7%,2%,2%, 202 ,69%,59%,27%,14%,0%,41%,5,43,41,95%, 15.8 , 14.6 , 15.0 , 16.7 ,0,BRADLEY,0601007,0601000
+133,Highland High School,9-12,Highland School District,20%,44%,26%,23%,9%, 515 ,70%,94%,4%,1%,2%,6%,2,113,90,80%, 18.1 , 17.5 , 18.4 , 19.1 ,0,SHARP,6804010,6804000
+134,Hillcrest High School,7-12,Hillcrest School District,16%,48%,28%,20%,12%, 181 ,80%,96%,3%,0%,1%,4%,2,29,25,86%, 16.6 , 18.5 , 18.8 , 18.3 ,0,LAWRENCE,3809023,3809000
+135,Hope High School,9-12,Hope School District,8%,26%,16%,10%,5%, 606 ,73%,24%,36%,38%,2%,76%,4,155,131,85%, 15.2 , 14.5 , 16.1 , 16.9 ,0,HEMPSTEAD,2903012,2903000
+136,Horatio High School,7-12,Horatio School District,12%,29%,14%,17%,7%, 328 ,80%,66%,28%,2%,4%,34%,4,55,42,76%, 17.4 , 15.6 , 17.5 , 18.9 ,0,SEVIER,6703013,6703000
+137,Hot Springs World Class High School,10-12,Hot Springs School District,5%,31%,20%,16%,4%, 767 ,73%,32%,24%,33%,11%,68%,3,269,213,79%, 15.7 , 15.8 , 16.9 , 17.6 ,0,GARLAND,2603703,2603000
+138,Hoxie High School,7-12,Hoxie School District,16%,50%,22%,19%,5%, 345 ,67%,93%,2%,1%,3%,7%,2,69,58,84%, 17.0 , 17.6 , 17.3 , 18.1 ,0,LAWRENCE,3804010,3804000
+139,Huntsville High School,9-12,Huntsville School District,17%,45%,23%,17%,7%, 604 ,65%,79%,12%,1%,8%,21%,1,171,110,64%, 16.9 , 16.4 , 18.0 , 18.4 ,0,MADISON,4401003,4401000
+140,Izard Co. Cons. High School,9-12,Izard County Consolidated School District,20%,36%,34%,22%,16%, 191 ,72%,96%,2%,1%,1%,4%,2,59,50,85%, 17.3 , 17.1 , 18.9 , 17.8 ,0,IZARD,3306015,3306000
+141,Jacksonville High School,9-12,Jacksonville North Pulaski School District,3%,18%,15%,7%,1%," 1,165 ",57%,27%,9%,58%,6%,73%,3,276,207,75%, 15.3 , 13.7 , 15.8 , 16.4 ,0,PULASKI,6004009,6004000
+142,Jacksonville Lighthouse College Prep Academy High,9-12,Jacksonville Lighthouse Charter,8%,33%,17%,17%,8%, 78 ,71%,10%,4%,79%,6%,90%,3,13,12,92%, 14.3 , 15.2 , 16.7 , 16.4 ,1,PULASKI,6050703,6050700
+143,Jasper High School,7-12,Jasper School District,RV,38%,20%,5%,RV, 204 ,63%,99%,0%,0%,0%,1%,1,43,40,93%, 15.6 , 16.1 , 17.6 , 17.3 ,0,NEWTON,5102006,5102000
+144,Jessieville High School,9-12,Jessieville School District,34%,57%,43%,36%,21%, 259 ,66%,79%,8%,2%,12%,21%,3,64,44,69%, 18.7 , 19.7 , 19.8 , 20.1 ,0,GARLAND,2604030,2604000
+145,Joe T. Robinson High School,9-12,Pulaski County Special School District,20%,48%,33%,23%,15%, 845 ,25%,50%,9%,34%,8%,50%,3,189,168,89%, 17.5 , 17.8 , 19.0 , 18.8 ,0,PULASKI,6003127,6003000
+146,Junction City High School,7-12,Junction City School District,5%,40%,26%,14%,2%, 310 ,67%,53%,2%,44%,1%,47%,4,51,43,84%, 15.3 , 17.1 , 17.8 , 17.6 ,0,UNION,7003028,7003000
+147,Kingston High School,7-12,Jasper School District,7%,27%,27%,20%,7%, 100 ,55%,87%,3%,0%,10%,13%,1,15,15,100%, 15.5 , 14.8 , 17.2 , 17.9 ,0,NEWTON,5102008,5102000
+148,KIPP Blytheville Collegiate High School,7-12,KIPP Delta Public Schools,RV,14%,7%,RV,RV, 133 ,86%,10%,7%,81%,2%,90%,5,18,14,78%, 15.1 , 14.3 , 15.1 , 14.7 ,1,PHILLIPS,5440706,5440700
+149,KIPP Delta Collegiate High School,9-12,KIPP Delta Public Schools,5%,9%,RV,RV,RV, 201 ,89%,4%,1%,95%,0%,96%,5,57,44,77%, 13.3 , 11.4 , 13.2 , 15.3 ,1,PHILLIPS,5440703,5440700
+150,Kirby High School,7-12,Kirby School District,4%,18%,21%,11%,4%, 199 ,70%,82%,14%,1%,4%,18%,4,36,28,78%, 15.3 , 14.0 , 16.3 , 15.7 ,0,PIKE,5503011,5503000
+151,Lafayette County High School,7-12,Lafayette County School District,RV,9%,9%,RV,RV, 236 ,92%,26%,6%,63%,5%,74%,4,37,23,62%, 14.3 , 11.9 , 13.8 , 14.9 ,0,LAFAYETTE,3704013,3704000
+152,Lake Hamilton High School,10-12,Lake Hamilton School District,25%,59%,37%,29%,17%, 901 ,61%,74%,14%,3%,9%,26%,3,312,223,71%, 18.5 , 19.5 , 19.6 , 19.7 ,0,GARLAND,2605034,2605000
+153,Lakeside High School,9-12,Lakeside School District (Chicot),3%,21%,9%,9%,RV, 268 ,78%,7%,15%,76%,2%,93%,5,65,58,89%, 14.9 , 13.0 , 15.1 , 16.3 ,0,CHICOT,0903018,0903000
+154,Lakeside High School,9-12,Lakeside School District (Garland),22%,65%,45%,30%,14%," 1,114 ",40%,71%,13%,8%,8%,29%,3,268,242,90%, 18.4 , 19.9 , 21.2 , 20.1 ,0,GARLAND,2606044,2606000
+155,Lamar High School,9-12,Lamar School District,37%,49%,34%,29%,19%, 360 ,70%,87%,8%,2%,4%,13%,1,93,65,70%, 19.9 , 17.8 , 18.7 , 19.9 ,0,JOHNSON,3604019,3604000
+156,Lavaca High School,9-12,Lavaca School District,18%,50%,35%,19%,13%, 268 ,45%,81%,9%,0%,10%,19%,1,71,68,96%, 17.5 , 17.7 , 18.9 , 18.5 ,0,SEBASTIAN,6605057,6605000
+157,Lead Hill High School,7-12,Lead Hill School District,5%,50%,35%,10%,5%, 178 ,72%,93%,2%,0%,6%,7%,1,32,20,63%, 15.9 , 17.8 , 18.7 , 18.2 ,0,BOONE,0506032,0506000
+158,Lee High School,7-12,Lee County School District,RV,7%,4%,RV,RV, 279 ,87%,7%,5%,87%,1%,93%,5,48,45,94%, 13.9 , 11.8 , 13.5 , 14.2 ,0,LEE,3904011,3904000
+159,Lincoln High School,9-12,Lincoln School District,12%,49%,40%,23%,12%, 359 ,64%,75%,13%,1%,10%,25%,1,99,57,58%, 17.0 , 17.7 , 19.4 , 19.2 ,0,WASHINGTON,7205706,7205000
+160,Lisa Academy Arkansas Hybrid School,K-12,Lisa Academy,6%,28%,33%,6%,6%, 251 ,48%,26%,12%,48%,14%,74%,3,19,18,95%, 14.9 , 15.1 , 16.8 , 16.9 ,1,PULASKI,6041709,6041700
+161,Lisa Academy North High School,9-12,Lisa Academy,28%,49%,44%,32%,21%, 288 ,59%,25%,28%,37%,10%,75%,3,64,57,89%, 19.5 , 17.9 , 19.1 , 18.9 ,1,PULASKI,6041706,6041700
+162,Lisa Academy West High  School,9-12,Lisa Academy,20%,42%,25%,20%,14%, 386 ,73%,11%,41%,40%,7%,89%,3,82,79,96%, 17.5 , 16.8 , 17.6 , 18.3 ,1,PULASKI,6041703,6041700
+163,Little Rock Hall Steam Magnet High School,9-12,Little Rock School District,9%,27%,21%,11%,2%, 305 ,77%,9%,10%,80%,2%,91%,3,87,44,51%, 15.6 , 15.0 , 16.2 , 16.3 ,0,PULASKI,6001083,6001000
+164,Little Rock Southwest High School,9-12,Little Rock School District,3%,16%,9%,3%,1%," 2,163 ",81%,5%,34%,60%,2%,95%,3,506,340,67%, 14.4 , 12.9 , 14.4 , 15.8 ,0,PULASKI,6001082,6001000
+165,Little Rock West High School Of Innovation,9-12,Little Rock School District,9%,21%,19%,8%,2%, 270 ,63%,32%,9%,56%,4%,68%,3,76,67,88%, 15.5 , 14.6 , 16.2 , 15.6 ,0,PULASKI,6001081,6001000
+166,Lonoke High School,9-12,Lonoke School District,5%,28%,22%,14%,1%, 493 ,59%,59%,10%,27%,3%,41%,3,130,96,74%, 16.1 , 15.6 , 17.1 , 17.8 ,0,LONOKE,4301029,4301000
+167,Magazine High School,7-12,Magazine School District,25%,41%,38%,34%,19%, 203 ,70%,93%,2%,0%,4%,7%,1,36,32,89%, 18.3 , 17.4 , 19.9 , 19.0 ,0,LOGAN,4202008,4202000
+168,Magnet Cove High School,7-12,Magnet Cove School District,23%,65%,36%,32%,13%, 311 ,47%,92%,1%,1%,6%,8%,3,40,31,78%, 18.8 , 19.2 , 19.9 , 20.7 ,0,HOT SPRING,3003014,3003000
+169,Magnolia High School,9-12,Magnolia School District,12%,31%,21%,17%,9%, 807 ,71%,35%,7%,54%,4%,65%,4,201,173,86%, 16.8 , 15.7 , 17.5 , 17.9 ,0,COLUMBIA,1402009,1402000
+170,Malvern High School,9-12,Malvern School District,17%,42%,20%,18%,10%, 575 ,74%,45%,12%,32%,11%,55%,3,150,114,76%, 17.3 , 17.1 , 17.3 , 18.3 ,0,HOT SPRING,3004023,3004000
+171,Mammoth Spring High School,7-12,Mammoth Spring School District,10%,43%,38%,14%,5%, 220 ,72%,96%,1%,0%,2%,4%,2,41,21,51%, 16.9 , 16.6 , 19.1 , 16.7 ,0,FULTON,2501002,2501000
+172,Manila High School,7-12,Manila School District,9%,29%,29%,10%,4%, 493 ,52%,97%,3%,0%,0%,3%,2,81,70,86%, 16.4 , 15.6 , 16.8 , 17.1 ,0,MISSISSIPPI,4712044,4712000
+173,Mansfield High School,9-12,Mansfield School District,5%,43%,19%,12%,5%, 225 ,70%,84%,4%,2%,10%,16%,1,58,42,72%, 16.0 , 17.0 , 18.1 , 18.1 ,0,SEBASTIAN,6606062,6606000
+174,Marion High School,10-12,Marion School District,7%,31%,16%,8%,3%, 904 ,81%,32%,6%,57%,4%,68%,2,310,277,89%, 15.6 , 15.1 , 16.6 , 16.4 ,0,CRITTENDEN,1804015,1804000
+175,Marked Tree High School,7-12,Marked Tree School District,6%,16%,22%,6%,RV, 220 ,70%,57%,5%,38%,0%,43%,2,39,32,82%, 15.3 , 13.8 , 16.2 , 15.8 ,0,POINSETT,5604017,5604000
+176,Marmaduke High School,7-12,Marmaduke School District,12%,58%,39%,24%,9%, 281 ,55%,96%,2%,0%,1%,4%,2,43,33,77%, 17.5 , 17.3 , 19.5 , 19.2 ,0,GREENE,2803017,2803000
+177,Marshall High School,7-12,Searcy County School District,22%,55%,33%,28%,10%, 361 ,70%,91%,4%,1%,4%,9%,1,57,51,89%, 18.4 , 19.3 , 19.1 , 19.2 ,0,SEARCY,6502006,6502000
+178,Marvell-Elaine High School,7-12,Marvell-Elaine School District,RV,6%,6%,6%,RV, 100 ,96%,9%,6%,83%,2%,91%,5,17,16,94%, 14.8 , 12.9 , 13.9 , 15.8 ,0,PHILLIPS,5404032,5404000
+179,Maumelle Charter High School,8-12,Academics Plus Public Charter Schools,38%,75%,57%,42%,25%, 506 ,18%,74%,5%,13%,9%,26%,3,87,81,93%, 19.9 , 21.7 , 22.0 , 21.4 ,1,PULASKI,6040703,6040700
+180,Maumelle High School,9-12,Pulaski County Special School District,10%,37%,23%,17%,8%, 844 ,41%,34%,7%,51%,8%,66%,3,208,190,91%, 16.2 , 16.0 , 17.7 , 18.0 ,0,PULASKI,6003151,6003000
+181,Mayflower High School,9-12,Mayflower School District,4%,31%,22%,12%,4%, 345 ,56%,76%,4%,11%,10%,24%,3,95,74,78%, 15.7 , 15.0 , 17.4 , 16.9 ,0,FAULKNER,2305026,2305000
+182,Maynard High School,7-12,Maynard School District,4%,32%,18%,14%,4%, 251 ,70%,93%,5%,0%,2%,7%,2,33,28,85%, 15.9 , 14.7 , 16.7 , 17.7 ,0,RANDOLPH,6102006,6102000
+183,McCrory High School,7-12,McCrory School District,22%,60%,38%,32%,19%, 248 ,58%,87%,3%,10%,0%,13%,2,42,37,88%, 18.0 , 19.1 , 19.7 , 19.8 ,0,WOODRUFF,7403013,7403000
+184,McGehee High School,9-12,McGehee School District,5%,24%,15%,9%,3%, 324 ,69%,42%,8%,47%,4%,58%,5,84,67,80%, 16.1 , 14.6 , 16.1 , 16.2 ,0,DESHA,2105028,2105000
+185,Melbourne High School,7-12,Melbourne School District,39%,78%,59%,50%,28%, 370 ,51%,96%,2%,0%,2%,4%,2,70,64,91%, 19.8 , 22.0 , 22.2 , 22.3 ,0,IZARD,3302006,3302000
+186,Mena High School,9-12,Mena School District,21%,38%,30%,19%,13%, 493 ,56%,85%,7%,1%,7%,15%,4,126,112,89%, 18.2 , 16.8 , 18.1 , 18.8 ,0,POLK,5703012,5703000
+187,Midland High School,7-12,Midland School District,3%,23%,20%,17%,3%, 240 ,60%,94%,3%,1%,1%,6%,2,39,35,90%, 15.6 , 14.2 , 16.6 , 17.2 ,0,INDEPENDENCE,3211035,3211000
+188,Mills University Studies High School,9-12,Pulaski County Special School District,5%,24%,20%,13%,5%, 671 ,58%,14%,22%,60%,5%,86%,3,141,120,85%, 15.2 , 14.5 , 16.2 , 16.9 ,0,PULASKI,6003125,6003000
+189,Mineral Springs High School,7-12,Mineral Springs School District,RV,13%,7%,3%,RV, 195 ,87%,13%,12%,73%,2%,87%,4,36,31,86%, 14.6 , 13.6 , 15.0 , 15.5 ,0,HOWARD,3104006,3104000
+190,Monticello High School,9-12,Monticello School District,10%,30%,23%,13%,4%, 506 ,49%,55%,5%,39%,2%,45%,5,130,115,88%, 16.5 , 15.3 , 17.3 , 17.7 ,0,DREW,2203012,2203000
+191,Morrilton Sr. High School,9-12,South Conway County School District,21%,58%,33%,23%,12%, 719 ,68%,66%,10%,19%,5%,34%,1,163,130,80%, 17.9 , 18.6 , 18.8 , 19.2 ,0,CONWAY,1507036,1507000
+192,Mount Ida High School,7-12,Mount Ida School District,21%,52%,27%,12%,9%, 203 ,62%,87%,5%,0%,7%,13%,4,45,33,73%, 17.6 , 17.1 , 19.2 , 18.5 ,0,MONTGOMERY,4902007,4902000
+193,Mountain Home Career Academies,8-12,Mountain Home School District,24%,59%,38%,34%,16%," 1,517 ",38%,91%,4%,0%,5%,9%,1,300,239,80%, 18.6 , 19.0 , 20.1 , 20.4 ,0,BAXTER,0303703,0303000
+194,Mountain Pine High School,7-12,Mountain Pine School District,2%,33%,23%,16%,RV, 294 ,80%,79%,5%,9%,7%,21%,3,53,43,81%, 15.5 , 15.4 , 16.8 , 17.7 ,0,GARLAND,2607047,2607000
+195,Mountain View High School,9-12,Mountain View School District,10%,45%,32%,14%,8%, 329 ,63%,94%,2%,0%,3%,6%,2,73,62,85%, 16.2 , 17.5 , 19.1 , 18.0 ,0,STONE,6901007,6901000
+196,Mountainburg High School,9-12,Mountainburg School District,5%,40%,26%,16%,3%, 185 ,68%,91%,4%,1%,5%,9%,1,43,38,88%, 15.7 , 16.1 , 18.9 , 17.4 ,0,CRAWFORD,1703013,1703000
+197,Mt. Judea K-12 School,K-12,Deer/Mt. Judea School District,RV,15%,8%,RV,RV, 166 ,79%,92%,4%,0%,4%,8%,1,15,13,87%, 14.2 , 13.6 , 14.2 , 16.5 ,0,NEWTON,5106004,5106000
+198,Mt. Vernon/Enola High School,7-12,Mt. Vernon/Enola School District,26%,58%,45%,36%,23%, 250 ,70%,95%,1%,3%,1%,5%,3,35,31,89%, 19.5 , 18.8 , 19.7 , 19.9 ,0,FAULKNER,2306030,2306000
+199,Mulberry High School,9-12,Mulberry/Pleasant View Bi-County Schools,23%,46%,39%,23%,15%, 117 ,56%,92%,3%,0%,5%,8%,1,24,13,54%, 17.4 , 17.9 , 17.6 , 17.8 ,0,CRAWFORD,1704017,1704000
+200,Murfreesboro High School,7-12,South Pike County School District,4%,44%,20%,11%,4%, 323 ,71%,81%,7%,6%,6%,19%,4,52,46,88%, 15.8 , 16.4 , 17.3 , 18.3 ,0,PIKE,5504015,5504000
+201,Nashville High School,10-12,Nashville School District,13%,40%,22%,17%,7%, 480 ,71%,52%,28%,18%,3%,48%,4,162,149,92%, 16.6 , 16.7 , 17.2 , 17.9 ,0,HOWARD,3105011,3105000
+202,Nemo Vista High School,9-12,Nemo Vista School District,27%,70%,50%,20%,13%, 129 ,49%,88%,4%,0%,9%,12%,1,30,30,100%, 18.6 , 19.1 , 19.9 , 19.4 ,0,CONWAY,1503017,1503000
+203,Nettleton High School,9-12,Nettleton School District,7%,36%,19%,15%,5%," 1,041 ",55%,28%,11%,53%,8%,72%,2,246,199,81%, 16.3 , 15.9 , 17.0 , 17.1 ,0,CRAIGHEAD,1611042,1611000
+204,Nevada High  School,7-12,Nevada School District,13%,25%,17%,4%,4%, 206 ,75%,59%,3%,34%,4%,41%,4,28,24,86%, 15.7 , 15.0 , 15.9 , 16.8 ,0,NEVADA,5008014,5008000
+205,Newport High School,6-12,Newport School District,6%,31%,19%,11%,3%, 564 ,76%,48%,9%,35%,8%,52%,2,84,64,76%, 15.9 , 15.6 , 18.0 , 17.6 ,0,JACKSON,3403013,3403000
+206,Norfork High School,7-12,Norfork School District,18%,33%,33%,18%,12%, 203 ,59%,98%,1%,0%,0%,2%,1,40,33,83%, 17.1 , 16.0 , 18.8 , 18.0 ,0,BAXTER,0304022,0304000
+207,North Little Rock Center Of Excellence,9-12,North Little Rock School District,12%,37%,24%,15%,9%, 465 ,74%,25%,16%,55%,5%,75%,3,83,67,81%, 16.5 , 16.0 , 17.3 , 18.2 ,0,PULASKI,6002703,6002000
+208,North Little Rock High School,9-12,North Little Rock School District,20%,43%,31%,21%,15%," 1,680 ",70%,24%,13%,57%,5%,76%,3,458,329,72%, 17.6 , 17.1 , 18.6 , 18.7 ,0,PULASKI,6002082,6002000
+209,Northside High School,9-12,Fort Smith School District,17%,39%,26%,18%,8%," 2,253 ",75%,21%,53%,14%,12%,79%,1,580,404,70%, 17.0 , 16.3 , 17.6 , 18.1 ,0,SEBASTIAN,6601024,6601000
+210,Northwest Arkansas Classical Academy High,7-12,Responsive Ed Solutions Northwest Ark Classical Academy,34%,69%,49%,37%,17%, 238 ,8%,76%,12%,3%,9%,24%,1,35,35,100%, 20.0 , 20.5 , 21.5 , 20.8 ,1,BENTON,0442703,0442700
+211,Oark High School,7-12,Jasper School District,RV,8%,25%,8%,RV, 70 ,79%,94%,4%,1%,0%,6%,1,17,12,71%, 15.2 , 13.3 , 17.0 , 16.0 ,0,NEWTON,5102024,5102000
+212,Oden Schools,P-12,Ouachita River School District,23%,39%,31%,23%,15%, 148 ,73%,82%,6%,0%,11%,18%,4,15,13,87%, 17.9 , 17.5 , 17.7 , 17.7 ,0,POLK,5706009,5706000
+213,Omaha High School,7-12,Omaha School District,16%,40%,20%,12%,4%, 186 ,66%,92%,3%,0%,4%,8%,1,31,25,81%, 16.8 , 16.9 , 17.4 , 18.2 ,0,BOONE,0504023,0504000
+214,Osceola High School,9-12,Osceola School District,RV,7%,RV,RV,RV, 261 ,87%,6%,3%,87%,4%,94%,2,69,61,88%, 14.9 , 12.6 , 15.2 , 15.1 ,0,MISSISSIPPI,4713051,4713000
+215,Ouachita High School,7-12,Ouachita School District,24%,36%,27%,24%,15%, 272 ,49%,93%,3%,0%,5%,7%,3,45,33,73%, 17.5 , 16.1 , 17.5 , 18.8 ,0,HOT SPRING,3005030,3005000
+216,Ozark Jr/Sr High School,8-12,Ozark School District,9%,45%,33%,20%,6%, 675 ,45%,90%,4%,1%,5%,10%,1,134,106,79%, 17.0 , 17.3 , 17.9 , 17.9 ,0,FRANKLIN,2404017,2404000
+217,Ozark Mountain High School,7-12,Ozark Mountain School District,15%,41%,26%,19%,15%, 236 ,73%,94%,3%,0%,3%,6%,1,40,27,68%, 17.0 , 17.2 , 19.1 , 18.9 ,0,SEARCY,6505021,6505000
+218,Palestine-Wheatley Senior High,7-12,Palestine-Wheatley School District,5%,36%,20%,7%,3%, 356 ,85%,87%,2%,10%,1%,13%,2,68,59,87%, 16.2 , 15.6 , 17.8 , 16.9 ,0,ST FRANCIS,6205028,6205000
+219,Pangburn High School,7-12,Pangburn School District,7%,42%,32%,24%,5%, 348 ,58%,95%,3%,0%,2%,5%,2,67,62,93%, 16.4 , 17.0 , 18.6 , 18.8 ,0,WHITE,7309039,7309000
+220,Paragould High School,9-12,Paragould School District,23%,48%,37%,28%,19%, 864 ,59%,76%,9%,7%,8%,24%,2,215,178,83%, 17.9 , 18.8 , 18.7 , 19.0 ,0,GREENE,2808043,2808000
+221,Paris High School,9-12,Paris School District,6%,30%,21%,16%,4%, 302 ,70%,84%,5%,1%,9%,16%,1,94,71,76%, 15.7 , 14.9 , 16.7 , 17.1 ,0,LOGAN,4203012,4203000
+222,Parkers Chapel High School,7-12,Parkers Chapel School District,18%,44%,24%,19%,11%, 359 ,31%,82%,4%,11%,4%,18%,4,68,62,91%, 17.3 , 17.0 , 17.9 , 17.8 ,0,UNION,7007040,7007000
+223,Parkview Magnet High School,9-12,Little Rock School District,7%,31%,21%,10%,5%," 1,063 ",70%,12%,11%,76%,2%,88%,3,233,207,89%, 15.5 , 15.3 , 17.3 , 16.7 ,0,PULASKI,6001005,6001000
+224,Pea Ridge High School,10-12,Pea Ridge School District,27%,46%,35%,30%,22%, 580 ,26%,87%,7%,2%,4%,13%,1,201,165,82%, 18.9 , 18.2 , 19.0 , 19.4 ,0,BENTON,0407027,0407000
+225,Perryville High School,7-12,Perryville School District,11%,50%,29%,16%,10%, 416 ,58%,94%,3%,0%,3%,6%,1,71,62,87%, 16.8 , 17.8 , 19.4 , 18.7 ,0,PERRY,5303011,5303000
+226,Piggott High School,7-12,Piggott School District,2%,22%,16%,4%,2%, 343 ,58%,95%,3%,1%,2%,5%,2,49,45,92%, 15.2 , 14.6 , 16.2 , 16.5 ,0,CLAY,1104018,1104000
+227,Pine Bluff High School,10-12,Pine Bluff School District,3%,19%,9%,6%,2%, 780 ,78%,2%,1%,95%,2%,98%,3,270,163,60%, 14.6 , 13.9 , 15.1 , 16.5 ,0,JEFFERSON,3505042,3505000
+228,Pocahontas High School,10-12,Pocahontas School District,18%,44%,26%,21%,14%, 384 ,53%,79%,3%,1%,17%,21%,2,137,124,91%, 17.1 , 17.1 , 17.4 , 18.0 ,0,RANDOLPH,6103010,6103000
+229,Polk County Virtual Academy,K-12,Mena School District,N<10,N<10,N<10,N<10,N<10, 15 ,27%,80%,0%,0%,20%,20%,4,4,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,POLK,5703703,5703000
+230,Pottsville High School,10-12,Pottsville School District,13%,40%,33%,27%,7%, 395 ,35%,89%,7%,2%,2%,11%,1,111,93,84%, 17.6 , 17.3 , 19.2 , 19.0 ,0,POPE,5804014,5804000
+231,Poyen High School,7-12,Poyen School District,10%,50%,18%,8%,RV, 253 ,45%,94%,3%,0%,3%,6%,3,41,40,98%, 16.6 , 16.5 , 17.5 , 17.9 ,0,GRANT,2703010,2703000
+232,Prairie Grove High School,9-12,Prairie Grove School District,16%,41%,33%,20%,10%, 595 ,29%,82%,10%,2%,6%,18%,1,147,121,82%, 17.1 , 16.6 , 19.3 , 18.5 ,0,WASHINGTON,7206703,7206000
+233,Premier High School Of Fort Smith,9-12,Premier High Schools Of Arkansas,RV,26%,RV,RV,RV, 98 ,40%,57%,18%,11%,13%,43%,3,31,19,61%, 14.8 , 13.3 , 13.7 , 14.9 ,1,PULASKI,6053706,6053700
+234,Premier High School Of Little Rock,9-12,Responsive Ed Solutions Premier High School Of Little Rock,N<10,N<10,N<10,N<10,N<10, 91 ,82%,0%,1%,99%,0%,100%,1,37,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,1,SEBASTIAN,6053703,6053700
+235,Premier High School Of North Little Rock,9-12,Responsive Ed Solutions Premier High School Of North Little Rock,N<10,N<10,N<10,N<10,N<10, 90 ,86%,7%,4%,82%,7%,93%,3,32,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,1,PULASKI,6062703,6062700
+236,Premier High School Of Texarkana,9-12,Premier High Schools Of Arkansas,8%,8%,8%,RV,RV, 68 ,68%,44%,3%,47%,6%,56%,4,18,13,72%, 14.5 , 13.2 , 13.9 , 15.5 ,1,MILLER,6053709,6053700
+237,Premier High School Online,9-12,Premier High Schools Of Arkansas,RV,9%,9%,RV,RV, 277 ,34%,30%,9%,52%,9%,70%,3,84,22,26%, 14.3 , 12.9 , 14.6 , 15.6 ,1,PULASKI,6053712,6053700
+238,Prescott High School,9-12,Prescott School District,1%,35%,14%,8%,RV, 303 ,68%,50%,8%,41%,1%,50%,4,91,86,95%, 15.3 , 15.0 , 17.1 , 17.3 ,0,NEVADA,5006024,5006000
+239,Quitman High School,9-12,Quitman School District,14%,45%,39%,20%,11%, 275 ,40%,95%,1%,1%,2%,5%,2,71,56,79%, 17.6 , 17.4 , 19.4 , 19.1 ,0,CLEBURNE,1203011,1203000
+240,Rector High School,7-12,Rector School District,12%,56%,29%,24%,9%, 252 ,66%,95%,3%,0%,2%,5%,2,36,34,94%, 16.9 , 18.5 , 18.9 , 18.0 ,0,CLAY,1106023,1106000
+241,Responsive Ed Solutions Premier High School Of Springdale,9-12,Responsive Ed Solutions Premier High School Of Springdale,7%,7%,3%,RV,RV, 73 ,32%,34%,49%,4%,12%,66%,1,25,29,116%, 14.7 , 11.8 , 13.0 , 14.9 ,1,WASHINGTON,7242703,7242700
+242,Rison High School,7-12,Cleveland County School District,18%,39%,28%,23%,12%, 345 ,51%,72%,3%,21%,4%,28%,5,62,57,92%, 17.4 , 15.9 , 17.6 , 18.3 ,0,CLEVELAND,1305010,1305000
+243,River Valley Virtual Academy,K-12,Van Buren School District,8%,39%,31%,8%,8%, 105 ,68%,86%,4%,2%,9%,14%,1,23,13,57%, 15.2 , 16.2 , 17.3 , 17.8 ,0,CRAWFORD,1705703,1705000
+244,Riverside High School,7-12,Riverside School District,19%,51%,46%,32%,19%, 353 ,46%,89%,6%,3%,2%,11%,2,42,37,88%, 17.1 , 18.1 , 19.2 , 19.8 ,0,CRAIGHEAD,1613021,1613000
+245,Riverview High School,9-12,Riverview School District,3%,20%,15%,8%,2%, 316 ,59%,66%,15%,9%,10%,34%,2,73,66,90%, 15.2 , 14.6 , 16.4 , 16.4 ,0,WHITE,7307032,7307000
+246,Rogers Heritage High School,9-12,Rogers School District,12%,34%,18%,15%,7%," 2,125 ",49%,39%,52%,2%,7%,61%,1,553,509,92%, 16.6 , 15.9 , 17.2 , 17.6 ,0,BENTON,0405052,0405000
+247,Rogers High School,9-12,Rogers School District,20%,47%,32%,26%,15%," 2,379 ",41%,42%,49%,2%,8%,58%,1,620,532,86%, 17.7 , 17.7 , 19.0 , 18.9 ,0,BENTON,0405048,0405000
+248,Rogers New Technology High School,9-12,Rogers School District,16%,54%,41%,35%,12%, 672 ,42%,40%,54%,2%,5%,60%,1,164,159,97%, 17.7 , 18.5 , 20.5 , 20.3 ,0,BENTON,0405703,0405000
+249,Rose Bud High School,7-12,Rose Bud School District,RV,18%,16%,2%,RV, 340 ,42%,92%,6%,1%,1%,8%,2,51,44,86%, 15.9 , 13.8 , 16.2 , 17.0 ,0,WHITE,7310043,7310000
+250,Rural Special High School,7-12,Mountain View School District,8%,54%,46%,39%,8%, 85 ,67%,89%,11%,0%,0%,11%,2,14,13,93%, 17.4 , 18.5 , 21.2 , 19.5 ,0,STONE,6901012,6901000
+251,Russellville High School,10-12,Russellville School District,25%,56%,42%,31%,19%," 1,284 ",56%,58%,27%,6%,9%,42%,1,438,351,80%, 18.2 , 19.1 , 20.2 , 20.0 ,0,POPE,5805024,5805000
+252,Salem High School,7-12,Salem School District,14%,61%,45%,33%,10%, 416 ,61%,93%,3%,1%,3%,7%,2,63,51,81%, 18.4 , 19.1 , 21.0 , 19.6 ,0,FULTON,2502006,2502000
+253,School For The Deaf,K-12,Ark. School For The Deaf,RV,RV,RV,RV,RV, 102 ,63%,48%,15%,29%,8%,52%,3,16,11,69%, 13.6 , 11.5 , 12.2 , 13.3 ,0,PULASKI,6092004,6092000
+254,Scott Charter School,K-12,Academics Plus Public Charter Schools,27%,46%,36%,36%,27%, 204 ,58%,41%,8%,48%,3%,59%,3,11,11,100%, 17.2 , 16.3 , 17.3 , 18.9 ,1,PULASKI,6040704,6040700
+255,Scranton High School,7-12,Scranton School District,21%,38%,33%,33%,17%, 207 ,47%,91%,2%,0%,7%,9%,1,27,24,89%, 18.0 , 18.1 , 19.9 , 19.9 ,0,LOGAN,4204019,4204000
+256,Searcy High School,9-12,Searcy School District,32%,67%,45%,38%,21%," 1,208 ",43%,67%,12%,11%,10%,33%,2,311,262,84%, 19.5 , 21.0 , 20.7 , 20.5 ,0,WHITE,7311052,7311000
+257,Sheridan High School,9-12,Sheridan School District,14%,37%,29%,16%,8%," 1,265 ",35%,86%,7%,2%,4%,14%,3,329,295,90%, 17.3 , 16.1 , 18.4 , 18.4 ,0,GRANT,2705021,2705000
+258,Shirley High School,7-12,Shirley School District,RV,25%,8%,RV,RV, 134 ,81%,94%,1%,4%,1%,6%,1,16,12,75%, 14.9 , 13.6 , 14.0 , 12.8 ,0,VAN BUREN,7104015,7104000
+259,Siloam Springs High School Conversion Charter,9-12,Siloam Springs School District,22%,42%,33%,25%,15%," 1,449 ",49%,49%,36%,1%,13%,51%,1,373,301,81%, 18.1 , 17.3 , 18.6 , 19.2 ,0,BENTON,0406703,0406000
+260,Sloan-Hendrix High School,7-12,Sloan-Hendrix School District,15%,54%,33%,26%,5%, 353 ,67%,96%,2%,1%,2%,4%,2,54,39,72%, 17.7 , 18.5 , 20.5 , 20.1 ,0,LAWRENCE,3806019,3806000
+261,Smackover High School,9-12,Smackover-Norphlet School District,1%,33%,12%,4%,RV, 314 ,36%,75%,5%,19%,1%,25%,4,85,83,98%, 14.9 , 14.9 , 16.4 , 16.3 ,0,UNION,7008045,7008000
+262,South Side High School,7-12,South Side School District (Van Buren),14%,27%,27%,11%,11%, 247 ,47%,92%,3%,1%,4%,8%,1,40,37,93%, 16.4 , 15.6 , 18.8 , 16.8 ,0,VAN BUREN,7105019,7105000
+263,Southside Charter High School,10-12,Southside School District (Independence),19%,44%,25%,20%,6%, 444 ,50%,88%,9%,1%,2%,12%,2,168,129,77%, 18.4 , 18.0 , 18.2 , 19.1 ,0,INDEPENDENCE,3209703,3209000
+264,Southside High School,9-12,Fort Smith School District,29%,59%,40%,30%,19%," 1,970 ",47%,55%,21%,6%,18%,45%,1,471,429,91%, 18.8 , 19.7 , 19.8 , 19.8 ,0,SEBASTIAN,6601025,6601000
+265,Spring Hill High School,7-12,Spring Hill School District,6%,36%,19%,11%,4%, 286 ,55%,87%,7%,0%,6%,13%,4,54,53,98%, 16.4 , 16.8 , 17.4 , 16.8 ,0,HEMPSTEAD,2906026,2906000
+266,Springdale High School,10-12,Springdale School District,17%,37%,25%,18%,12%," 2,195 ",85%,15%,58%,3%,24%,85%,1,800,320,40%, 17.3 , 16.3 , 17.2 , 17.8 ,0,WASHINGTON,7207049,7207000
+267,St. Paul High School,7-12,Huntsville School District,18%,36%,27%,18%,9%, 107 ,75%,84%,6%,1%,9%,16%,1,12,11,92%, 16.9 , 16.3 , 17.5 , 18.7 ,0,MADISON,4401012,4401000
+268,Star City High School,9-12,Star City School District,10%,22%,21%,15%,5%, 416 ,74%,67%,10%,17%,5%,33%,5,99,95,96%, 16.0 , 14.5 , 17.1 , 17.2 ,0,LINCOLN,4003016,4003000
+269,Strong-Huttig Schools,K-12,Strong-Huttig School District,RV,10%,3%,3%,RV, 309 ,94%,18%,1%,79%,2%,82%,4,31,30,97%, 14.2 , 12.3 , 13.3 , 14.0 ,0,UNION,7009050,7009000
+270,Stuttgart High School,9-12,Stuttgart School District,11%,28%,19%,15%,10%, 501 ,40%,46%,10%,41%,3%,54%,5,106,100,94%, 16.7 , 15.2 , 17.1 , 17.1 ,0,ARKANSAS,0104025,0104000
+271,Sylvan Hills High School,10-12,Pulaski County Special School District,17%,50%,30%,21%,12%," 1,090 ",40%,39%,8%,46%,7%,61%,3,355,277,78%, 17.1 , 17.8 , 18.2 , 18.4 ,0,PULASKI,6003128,6003000
+272,Taylor High School,7-12,Emerson-Taylor-Bradley School District,2%,38%,26%,24%,2%, 259 ,27%,94%,3%,0%,2%,6%,4,47,42,89%, 16.5 , 16.7 , 19.0 , 19.1 ,0,COLUMBIA,1408019,1408000
+273,The Academies At Jonesboro High School,10-12,Jonesboro School District,12%,38%,27%,19%,9%," 1,435 ",66%,35%,16%,43%,5%,65%,2,482,402,83%, 16.5 , 16.1 , 17.6 , 18.1 ,0,CRAIGHEAD,1608027,1608000
+274,The Academies Of West Memphis Charter School,10-12,West Memphis School District,6%,29%,16%,5%,3%, 944 ,72%,16%,2%,80%,1%,84%,2,319,208,65%, 15.6 , 15.3 , 16.2 , 16.3 ,0,CRITTENDEN,1803703,1803000
+275,Timbo High School,7-12,Mountain View School District,RV,35%,18%,12%,RV, 103 ,87%,93%,4%,1%,2%,7%,2,18,17,94%, 16.4 , 15.8 , 17.9 , 18.8 ,0,STONE,6901016,6901000
+276,Trumann High School,9-12,Trumann School District,10%,28%,13%,11%,7%, 453 ,70%,74%,7%,15%,4%,26%,2,100,98,98%, 15.9 , 14.8 , 16.6 , 17.3 ,0,POINSETT,5605023,5605000
+277,Tuckerman High School,8-12,Jackson Co. School District,14%,47%,37%,23%,12%, 306 ,65%,85%,3%,6%,6%,15%,2,48,43,90%, 17.1 , 19.1 , 19.1 , 17.5 ,0,JACKSON,3405025,3405000
+278,Two Rivers High School,5-12,Two Rivers School District,7%,41%,30%,24%,2%, 435 ,78%,74%,17%,0%,8%,26%,1,61,46,75%, 16.2 , 16.7 , 18.2 , 18.8 ,0,YELL,7510019,7510000
+279,Umpire K-12 School,K-12,Cossatot River School District,N<10,N<10,N<10,N<10,N<10, 92 ,77%,70%,28%,0%,2%,30%,4,5,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,0,POLK,5707024,5707000
+280,Valley Springs High School,9-12,Valley Springs School District,22%,60%,28%,25%,13%, 264 ,42%,96%,3%,0%,1%,4%,1,61,60,98%, 17.7 , 18.9 , 18.8 , 19.5 ,0,BOONE,0505027,0505000
+281,Valley View High School,10-12,Valley View School District,32%,70%,53%,46%,25%, 673 ,20%,84%,5%,4%,7%,16%,2,214,199,93%, 19.7 , 21.1 , 22.0 , 21.5 ,0,CRAIGHEAD,1612048,1612000
+282,Van Buren High School,10-12,Van Buren School District,24%,50%,31%,26%,16%," 1,228 ",50%,63%,23%,2%,12%,37%,1,395,362,92%, 18.1 , 17.7 , 18.2 , 19.0 ,0,CRAWFORD,1705027,1705000
+283,Vilonia High School,9-12,Vilonia School District,29%,55%,39%,36%,23%, 840 ,36%,92%,6%,2%,1%,8%,3,214,197,92%, 18.7 , 19.2 , 19.5 , 20.2 ,0,FAULKNER,2307034,2307000
+284,Vilonia Pathways Academy,K-12,Vilonia School District,8%,31%,10%,13%,3%, 173 ,41%,89%,7%,1%,3%,11%,3,56,39,70%, 15.9 , 15.3 , 16.0 , 17.8 ,0,FAULKNER,2307703,2307000
+285,Viola High School,7-12,Viola School District,18%,55%,27%,23%,14%, 182 ,69%,95%,2%,1%,3%,5%,2,31,22,71%, 18.4 , 17.0 , 19.4 , 19.2 ,0,FULTON,2503010,2503000
+286,Waldron High School,9-12,Waldron School District,10%,44%,18%,11%,3%, 399 ,68%,75%,16%,1%,7%,25%,1,88,62,70%, 16.6 , 17.1 , 18.0 , 18.0 ,0,SCOTT,6401003,6401000
+287,Walnut Ridge High School,7-12,Lawrence County School District,6%,51%,29%,24%,4%, 463 ,48%,86%,5%,0%,8%,14%,2,68,55,81%, 16.4 , 17.8 , 19.1 , 18.6 ,0,LAWRENCE,3810027,3810000
+288,Warren High School,9-12,Warren School District,2%,21%,9%,5%,1%, 480 ,70%,35%,26%,35%,4%,65%,5,108,87,81%, 15.5 , 13.9 , 15.7 , 16.5 ,0,BRADLEY,0602019,0602000
+289,Watson Chapel High School,9-12,Watson Chapel School District,2%,17%,10%,4%,1%, 639 ,65%,7%,3%,87%,3%,93%,3,163,153,94%, 14.4 , 13.2 , 14.7 , 15.8 ,0,JEFFERSON,3509067,3509000
+290,West Fork High School,9-12,West Fork School District,8%,45%,27%,18%,7%, 273 ,35%,85%,6%,0%,9%,15%,1,77,73,95%, 16.1 , 17.4 , 17.6 , 17.8 ,0,WASHINGTON,7208062,7208000
+291,West Little Rock Classical Academy,7-12,Responsive Ed Solutions Northwest Ark Classical Academy,N<10,N<10,N<10,N<10,N<10, 96 ,22%,45%,9%,38%,8%,55%,3,12,N<10,N<10, N<10 , N<10 , N<10 , N<10 ,1,PULASKI,0442706,0442700
+292,West Side High School,7-12,West Side School District (Cleburne),RV,47%,27%,17%,RV, 224 ,66%,97%,2%,0%,1%,3%,2,34,30,88%, 16.4 , 16.7 , 17.6 , 16.9 ,0,CLEBURNE,1204015,1204000
+293,Western Yell Co. High School,7-12,Western Yell Co. School District,4%,30%,30%,26%,RV, 151 ,91%,74%,16%,1%,10%,26%,1,25,23,92%, 15.3 , 16.6 , 18.6 , 17.6 ,0,YELL,7509033,7509000
+294,Westside High School,8-12,Westside Cons. School District (Craighead),6%,34%,21%,15%,5%, 694 ,49%,92%,3%,3%,2%,8%,2,133,125,94%, 16.2 , 15.7 , 17.6 , 17.6 ,0,CRAIGHEAD,1602055,1602000
+295,Westside High School,6-12,Westside School District (Johnson),3%,24%,15%,12%,3%, 332 ,67%,91%,6%,0%,3%,9%,1,34,33,97%, 15.3 , 14.3 , 17.0 , 17.1 ,0,JOHNSON,3606026,3606000
+296,White Co. Central High School,7-12,White Co. Central School District,22%,39%,27%,16%,8%, 331 ,57%,85%,11%,0%,4%,15%,2,51,49,96%, 17.5 , 16.5 , 17.4 , 17.8 ,0,WHITE,7304019,7304000
+297,White Hall High School,9-12,White Hall School District,9%,32%,19%,7%,3%, 975 ,49%,61%,3%,31%,5%,39%,3,217,180,83%, 16.3 , 15.3 , 17.3 , 17.1 ,0,JEFFERSON,3510076,3510000
+298,Wonderview High School,7-12,Wonderview School District,7%,39%,29%,16%,3%, 222 ,53%,94%,2%,1%,3%,6%,1,34,31,91%, 16.1 , 15.8 , 18.3 , 17.8 ,0,CONWAY,1505026,1505000
+299,Woodlawn High School,7-12,Woodlawn School District,16%,38%,22%,18%,8%, 269 ,49%,90%,6%,1%,3%,10%,5,52,50,96%, 16.9 , 16.4 , 17.6 , 18.8 ,0,CLEVELAND,1304015,1304000
+300,Wynne High School,9-12,Wynne School District,12%,49%,26%,17%,8%, 744 ,52%,68%,4%,26%,2%,32%,2,191,129,68%, 17.1 , 17.4 , 18.3 , 17.9 ,0,CROSS,1905017,1905000
+301,Yellville-Summit High School,9-12,Yellville-Summit School District,13%,46%,27%,18%,13%, 337 ,71%,95%,1%,1%,2%,5%,1,92,78,85%, 16.7 , 17.9 , 17.9 , 18.7 ,0,MARION,4502006,4502000
