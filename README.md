@@ -14,7 +14,7 @@ The notebook model_training_on_school_level_data_AR_and_MA.ipynb focuses on the 
 
 The notebook inter_year_comparison_visualization_AR_and_MA.ipynb focuses on visualizing score changes in ACT/SAT Math tests in the period 2019 - 2023, for schools located in Arkansas and Massachusetts.
 
-The notebook inter_year_comparison_models_AR_and_MA.ipynb is where we attempt to train models that predict score changes in ACT/SAT math tests in the period 2019 - 2023 for AR and MA schools. We find that neither linear nor non-linear models we train are able to adequately predict these score changes with the features that are available to us (in particular, they have a performance comparable or worse than that of the baseline model which always guesses the average target value for the training set). 
+The notebook inter_year_comparison_models_AR_and_MA.ipynb is where we attempt to train models that predict score changes in ACT/SAT math tests in the period 2019 - 2023 for AR and MA schools. We find that neither linear nor non-linear models we train are able to adequately predict these score changes with the features that are available to us in these states (in particular, they have a performance comparable or worse than that of the baseline model which always guesses the average target value for the training set). 
 
 The notebook Illinois_model_training.ipynb is one of the other main notebooks in which model training happens, both for predicting SAT/ACT performance in a single year as well as performance changes over time, for the state of Illinois. This notebook features many interesting plots, as well as Markdown explaining the goals at each stage. 
 
