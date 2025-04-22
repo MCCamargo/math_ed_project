@@ -11,3 +11,5 @@ Address_Getter.ipynb is a script which merges census data at the census tract le
 The notebooks IL_Cleaner.ipynb and school_level_data_cleaning.ipynb clean this data to be useable for model prediction.
 
 The notebook Illinois_model_training.ipynb is one of the two main notebooks in which model training happens. This notebook features many interesting plots, as well as Markdown explaining the goals at each stage. 
+
+The notebook /visualization/MappingAndVisualization contains the Dash app which allows for dynamic visualization of SAT and census data.

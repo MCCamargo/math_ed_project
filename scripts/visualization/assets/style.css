@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "SpecialGothic-Regular";
+  src: url("./SpecialGothic-Regular.ttf");
+}
+
+body {
+  font-family: "SpecialGothic-Regular";
+  background: #fff;
+}
+
+h1 {
+  font-family: "SpecialGothic-Regular";
+  background-color: #d4dadc;
+  text-align: center;
+  padding: 15px;
+}
+
+div #app-div {
+  background: #fff;
+  padding: 15px;
+  width: 1500px;
+}
+
+/* USMap */
+div #USMapContainer {
+  height: 500px;
+  position: absolute;
+  left: 23px;
+  top: 137px;
+}
+
+div #USMap {
+  background: #fff;
+  position: relative;
+  top: 36px;
+  width: 900px;
+}
+
+/* USClick */
+div #USClickContainer {
+  height: 500px;
+  position: absolute;
+  margin: 0;
+  top: 152px;
+  right: 85px;
+  width: 620px;
+}
+
+#USClickPlot {
+  position: absolute;
+  top: 95px;
+  left: 80px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Lower container */
+
+#LowLevelContainer {
+  position: absolute;
+  top: 700px;
+  width: 400px;
+  height: 500px;
+}
+
+/* StateMap */
+div #StateMapContainer {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  height: 500px;
+  width: 700px;
+}
+
+div #StateMap {
+  background: #fff;
+  position: absolute;
+  left:0;
+  width: 700px;
+}
+
+div #CountyMapContainer {
+  position: absolute;
+  top: 15px;
+  left: 720px;
+  width: 780px;
+  height: 500px;
+}
+
+div #CountyMap {
+  position: absolute;
+  left: 20px;
+  top: 150px;
+  background: #fff;
+  width: 300px;
+}
+
+div #CountyPlot {
+  position: absolute;
+  left: 330px;
+  top: 100px;
+  background: #fff;
+  width: 300px;
+}
+
+/* selection menus */
+#USMapSelection {
+  position: relative;
+  float: left;
+  width: 250px;
+  font-size: 15px;
+  z-index: 1;
+}
+
+#YearSelection {
+  position: relative;
+  float: left;
+  width: 100px;
+  font-size: 15px;
+  z-index: 1;
+}
+
+#StateMapSelection {
+  width: 150px;
+  font-size: 15px;
+  z-index: 1;
+}
+
+#XAxisSelection {
+  position: absolute;
+  right: 455px;
+  width: 250px;
+  font-size: 15px;
+  z-index: 1;
+}
+
+#YAxisSelection {
+  position: absolute;
+  right: 205px;
+  width: 250px;
+  font-size: 15px;
+  z-index: 1;
+}
+
+.modebar {
+  display: none !important;
+}
+
+.maplibregl-control-container {
+  display: none;
+}
