@@ -10,17 +10,12 @@ Address_Getter.ipynb is a script which merges census data at the census tract le
 
 The notebooks IL_Cleaner.ipynb and school_level_data_cleaning_AR_and_MA.ipynb clean this data to be useable for model prediction, for the states of Massachusetts, Arkansas and Illinois.
 
-The notebook model_training_on_school_level_data_AR_and_MA.ipynb focuses on the problem of predicting, for each state (MA and AR) and year, the outcomes of SAT/ACT Math tests, using as features demographic data at the school level which was cleaned previously using school_level_data_cleaning_AR_and_MA.ipynb. In this notebook, we train linear regression and XGBoost models, and use them to understand which features in our data are most predictive.
+The notebook **model_training_on_school_level_data_AR_and_MA.ipynb** focuses on the problem of predicting, for each state (MA and AR) and year, the outcomes of SAT/ACT Math tests, using as features demographic data at the school level which was cleaned previously using school_level_data_cleaning_AR_and_MA.ipynb. In this notebook, we train linear regression and XGBoost models, and use them to understand which features in our data are most predictive.
 
-The notebook inter_year_comparison_visualization_AR_and_MA.ipynb focuses on visualizing score changes in ACT/SAT Math tests in the period 2019 - 2023, for schools located in Arkansas and Massachusetts.
+The notebook **inter_year_comparison_visualization_AR_and_MA.ipynb** focuses on visualizing score changes in ACT/SAT Math tests in the period 2019 - 2023, for schools located in Arkansas and Massachusetts.
 
-The notebook inter_year_comparison_models_AR_and_MA.ipynb is where we attempt to train models that predict score changes in ACT/SAT math tests in the period 2019 - 2023 for AR and MA schools. We find that neither linear nor non-linear models we train are able to adequately predict these score changes with the features that are available to us in these states (in particular, they have a performance comparable or worse than that of the baseline model which always guesses the average target value for the training set). 
+The notebook **inter_year_comparison_models_AR_and_MA.ipynb** is where we attempt to train models that predict score changes in ACT/SAT math tests in the period 2019 - 2023 for AR and MA schools. We find that neither linear nor non-linear models we train are able to adequately predict these score changes with the features that are available to us in these states (in particular, they have a performance comparable or worse than that of the baseline model which always guesses the average target value for the training set). 
 
-The notebook Illinois_model_training.ipynb is one of the other main notebooks in which model training happens, both for predicting SAT/ACT performance in a single year as well as performance changes over time, for the state of Illinois. This notebook features many interesting plots, as well as Markdown explaining the goals at each stage. 
+The notebook **Illinois_model_training.ipynb** is one of the other main notebooks in which model training happens, both for predicting SAT/ACT performance in a single year as well as performance changes over time, for the state of Illinois. This notebook features many interesting plots, as well as Markdown explaining the goals at each stage. 
 
-<<<<<<< HEAD
-The notebook Illinois_model_training.ipynb is one of the two main notebooks in which model training happens. This notebook features many interesting plots, as well as Markdown explaining the goals at each stage. 
-
-The notebook /visualization/MappingAndVisualization contains the Dash app which allows for dynamic visualization of SAT and census data.
-=======
->>>>>>> 519f904ef7b723926d8dd051442d8a717ed00c0e
+The notebook **/visualization/MappingAndVisualization** contains the Dash app, which allows for dynamic visualization of SAT and census data.
